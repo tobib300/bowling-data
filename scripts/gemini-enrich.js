@@ -6,7 +6,8 @@
 const fs=require('fs');const F='balls.json';
 const KEY=process.env.GEMINI_API_KEY,MODEL=process.env.GEMINI_MODEL||'gemini-3.5-flash',MAX=+process.argv[2]||12;
 if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
-const BASE='https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
+const BASE=process.env.PRODUCT_BASE||'https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
+const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5;
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const slug=s=>s.toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const numOk=s=>typeof s==='string'&&/^\d{1,2}(\.\d+)?( \d\/\d{1,2})?$|^\d\/\d{1,2}$/.test(s.trim());
@@ -38,7 +39,8 @@ ${p.text}`;
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0;
   for(const b of j.balls){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
-    done++;let c=false;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
+    if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
+    done++;let c=false;b.checked=TODAY;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);chg++;continue}
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
     if(!b.coverstock||!b.layouts){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
       await sleep(6000);
