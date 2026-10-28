@@ -1,8 +1,8 @@
 // Ergänzt Bälle in public/balls.json mit Coverstock, Foto (img) und Hersteller-Layoutvorschlägen (layouts) per Gemini + Google-Suche.
-// Braucht GEMINI_API_KEY (kostenloser Schlüssel aus Google AI Studio). Modell per GEMINI_MODEL (Standard gemini-2.5-flash).
+// Braucht GEMINI_API_KEY (kostenloser Schlüssel aus Google AI Studio). Modell per GEMINI_MODEL (Standard gemini-flash-latest, damit abgekündigte Modelle nicht mehr 404 liefern).
 // Aufruf: node scripts/gemini-enrich.js [max=12]   Ohne Schlüssel wird übersprungen.
 const fs=require('fs');const F='balls.json';
-const KEY=process.env.GEMINI_API_KEY,MODEL=process.env.GEMINI_MODEL||'gemini-2.5-flash',MAX=+process.argv[2]||12;
+const KEY=process.env.GEMINI_API_KEY,MODEL=process.env.GEMINI_MODEL||'gemini-flash-latest',MAX=+process.argv[2]||12;
 if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const numOk=s=>typeof s==='string'&&/^\d{1,2}(\.\d+)?( \d\/\d{1,2})?$|^\d\/\d{1,2}$/.test(s.trim());
@@ -22,7 +22,7 @@ Regeln: img = direkte https-Adresse eines Produktfotos (jpg/png/webp). layouts n
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0;
   for(const b of j.balls){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
-    done++;let a;try{a=await ask(b)}catch(e){console.error('Gemini-Fehler:',e.message);if(/^(400|401|403|429)/.test(e.message))break;continue}
+    done++;let a;try{a=await ask(b)}catch(e){console.error('Gemini-Fehler:',e.message);if(/^(400|401|403|404|429)/.test(e.message))break;continue}
     await sleep(6000);if(!a)continue;let c=false;
     if(!b.coverstock&&typeof a.coverstock==='string'&&a.coverstock.length<80){b.coverstock=a.coverstock.trim();c=true}
     if(!b.img&&typeof a.img==='string'&&/^https:\/\//.test(a.img)&&await imgOk(a.img)){b.img=a.img;c=true}
