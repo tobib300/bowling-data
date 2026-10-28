@@ -1,0 +1,365 @@
+{
+ "updated": "2026-10-27",
+ "note": "Quelle: Veröffentlichte Hersteller-Neuheiten 2026. Coverstock steht nur, wenn angegeben. Eigene Bälle kannst du in der App frei eintippen.",
+ "balls": [
+  {
+   "brand": "Hammer",
+   "name": "Reckoning",
+   "release": "2026-11-19",
+   "coverstock": "HK22C2 Solid Reactive"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Blacklist",
+   "release": "2026-11-19",
+   "coverstock": "HK22 Cohesion Pearl Reactive"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "Go Time",
+   "release": "2026-11-19",
+   "coverstock": "HK22 GB 13.7 Solid Reactive"
+  },
+  {
+   "brand": "Radical",
+   "name": "Intel Recon Hybrid",
+   "release": "2026-11-19",
+   "coverstock": "HK22 Hybrid Reactive"
+  },
+  {
+   "brand": "Storm",
+   "name": "Ion Pro Pearl",
+   "release": "2026-11-06",
+   "coverstock": "NRG Pearl Reactive"
+  },
+  {
+   "brand": "Brunswick",
+   "name": "Strategy Logic",
+   "release": "2026-10-22",
+   "coverstock": "HK22C2 EVO Hybrid Reactive"
+  },
+  {
+   "brand": "Brunswick",
+   "name": "Purple Rhino Pro",
+   "release": "2026-10-22",
+   "coverstock": "Savvy Hook 4.0 Solid Reactive"
+  },
+  {
+   "brand": "Track",
+   "name": "Synthesis Prime",
+   "release": "2026-10-22",
+   "coverstock": "Prime Response Pearl (HK22C2)"
+  },
+  {
+   "brand": "DV8",
+   "name": "Outsider",
+   "release": "2026-10-22",
+   "coverstock": "HK22 Jailbreak (F7) Solid Reactive"
+  },
+  {
+   "brand": "DV8",
+   "name": "Smooth Criminal",
+   "release": "2026-10-22",
+   "coverstock": "Jailbreak (S5) Hybrid Reactive"
+  },
+  {
+   "brand": "Radical",
+   "name": "Vexed Variant",
+   "release": "2026-10-22",
+   "coverstock": "HK22C+ Solid Reactive"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Raptor Pursuit",
+   "release": "2026-10-21",
+   "coverstock": "Aerial Propulsion Pearl Reactive"
+  },
+  {
+   "brand": "Roto Grip",
+   "name": "Perfect Gem",
+   "release": "2026-10-02",
+   "coverstock": "E-R1 Solid Reactive"
+  },
+  {
+   "brand": "900 Global",
+   "name": "Portal",
+   "release": "2026-10-02",
+   "coverstock": "RB 92 Solid Reactive"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Zero Mercy Tour",
+   "release": "2026-09-17",
+   "coverstock": "C2 Tour Edition Solid Reactive"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Zero Mercy Hybrid",
+   "release": "2026-09-17",
+   "coverstock": "HK22 C2 Hybrid Reactive"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "The Great One",
+   "release": "2026-09-17",
+   "coverstock": "HK22C2 GB 15.1 Solid Reactive"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "Turbo X Pearl",
+   "release": "2026-09"
+  },
+  {
+   "brand": "Radical",
+   "name": "Guru Oracle Pearl",
+   "release": "2026-06",
+   "coverstock": "HK22C+ Pearl"
+  },
+  {
+   "brand": "DV8",
+   "name": "Heckler Taunt",
+   "release": "2026-06",
+   "coverstock": "Maximum Havoc Hybrid"
+  },
+  {
+   "brand": "Storm",
+   "name": "Alpha Crux",
+   "release": "2026-05-29",
+   "coverstock": "GI-26 Solid"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Spawn",
+   "release": "2026-05-05",
+   "coverstock": "HK22C2 Solid"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "Turbo X NU",
+   "release": "2026-05-05",
+   "coverstock": "NU Active"
+  },
+  {
+   "brand": "Storm",
+   "name": "Monsoon",
+   "release": "2026-05",
+   "coverstock": "Reactor Solid"
+  },
+  {
+   "brand": "Storm",
+   "name": "Rocket AI",
+   "release": "2026-05",
+   "coverstock": "A1S Pearl"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Black Widow Toxin Pearl Overseas",
+   "release": "2026-04-07",
+   "coverstock": "Hyper Aggression Plus Pearl"
+  },
+  {
+   "brand": "Radical",
+   "name": "Revenge Pearl",
+   "release": "2026-04-06",
+   "coverstock": "HK22 Pearl"
+  },
+  {
+   "brand": "Radical",
+   "name": "Revenge Solid",
+   "release": "2026-04-06",
+   "coverstock": "Forged Response Solid"
+  },
+  {
+   "brand": "Track",
+   "name": "Kinetic Sapphire Ice",
+   "release": "2026-04",
+   "coverstock": "Prime Response Pearl"
+  },
+  {
+   "brand": "Brunswick",
+   "name": "Strategy",
+   "release": "2026-04",
+   "coverstock": "HK22-C2 Evo Pearl"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Venom Hysteria",
+   "release": "2026-04",
+   "coverstock": "Propulsion MXV Pearl"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Covert VIP",
+   "release": "2026-03-27",
+   "coverstock": "Propulsion HVH"
+  },
+  {
+   "brand": "DV8",
+   "name": "Double Trouble",
+   "release": "2026-03-19"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Full Effect",
+   "release": "2026-03-19",
+   "coverstock": "HK22C2 Hybrid"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "Game Breaker 5 Hybrid",
+   "release": "2026-03-19"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Purple Pearl Urethane 78D",
+   "release": "2026-03-19"
+  },
+  {
+   "brand": "Radical",
+   "name": "Vexed",
+   "release": "2026-03-19"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Supra Sport",
+   "release": "2026-03-18"
+  },
+  {
+   "brand": "Roto Grip",
+   "name": "Gremlin Tour X",
+   "release": "2026-03-13",
+   "coverstock": "V-R1 Hybrid"
+  },
+  {
+   "brand": "Storm",
+   "name": "Ion Max Pearl",
+   "release": "2026-03-13",
+   "coverstock": "NRG Pearl"
+  },
+  {
+   "brand": "Storm",
+   "name": "Bionic",
+   "release": "2026-02-27"
+  },
+  {
+   "brand": "Storm",
+   "name": "Concept",
+   "release": "2026-02-27"
+  },
+  {
+   "brand": "Brunswick",
+   "name": "Combat Hybrid",
+   "release": "2026-02-19",
+   "coverstock": "HK22C Hybrid"
+  },
+  {
+   "brand": "Brunswick",
+   "name": "Crown Victory Pearl",
+   "release": "2026-02-19"
+  },
+  {
+   "brand": "Columbia 300",
+   "name": "Piranha Solid",
+   "release": "2026-02-19",
+   "coverstock": "Hyperflex Solid"
+  },
+  {
+   "brand": "Track",
+   "name": "Stealth Mode Hybrid",
+   "release": "2026-02-19",
+   "coverstock": "HK22C Hybrid"
+  },
+  {
+   "brand": "Track",
+   "name": "Synthesis",
+   "release": "2026-02-19"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Assassin Pearl",
+   "release": "2026-02-17"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Craze Tour Pearl",
+   "release": "2026-02-17"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Craze Tour Solid",
+   "release": "2026-02-17"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Judgement Hybrid",
+   "release": "2026-02-17",
+   "coverstock": "AP26 Hybrid"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Serpent Hybrid",
+   "release": "2026-02-17",
+   "coverstock": "AP26 Hybrid"
+  },
+  {
+   "brand": "SWAG",
+   "name": "Unreal Solid",
+   "release": "2026-02-17",
+   "coverstock": "AP26"
+  },
+  {
+   "brand": "Radical",
+   "name": "Deep Impact",
+   "release": "2026-02-12",
+   "coverstock": "HK22C+ Hybrid"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Evoke Mayhem",
+   "release": "2026-02-11",
+   "coverstock": "Solid"
+  },
+  {
+   "brand": "900 Global",
+   "name": "Vengeance",
+   "release": "2026-01-30"
+  },
+  {
+   "brand": "Roto Grip",
+   "name": "Transformer",
+   "release": "2026-01-23"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Black Widow 3.0 Dynasty",
+   "release": "2026-01-15"
+  },
+  {
+   "brand": "DV8",
+   "name": "Dark Side Curse",
+   "release": "2026-01-15"
+  },
+  {
+   "brand": "Hammer",
+   "name": "Hammerhead Pearl",
+   "release": "2026-01-15"
+  },
+  {
+   "brand": "Ebonite",
+   "name": "Spartan",
+   "release": "2026-01-15",
+   "coverstock": "HK22C2"
+  },
+  {
+   "brand": "Motiv",
+   "name": "Apex Jackal",
+   "release": "2026-01-07"
+  },
+  {
+   "brand": "Radical",
+   "name": "Outer Limits Black Hole",
+   "release": "2026-01",
+   "coverstock": "HK22C Cohesion"
+  }
+ ]
+}
