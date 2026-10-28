@@ -20,6 +20,16 @@ async function page(b){
     const text=h.replace(/<(script|style)[\s\S]*?<\/\1>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0,12000);
     return{url:u,og:og?(og.startsWith('//')?'https:'+og:og.replace(/&amp;/g,'&')):null,text}}catch{}}
   return null}
+let _models;
+async function modelList(){
+  if(_models)return _models;
+  const base=process.env.GEMINI_BASE||'https://generativelanguage.googleapis.com';let found=[];
+  if(!process.env.GEMINI_MODELS&&!process.env.GEMINI_MODEL){
+    try{const r=await fetch(`${base}/v1beta/models?pageSize=200`,{headers:{'x-goog-api-key':KEY}});
+      if(r.ok){const j=await r.json();found=(j.models||[]).filter(m=>(m.supportedGenerationMethods||[]).includes('generateContent')&&/flash/.test(m.name)&&!/image|tts|live|audio|embed|thinking|preview|exp/.test(m.name)).map(m=>m.name.replace(/^models\//,''))
+        .sort((a,b)=>(/lite/.test(b)-/lite/.test(a))||b.localeCompare(a))}}catch{}
+  }
+  _models=[...new Set([...found.filter(m=>/lite/.test(m)).slice(0,2),...MODELS,...found])].slice(0,6);console.log('Modelle:',_models.join(', '));return _models}
 async function ask(b,p){
   const prompt=`Bowlingball: "${b.brand} ${b.name}". Unten steht der Text der Produktseite ${p.url}. Antworte NUR mit JSON, ohne Text drumherum:
 {"coverstock":string|null,"layouts":[{"pin":string,"psa":string,"buf":string,"src":string}]}
@@ -27,12 +37,12 @@ Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der H
 
 SEITENTEXT:
 ${p.text}`;
-  for(const MODEL of MODELS){
-   for(let t=0;t<3;t++){
-    const r=await fetch(`${process.env.GEMINI_BASE||'https://generativelanguage.googleapis.com'}/v1beta/models/${MODEL}:generateContent`,{method:'POST',headers:{'content-type':'application/json','x-goog-api-key':KEY},
-      body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{responseMimeType:'application/json'}})});
-    if(r.status===502||r.status===503){console.log(' (Modell '+MODEL+' überlastet, Versuch '+(t+1)+')');await sleep(8000*(t+1));continue}
-    if(r.status===404&&MODELS.length>1){console.log(' (Modell '+MODEL+' nicht verfügbar)');break}
+  for(const MODEL of await modelList()){
+   for(let t=0;t<2;t++){
+    let r;try{r=await fetch(`${process.env.GEMINI_BASE||'https://generativelanguage.googleapis.com'}/v1beta/models/${MODEL}:generateContent`,{method:'POST',headers:{'content-type':'application/json','x-goog-api-key':KEY},
+      body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{responseMimeType:'application/json'}})})}catch{r={status:503}}
+    if(r.status===502||r.status===503){console.log(' (Modell '+MODEL+' überlastet, Versuch '+(t+1)+')');await sleep(6000*(t+1));continue}
+    if(r.status===404){console.log(' (Modell '+MODEL+' nicht verfügbar)');break}
     if(!r.ok){const x=await r.text();throw new Error(r.status+' '+x.replace(/\s+/g,' ').slice(0,700))}
     const j=await r.json();const txt=(j.candidates?.[0]?.content?.parts||[]).map(q=>q.text||'').join('');
     const m=txt.match(/\{[\s\S]*\}/);if(!m)return null;try{return JSON.parse(m[0])}catch{return null}}
