@@ -4,7 +4,7 @@
 // Braucht GEMINI_API_KEY (kostenloser Schlüssel aus Google AI Studio). Modell per GEMINI_MODEL (Standard gemini-3.5-flash).
 // Aufruf: node scripts/gemini-enrich.js [max=12]   Ohne Schlüssel wird übersprungen.
 const fs=require('fs');const F='balls.json';
-const KEY=process.env.GEMINI_API_KEY,MODEL=process.env.GEMINI_MODEL||'gemini-3.5-flash',MAX=+process.argv[2]||12;
+const KEY=process.env.GEMINI_API_KEY,MODELS=(process.env.GEMINI_MODELS||process.env.GEMINI_MODEL||'gemini-3.5-flash,gemini-flash-latest,gemini-3.8-flash').split(',').map(x=>x.trim()).filter(Boolean),MAX=+process.argv[2]||12;
 if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
 const BASE=process.env.PRODUCT_BASE||'https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
 const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5;
@@ -27,13 +27,16 @@ Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der H
 
 SEITENTEXT:
 ${p.text}`;
-  for(let t=0;t<3;t++){
-    const r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`,{method:'POST',headers:{'content-type':'application/json','x-goog-api-key':KEY},
+  for(const MODEL of MODELS){
+   for(let t=0;t<3;t++){
+    const r=await fetch(`${process.env.GEMINI_BASE||'https://generativelanguage.googleapis.com'}/v1beta/models/${MODEL}:generateContent`,{method:'POST',headers:{'content-type':'application/json','x-goog-api-key':KEY},
       body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{responseMimeType:'application/json'}})});
-    if(r.status===502||r.status===503){await sleep(5000*(t+1));continue}
+    if(r.status===502||r.status===503){console.log(' (Modell '+MODEL+' überlastet, Versuch '+(t+1)+')');await sleep(8000*(t+1));continue}
+    if(r.status===404&&MODELS.length>1){console.log(' (Modell '+MODEL+' nicht verfügbar)');break}
     if(!r.ok){const x=await r.text();throw new Error(r.status+' '+x.slice(0,300))}
     const j=await r.json();const txt=(j.candidates?.[0]?.content?.parts||[]).map(q=>q.text||'').join('');
     const m=txt.match(/\{[\s\S]*\}/);if(!m)return null;try{return JSON.parse(m[0])}catch{return null}}
+  }
   throw new Error('503 Modell überlastet')}
 (async()=>{
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0;
@@ -42,7 +45,7 @@ ${p.text}`;
     if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
     done++;let c=false;b.checked=TODAY;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);chg++;continue}
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
-    if(!b.coverstock||!b.layouts){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
+    if(!b.coverstock||!b.layouts){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);delete b.checked;if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
       await sleep(6000);
       if(a){
         if(!b.coverstock&&typeof a.coverstock==='string'&&a.coverstock.length<80){b.coverstock=a.coverstock.trim();c=true}
