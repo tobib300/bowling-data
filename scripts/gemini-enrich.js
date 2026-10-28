@@ -33,7 +33,7 @@ ${p.text}`;
       body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{responseMimeType:'application/json'}})});
     if(r.status===502||r.status===503){console.log(' (Modell '+MODEL+' überlastet, Versuch '+(t+1)+')');await sleep(8000*(t+1));continue}
     if(r.status===404&&MODELS.length>1){console.log(' (Modell '+MODEL+' nicht verfügbar)');break}
-    if(!r.ok){const x=await r.text();throw new Error(r.status+' '+x.slice(0,300))}
+    if(!r.ok){const x=await r.text();throw new Error(r.status+' '+x.replace(/\s+/g,' ').slice(0,700))}
     const j=await r.json();const txt=(j.candidates?.[0]?.content?.parts||[]).map(q=>q.text||'').join('');
     const m=txt.match(/\{[\s\S]*\}/);if(!m)return null;try{return JSON.parse(m[0])}catch{return null}}
   }
@@ -46,7 +46,7 @@ ${p.text}`;
     done++;let c=false;b.checked=TODAY;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);chg++;continue}
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
     if(!b.coverstock||!b.layouts){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);delete b.checked;if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
-      await sleep(6000);
+      await sleep(15000);
       if(a){
         if(!b.coverstock&&typeof a.coverstock==='string'&&a.coverstock.length<80){b.coverstock=a.coverstock.trim();c=true}
         if(!b.layouts){const ls=(Array.isArray(a.layouts)?a.layouts:[]).filter(l=>l&&numOk(l.pin)&&numOk(l.psa)&&numOk(l.buf)&&toNum(l.pin)>=1&&toNum(l.pin)<=6&&toNum(l.psa)<=6&&toNum(l.buf)<=toNum(l.pin)).slice(0,6)

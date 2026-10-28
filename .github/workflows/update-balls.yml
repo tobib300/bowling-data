@@ -2,7 +2,7 @@ name: Ballliste aktualisieren
 
 on:
   schedule:
-    - cron: '0 7 * * 2'   # dienstags (USBC veröffentlicht wöchentlich)
+    - cron: '0 7 * * *'   # täglich: USBC-Liste ist dienstags neu, Gemini arbeitet täglich wenige Bälle ab (Gratis-Kontingent)
   workflow_dispatch:
 
 permissions:
@@ -34,7 +34,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          node scripts/gemini-enrich.js 12
+          node scripts/gemini-enrich.js 5
           node scripts/validate-balls.js
       - name: Produktfotos ergänzen
         continue-on-error: true
