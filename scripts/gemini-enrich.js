@@ -7,6 +7,7 @@ const fs=require('fs');const F='balls.json';
 const KEY=process.env.GEMINI_API_KEY,MODELS=(process.env.GEMINI_MODELS||process.env.GEMINI_MODEL||'gemini-3.5-flash,gemini-flash-latest,gemini-3.8-flash').split(',').map(x=>x.trim()).filter(Boolean),MAX=+process.argv[2]||12;
 if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
 const BASE=process.env.PRODUCT_BASE||'https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
+let HERST={ueberspringen:[],vorlagen:{}};try{HERST=JSON.parse(fs.readFileSync(require('path').join(__dirname,'hersteller.json'),'utf8'))}catch{}
 const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5;
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const slug=s=>s.toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
@@ -14,7 +15,8 @@ const numOk=s=>typeof s==='string'&&/^\d{1,2}(\.\d+)?( \d\/\d{1,2})?$|^\d\/\d{1,
 const toNum=s=>{const p=s.trim().split(' ');return p.reduce((a,x)=>a+(x.includes('/')?x.split('/')[0]/x.split('/')[1]:+x),0)};
 async function imgOk(u){try{const r=await fetch(u,{headers:UA});return r.ok&&/^image\//.test(r.headers.get('content-type')||'')}catch{return false}}
 async function page(b){
-  const urls=[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`,`${BASE}/products/${slug(b.name)}.htm`].filter(u=>/^https:\/\//.test(u||''));
+  const vor=(HERST.vorlagen[b.brand.toLowerCase()]||[]).map(t=>t.replace('{slug}',slug(b.name)));
+  const urls=[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`,`${BASE}/products/${slug(b.name)}.htm`,...vor].filter(u=>/^https:\/\//.test(u||''));
   for(const u of urls){try{const r=await fetch(u,{headers:UA,redirect:'follow'});await sleep(400);if(!r.ok)continue;const h=await r.text();
     const og=(h.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)||[])[1];
     const text=h.replace(/<(script|style)[\s\S]*?<\/\1>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0,12000);
@@ -54,6 +56,7 @@ ${p.text}`;
   const need=b=>(!b.coverstock)+(!b.img);
   for(const b of [...j.balls].sort((x,y)=>need(y)-need(x))){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
+    if(!b.url&&(HERST.ueberspringen||[]).includes(b.brand.toLowerCase()))continue; // Nischenmarke ohne Quelle
     if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
     done++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
     console.log(' ?',b.brand,b.name,'· Seite',p.url,'· Text',p.text.length,'Zeichen · og:image',p.og?'ja':'nein');
