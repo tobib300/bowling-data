@@ -240,7 +240,8 @@
   {
    "brand": "DV8",
    "name": "Double Trouble",
-   "release": "2026-03-19"
+   "release": "2026-03-19",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hammer",
@@ -335,17 +336,20 @@
   {
    "brand": "SWAG",
    "name": "Assassin Pearl",
-   "release": "2026-02-17"
+   "release": "2026-02-17",
+   "checked": "2026-10-29"
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Pearl",
-   "release": "2026-02-17"
+   "release": "2026-02-17",
+   "checked": "2026-10-29"
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Solid",
-   "release": "2026-02-17"
+   "release": "2026-02-17",
+   "checked": "2026-10-29"
   },
   {
    "brand": "SWAG",
@@ -382,7 +386,11 @@
   {
    "brand": "900 Global",
    "name": "Vengeance",
-   "release": "2026-01-30"
+   "release": "2026-01-30",
+   "checked": "2026-10-29",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGRR/BBMGRR.png",
+   "coverstock": "RB91 Solid",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -432,19 +440,22 @@
    "brand": "900 Global",
    "name": "Cruise 78D Urethane",
    "release": "2026-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "900 Global",
    "name": "Reality Magenta",
    "release": "2026-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "900 Global",
    "name": "Zen Blue Label",
    "release": "2026-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "ABS",
@@ -462,25 +473,31 @@
    "brand": "Brunswick",
    "name": "Team Brunswick",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Brunswick",
    "name": "Vaporize X",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Ebonite",
    "name": "The One Urethane 78D Navy",
    "release": "2026-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow 3.0 Ruby",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29",
+   "coverstock": "HK22 - Aggression Solid",
+   "layouts": []
   },
   {
    "brand": "Hammer",
