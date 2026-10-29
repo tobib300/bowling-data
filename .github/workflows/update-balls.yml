@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       tage:
-        description: 'Wie viele Tage zurück aus der USBC-Liste übernehmen (Standard 75; für einen Nachimport z. B. 3650 = 10 Jahre)'
+        description: 'Wie viele Tage zurück aus der USBC-Liste übernehmen (Standard 75; für einen Nachimport 15 Jahre = 5475)'
         required: false
         default: '75'
       nur_pruefen:

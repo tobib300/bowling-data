@@ -10,7 +10,9 @@ const cut=new Date(Date.now()-days*864e5);
 const j=JSON.parse(fs.readFileSync(F,'utf8'));
 const norm=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 const known=j.balls.map(b=>[norm(b.brand),norm(b.name)]);
-const isKnown=(br,n)=>known.some(([b,x])=>b===br&&(x===n||n.startsWith(x+' ')||x.startsWith(n+' ')));
+// Täglicher Lauf (bis 1 Jahr): auch Farbvarianten bekannter Bälle überspringen. Nachimport (länger): nur exakt gleiche Namen überspringen, damit z. B. "Black Widow" neben "Black Widow 3.0" erhalten bleibt.
+const strict=days>365;
+const isKnown=(br,n)=>known.some(([b,x])=>b===br&&(x===n||(!strict&&(n.startsWith(x+' ')||x.startsWith(n+' ')))));
 const add=[];let rows=0;
 for(const raw of txt.split(/\r?\n/)){
   const m=raw.trim().match(/^(.+?)\s{2,}(.+?)\s{2,}(.+)$/);if(!m)continue;
@@ -22,7 +24,7 @@ for(const raw of txt.split(/\r?\n/)){
   known.push([norm(brand),norm(name)]);
   add.push({brand,name,release:dt.toISOString().slice(0,10),src:'USBC'});
 }
-console.log('Zeilen mit Volldatum:',rows,'· neu:',add.length,'· Zeitraum ab',cut.toISOString().slice(0,10));
+console.log('Zeilen mit Volldatum:',rows,'· neu:',add.length,'· Zeitraum ab',cut.toISOString().slice(0,10),strict?'· Vergleich: streng (Nachimport)':'');
 const byBrand={};add.forEach(b=>byBrand[b.brand]=(byBrand[b.brand]||0)+1);
 if(add.length>80){console.log('Nach Marke:',Object.entries(byBrand).sort((x,y)=>y[1]-x[1]).slice(0,25).map(([b,n])=>b+' '+n).join(' · '));add.slice(0,40).forEach(b=>console.log(' +',b.brand,'|',b.name,'|',b.release));console.log(' … und',add.length-40,'weitere')}
 else add.forEach(b=>console.log(' +',b.brand,'|',b.name,'|',b.release));
