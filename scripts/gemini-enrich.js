@@ -68,7 +68,7 @@ ${p.text}`;
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0,dirty=false;
   // zuerst Bälle ohne Coverstock/Foto, dann die, denen nur layouts fehlt (stabile Sortierung = Listenreihenfolge bleibt)
   const need=b=>(!b.coverstock)+(!b.img);
-  for(const b of [...j.balls].sort((x,y)=>need(y)-need(x))){
+  for(const b of [...j.balls].sort((x,y)=>need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
     if(!b.url&&(HERST.ueberspringen||[]).includes(b.brand.toLowerCase()))continue; // Nischenmarke ohne Quelle
     if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
