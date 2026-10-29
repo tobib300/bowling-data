@@ -480,13 +480,15 @@
    "brand": "Ebonite",
    "name": "The One Urethane 78D Navy",
    "release": "2026-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow 3.0 Ruby",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hammer",
@@ -499,7 +501,8 @@
    "brand": "Hammer",
    "name": "Pure Effect",
    "release": "2026-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hero",
@@ -566,7 +569,8 @@
    "brand": "Motiv",
    "name": "(Royal) Venom",
    "release": "2026-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "PBS",
@@ -584,49 +588,57 @@
    "brand": "Radical",
    "name": "The Hitter Teal",
    "release": "2026-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Roto Grip",
    "name": "Hustle (SNY) Salmon/Navy/Yellow",
    "release": "2026-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Roto Grip",
    "name": "Idol Star",
    "release": "2026-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "Hy-Road Hybrid",
    "release": "2026-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "Ion Max (Veil)",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "!Q Focus",
    "release": "2026-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "Lock Axis",
    "release": "2026-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "Max Orbit (Under 13 Lbs.)",
    "release": "2026-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
