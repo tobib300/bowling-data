@@ -7,35 +7,45 @@
    "name": "Reckoning",
    "release": "2026-11-19",
    "coverstock": "HK22C2 Solid Reactive",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-reckoning-bowling-ball-31799.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-reckoning-bowling-ball-31799.jpg",
+   "checked": "2026-10-29",
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Blacklist",
    "release": "2026-11-19",
    "coverstock": "HK22 Cohesion Pearl Reactive",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-blacklist-bowling-ball-31803.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-blacklist-bowling-ball-31803.jpg",
+   "checked": "2026-10-29",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
    "name": "Go Time",
    "release": "2026-11-19",
    "coverstock": "HK22 GB 13.7 Solid Reactive",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-go-time-bowling-ball-31895.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-go-time-bowling-ball-31895.jpg",
+   "checked": "2026-10-29",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Intel Recon Hybrid",
    "release": "2026-11-19",
    "coverstock": "HK22 Hybrid Reactive",
-   "img": "https://cdn-images.bowling.com/productimages/radical-intel-recon-hybrid-bowling-ball-31898.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-intel-recon-hybrid-bowling-ball-31898.jpg",
+   "checked": "2026-10-29",
+   "layouts": []
   },
   {
    "brand": "Storm",
    "name": "Ion Pro Pearl",
    "release": "2026-11-06",
    "coverstock": "NRG Pearl Reactive",
-   "img": "https://cdn-images.bowling.com/productimages/storm-ion-pro-pearl-bowling-ball-31937.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-ion-pro-pearl-bowling-ball-31937.jpg",
+   "checked": "2026-10-29",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
