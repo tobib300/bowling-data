@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "note": "Quelle: Veröffentlichte Hersteller-Neuheiten 2026. Coverstock steht nur, wenn angegeben. Eigene Bälle kannst du in der App frei eintippen.",
  "balls": [
   {
@@ -107,7 +107,10 @@
    "brand": "900 Global",
    "name": "Portal",
    "release": "2026-10-02",
-   "coverstock": "RB 92 Solid Reactive"
+   "coverstock": "RB 92 Solid Reactive",
+   "checked": "2026-10-29",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGPL/BBMGPL@1.png?v=8e7631c8",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -134,7 +137,10 @@
    "brand": "Ebonite",
    "name": "Turbo X Pearl",
    "release": "2026-09",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-x-pearl-bowling-ball-31483.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-x-pearl-bowling-ball-31483.jpg",
+   "checked": "2026-10-29",
+   "coverstock": "HK22 - GB 10.7 Pearl Reactive",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -182,13 +188,15 @@
    "brand": "Storm",
    "name": "Rocket AI",
    "release": "2026-05",
-   "coverstock": "A1S Pearl"
+   "coverstock": "A1S Pearl",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Toxin Pearl Overseas",
    "release": "2026-04-07",
-   "coverstock": "Hyper Aggression Plus Pearl"
+   "coverstock": "Hyper Aggression Plus Pearl",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Radical",
@@ -644,49 +652,59 @@
    "brand": "Storm",
    "name": "PhysiX Ignition",
    "release": "2026-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "Savage Lock",
    "release": "2026-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "SPI Clear (All Colors)",
    "release": "2026-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Storm",
    "name": "The Code Black",
    "release": "2026-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Swag",
    "name": "Valkyrie",
    "release": "2026-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Track Inc.",
    "name": "Synthesis Prime",
    "release": "2026-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29",
+   "coverstock": "Prime Response Pearl (HK22C ² )",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "Synthesis Xenon",
    "release": "2026-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "Track Inc.",
    "name": "T-Shark Purple",
    "release": "2026-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "checked": "2026-10-29"
   },
   {
    "brand": "UBB",
