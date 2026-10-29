@@ -22,6 +22,10 @@ for(const raw of txt.split(/\r?\n/)){
   known.push([norm(brand),norm(name)]);
   add.push({brand,name,release:dt.toISOString().slice(0,10),src:'USBC'});
 }
-console.log('Zeilen mit Volldatum:',rows,'· neu:',add.length);add.forEach(b=>console.log(' +',b.brand,'|',b.name,'|',b.release));
+console.log('Zeilen mit Volldatum:',rows,'· neu:',add.length,'· Zeitraum ab',cut.toISOString().slice(0,10));
+const byBrand={};add.forEach(b=>byBrand[b.brand]=(byBrand[b.brand]||0)+1);
+if(add.length>80){console.log('Nach Marke:',Object.entries(byBrand).sort((x,y)=>y[1]-x[1]).slice(0,25).map(([b,n])=>b+' '+n).join(' · '));add.slice(0,40).forEach(b=>console.log(' +',b.brand,'|',b.name,'|',b.release));console.log(' … und',add.length-40,'weitere')}
+else add.forEach(b=>console.log(' +',b.brand,'|',b.name,'|',b.release));
+for(const n of ['venom shock'])add.filter(b=>norm(b.name).includes(n)).forEach(b=>console.log(' ✔ gefunden:',b.brand,'|',b.name,'|',b.release));
 if(rows<5){console.error('Zu wenige Zeilen erkannt – Format geändert? Abbruch.');process.exit(2)}
 if(!dry&&add.length){j.balls.push(...add);j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')}

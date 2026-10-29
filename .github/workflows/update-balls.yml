@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 7 * * *'   # täglich: USBC-Liste ist dienstags neu, Gemini arbeitet täglich wenige Bälle ab (Gratis-Kontingent)
   workflow_dispatch:
+    inputs:
+      tage:
+        description: 'Wie viele Tage zurück aus der USBC-Liste übernehmen (Standard 75; für einen Nachimport z. B. 3650 = 10 Jahre)'
+        required: false
+        default: '75'
+      nur_pruefen:
+        description: 'Nur anzeigen, was importiert würde (nichts speichern, kein Gemini)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,9 +36,10 @@ jobs:
           echo "Lade $URL"
           curl -fsSL -A "$UA" -o usbc.pdf "$URL"
           pdftotext -layout usbc.pdf usbc.txt
-          node scripts/import-usbc.js usbc.txt 75
+          node scripts/import-usbc.js usbc.txt ${{ inputs.tage || 75 }} ${{ inputs.nur_pruefen && '--dry' || '' }}
           node scripts/validate-balls.js
       - name: Gemini ergänzt Coverstock, Fotos, Layoutvorschläge
+        if: ${{ !inputs.nur_pruefen }}
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -37,6 +47,7 @@ jobs:
           node scripts/gemini-enrich.js 12
           node scripts/validate-balls.js
       - name: Produktfotos ergänzen
+        if: ${{ !inputs.nur_pruefen }}
         continue-on-error: true
         run: |
           node scripts/find-images.js
