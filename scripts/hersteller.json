@@ -1,0 +1,18 @@
+{
+  "_hinweis": "ueberspringen: Marken, die bowling.com nicht führt und für die es keine brauchbare Herstellerseite gibt (nur mit eigenem 'url' pro Ball). vorlagen: ungeprüfte Herstellerseiten-Muster, {slug} = Ballname als URL-Teil; ein Treffer steht im Lauf-Log in der Zeile mit '?'. Falsche Muster einfach löschen.",
+  "ueberspringen": ["hero", "pbs", "modern", "pyramid bowling", "ubb", "hih bowling", "legends", "vexa", "abs"],
+  "vorlagen": {
+    "storm": ["https://www.stormbowling.com/bowling-balls/{slug}"],
+    "hammer": ["https://www.hammerbowling.com/bowling-balls/{slug}"],
+    "motiv": ["https://www.motivbowling.com/bowling-balls/{slug}"],
+    "roto grip": ["https://www.rotogrip.com/bowling-balls/{slug}"],
+    "radical": ["https://www.radicalbowling.com/bowling-balls/{slug}"],
+    "ebonite": ["https://www.ebonite.com/bowling-balls/{slug}"],
+    "brunswick": ["https://www.brunswickbowling.com/bowling-balls/{slug}"],
+    "900 global": ["https://www.900global.com/bowling-balls/{slug}"],
+    "dv8": ["https://www.dv8bowling.com/bowling-balls/{slug}"],
+    "track": ["https://www.trackbowling.com/bowling-balls/{slug}"],
+    "track inc.": ["https://www.trackbowling.com/bowling-balls/{slug}"],
+    "swag": ["https://www.swagbowling.com/bowling-balls/{slug}"]
+  }
+}
