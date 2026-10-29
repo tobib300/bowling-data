@@ -34,7 +34,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          node scripts/gemini-enrich.js 5
+          node scripts/gemini-enrich.js 12
           node scripts/validate-balls.js
       - name: Produktfotos ergänzen
         continue-on-error: true
