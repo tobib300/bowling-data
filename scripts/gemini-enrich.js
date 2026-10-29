@@ -50,7 +50,9 @@ ${p.text}`;
   throw new Error('503 Modell überlastet')}
 (async()=>{
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0,dirty=false;
-  for(const b of j.balls){
+  // zuerst Bälle ohne Coverstock/Foto, dann die, denen nur layouts fehlt (stabile Sortierung = Listenreihenfolge bleibt)
+  const need=b=>(!b.coverstock)+(!b.img);
+  for(const b of [...j.balls].sort((x,y)=>need(y)-need(x))){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
     if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
     done++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
