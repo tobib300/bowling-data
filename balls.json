@@ -188,15 +188,13 @@
    "brand": "Storm",
    "name": "Rocket AI",
    "release": "2026-05",
-   "coverstock": "A1S Pearl",
-   "checked": "2026-10-29"
+   "coverstock": "A1S Pearl"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Toxin Pearl Overseas",
    "release": "2026-04-07",
-   "coverstock": "Hyper Aggression Plus Pearl",
-   "checked": "2026-10-29"
+   "coverstock": "Hyper Aggression Plus Pearl"
   },
   {
    "brand": "Radical",
@@ -242,8 +240,7 @@
   {
    "brand": "DV8",
    "name": "Double Trouble",
-   "release": "2026-03-19",
-   "checked": "2026-10-29"
+   "release": "2026-03-19"
   },
   {
    "brand": "Hammer",
@@ -338,20 +335,17 @@
   {
    "brand": "SWAG",
    "name": "Assassin Pearl",
-   "release": "2026-02-17",
-   "checked": "2026-10-29"
+   "release": "2026-02-17"
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Pearl",
-   "release": "2026-02-17",
-   "checked": "2026-10-29"
+   "release": "2026-02-17"
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Solid",
-   "release": "2026-02-17",
-   "checked": "2026-10-29"
+   "release": "2026-02-17"
   },
   {
    "brand": "SWAG",
@@ -388,8 +382,7 @@
   {
    "brand": "900 Global",
    "name": "Vengeance",
-   "release": "2026-01-30",
-   "checked": "2026-10-29"
+   "release": "2026-01-30"
   },
   {
    "brand": "Roto Grip",
@@ -439,64 +432,55 @@
    "brand": "900 Global",
    "name": "Cruise 78D Urethane",
    "release": "2026-09-01",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "900 Global",
    "name": "Reality Magenta",
    "release": "2026-09-01",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "900 Global",
    "name": "Zen Blue Label",
    "release": "2026-09-15",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "ABS",
    "name": "Nanodesu Accu-Line Tour Premium Intel III",
    "release": "2026-10-27",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "ABS",
    "name": "Nanodesu Mega Grasp",
    "release": "2026-10-06",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Brunswick",
    "name": "Team Brunswick",
    "release": "2026-09-29",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Brunswick",
    "name": "Vaporize X",
    "release": "2026-09-29",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Ebonite",
    "name": "The One Urethane 78D Navy",
    "release": "2026-09-08",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow 3.0 Ruby",
    "release": "2026-09-29",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Hammer",
@@ -509,8 +493,7 @@
    "brand": "Hammer",
    "name": "Pure Effect",
    "release": "2026-09-22",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Hero",
@@ -577,8 +560,7 @@
    "brand": "Motiv",
    "name": "(Royal) Venom",
    "release": "2026-09-22",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "PBS",
@@ -596,99 +578,85 @@
    "brand": "Radical",
    "name": "The Hitter Teal",
    "release": "2026-10-13",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Roto Grip",
    "name": "Hustle (SNY) Salmon/Navy/Yellow",
    "release": "2026-09-01",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Roto Grip",
    "name": "Idol Star",
    "release": "2026-10-06",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "Hy-Road Hybrid",
    "release": "2026-09-01",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "Ion Max (Veil)",
    "release": "2026-09-29",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "!Q Focus",
    "release": "2026-09-29",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "Lock Axis",
    "release": "2026-08-25",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "Max Orbit (Under 13 Lbs.)",
    "release": "2026-09-08",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "PhysiX Ignition",
    "release": "2026-10-06",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "Savage Lock",
    "release": "2026-08-25",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "SPI Clear (All Colors)",
    "release": "2026-08-25",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Storm",
    "name": "The Code Black",
    "release": "2026-10-13",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Swag",
    "name": "Valkyrie",
    "release": "2026-10-06",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Track Inc.",
    "name": "Synthesis Prime",
    "release": "2026-10-13",
    "src": "USBC",
-   "checked": "2026-10-29",
    "coverstock": "Prime Response Pearl (HK22C ² )",
    "layouts": []
   },
@@ -696,15 +664,13 @@
    "brand": "Track Inc.",
    "name": "Synthesis Xenon",
    "release": "2026-08-25",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "Track Inc.",
    "name": "T-Shark Purple",
    "release": "2026-08-25",
-   "src": "USBC",
-   "checked": "2026-10-29"
+   "src": "USBC"
   },
   {
    "brand": "UBB",

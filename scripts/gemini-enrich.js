@@ -26,13 +26,14 @@ async function herstellerUrl(b){
   for(const m of maps)locs.push(...await sitemapLocs(m));
   return locs.length?pick(locs,b.brand,b.name):null}
 const norm=t=>t.toLowerCase().replace(/[^a-z0-9]+/g,' ');
+const erstesWort=n=>{const t=norm(n.replace(/\([^)]*\)/g,' ')).trim().split(' ').filter(x=>x.length>=3&&x!=='the');return t[0]||norm(n).trim()}; // 'Rocket AI' → 'rocket', Seite darf 'A.I.' schreiben
 async function page(b){
   const urls=[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`,`${BASE}/products/${slug(b.name)}.htm`].filter(u=>/^https:\/\//.test(u||''));
   const hu=await herstellerUrl(b);if(hu)urls.push(hu);
   for(const u of urls){try{const r=await fetch(u,{headers:UA,redirect:'follow'});await sleep(400);if(!r.ok)continue;const h=await r.text();
     const og=(h.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)||[])[1];
     const text=h.replace(/<(script|style)[\s\S]*?<\/\1>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0,12000);
-    if(u===hu&&u!==b.url&&!norm(text).includes(norm(b.name.replace(/\([^)]*\)/g,' ')).trim().split(' ').slice(0,2).join(' '))){console.log(' ~ Herstellerseite passt nicht zum Namen, übersprungen:',u);continue}
+    if(u===hu&&u!==b.url&&!norm(text).includes(erstesWort(b.name))){console.log(' ~ Herstellerseite passt nicht zum Namen, übersprungen:',u);continue}
     return{url:u,og:og?(og.startsWith('//')?'https:'+og:og.replace(/&amp;/g,'&')):null,text}}catch{}}
   return null}
 let _models;
