@@ -8,18 +8,31 @@ const KEY=process.env.GEMINI_API_KEY,MODELS=(process.env.GEMINI_MODELS||process.
 if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
 const BASE=process.env.PRODUCT_BASE||'https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
 let HERST={ueberspringen:[],vorlagen:{}};try{HERST=JSON.parse(fs.readFileSync(require('path').join(__dirname,'hersteller.json'),'utf8'))}catch{}
+const {pick}=require('./sitemap-match.js');
 const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5;
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const slug=s=>s.toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const numOk=s=>typeof s==='string'&&/^\d{1,2}(\.\d+)?( \d\/\d{1,2})?$|^\d\/\d{1,2}$/.test(s.trim());
 const toNum=s=>{const p=s.trim().split(' ');return p.reduce((a,x)=>a+(x.includes('/')?x.split('/')[0]/x.split('/')[1]:+x),0)};
 async function imgOk(u){try{const r=await fetch(u,{headers:UA});return r.ok&&/^image\//.test(r.headers.get('content-type')||'')}catch{return false}}
+const _sm={};
+async function sitemapLocs(url,depth=0){
+  if(_sm[url])return _sm[url];let out=[];
+  try{const r=await fetch(url,{headers:UA,redirect:'follow'});if(r.ok){const t=await r.text();const l=[...t.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)].map(m=>m[1]);
+    if(depth<1&&l.some(x=>/\.xml/.test(x))){for(const c of l.filter(x=>/\.xml/.test(x)).slice(0,20))out.push(...await sitemapLocs(c,depth+1))}else out=l}}catch{}
+  return _sm[url]=out}
+async function herstellerUrl(b){
+  const maps=(HERST.sitemaps||{})[b.brand.toLowerCase()]||[];let locs=[];
+  for(const m of maps)locs.push(...await sitemapLocs(m));
+  return locs.length?pick(locs,b.brand,b.name):null}
+const norm=t=>t.toLowerCase().replace(/[^a-z0-9]+/g,' ');
 async function page(b){
-  const vor=(HERST.vorlagen[b.brand.toLowerCase()]||[]).map(t=>t.replace('{slug}',slug(b.name)));
-  const urls=[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`,`${BASE}/products/${slug(b.name)}.htm`,...vor].filter(u=>/^https:\/\//.test(u||''));
+  const urls=[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`,`${BASE}/products/${slug(b.name)}.htm`].filter(u=>/^https:\/\//.test(u||''));
+  const hu=await herstellerUrl(b);if(hu)urls.push(hu);
   for(const u of urls){try{const r=await fetch(u,{headers:UA,redirect:'follow'});await sleep(400);if(!r.ok)continue;const h=await r.text();
     const og=(h.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)||[])[1];
     const text=h.replace(/<(script|style)[\s\S]*?<\/\1>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim().slice(0,12000);
+    if(u===hu&&u!==b.url&&!norm(text).includes(norm(b.name.replace(/\([^)]*\)/g,' ')).trim().split(' ').slice(0,2).join(' '))){console.log(' ~ Herstellerseite passt nicht zum Namen, übersprungen:',u);continue}
     return{url:u,og:og?(og.startsWith('//')?'https:'+og:og.replace(/&amp;/g,'&')):null,text}}catch{}}
   return null}
 let _models;

@@ -1,18 +1,40 @@
 {
-  "_hinweis": "ueberspringen: Marken, die bowling.com nicht führt und für die es keine brauchbare Herstellerseite gibt (nur mit eigenem 'url' pro Ball). vorlagen: ungeprüfte Herstellerseiten-Muster, {slug} = Ballname als URL-Teil; ein Treffer steht im Lauf-Log in der Zeile mit '?'. Falsche Muster einfach löschen.",
-  "ueberspringen": ["hero", "pbs", "modern", "pyramid bowling", "ubb", "hih bowling", "legends", "vexa", "abs"],
-  "vorlagen": {
-    "storm": ["https://www.stormbowling.com/bowling-balls/{slug}"],
-    "hammer": ["https://www.hammerbowling.com/bowling-balls/{slug}"],
-    "motiv": ["https://www.motivbowling.com/bowling-balls/{slug}"],
-    "roto grip": ["https://www.rotogrip.com/bowling-balls/{slug}"],
-    "radical": ["https://www.radicalbowling.com/bowling-balls/{slug}"],
-    "ebonite": ["https://www.ebonite.com/bowling-balls/{slug}"],
-    "brunswick": ["https://www.brunswickbowling.com/bowling-balls/{slug}"],
-    "900 global": ["https://www.900global.com/bowling-balls/{slug}"],
-    "dv8": ["https://www.dv8bowling.com/bowling-balls/{slug}"],
-    "track": ["https://www.trackbowling.com/bowling-balls/{slug}"],
-    "track inc.": ["https://www.trackbowling.com/bowling-balls/{slug}"],
-    "swag": ["https://www.swagbowling.com/bowling-balls/{slug}"]
+  "_hinweis": "ueberspringen: Marken ohne brauchbare Quelle (nur mit eigenem 'url' pro Ball). sitemaps: Sitemaps der Hersteller; das Skript sucht dort die Produktseite zum Ballnamen und prüft, ob der Name auf der Seite steht. Geprüft am Diagnose-Lauf probe-hersteller (Run 40844295785).",
+  "ueberspringen": [
+    "hero",
+    "pbs",
+    "modern",
+    "pyramid bowling",
+    "ubb",
+    "hih bowling",
+    "legends",
+    "vexa",
+    "abs"
+  ],
+  "sitemaps": {
+    "storm": [
+      "https://www.stormbowling.com/sitemap_index.xml"
+    ],
+    "roto grip": [
+      "https://www.stormbowling.com/sitemap_index.xml"
+    ],
+    "900 global": [
+      "https://www.stormbowling.com/sitemap_index.xml"
+    ],
+    "hammer": [
+      "https://hammerbowling.com/sitemap.xml"
+    ],
+    "motiv": [
+      "https://www.motivbowling.com/sitemap.xml"
+    ],
+    "ebonite": [
+      "https://ebonite.com/sitemap.xml"
+    ],
+    "track": [
+      "https://trackbowling.com/sitemap.xml"
+    ],
+    "track inc.": [
+      "https://trackbowling.com/sitemap.xml"
+    ]
   }
 }
