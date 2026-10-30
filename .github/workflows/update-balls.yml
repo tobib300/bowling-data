@@ -9,6 +9,10 @@ on:
         description: 'Wie viele Tage zurück aus der USBC-Liste übernehmen (Standard 75; für einen Nachimport 15 Jahre = 5475)'
         required: false
         default: '75'
+      max:
+        description: 'Wie viele Bälle Gemini pro Lauf höchstens ergänzt (Standard 150; bei Kontingent-Fehler bricht das Skript von selbst ab)'
+        required: false
+        default: '150'
       nur_pruefen:
         description: 'Nur anzeigen, was importiert würde (nichts speichern, kein Gemini)'
         type: boolean
@@ -41,10 +45,11 @@ jobs:
       - name: Gemini ergänzt Coverstock, Fotos, Layoutvorschläge
         if: ${{ !inputs.nur_pruefen }}
         continue-on-error: true
+        timeout-minutes: 150
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          node scripts/gemini-enrich.js 12
+          node scripts/gemini-enrich.js ${{ inputs.max || 150 }}
           node scripts/validate-balls.js
       - name: Produktfotos ergänzen
         if: ${{ !inputs.nur_pruefen }}

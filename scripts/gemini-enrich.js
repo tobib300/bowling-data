@@ -91,6 +91,7 @@ ${p.text}`;
           .map(l=>({pin:l.pin.trim(),psa:l.psa.trim(),buf:l.buf.trim(),src:String(l.src||'Hersteller').slice(0,30)+' · KI'}));
           b.layouts=ls;c=c||ls.length>0}}}
     if(c){chg++;console.log(' +',b.brand,b.name)}
+    if(done%10===0&&dirty){if(chg)j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')} // Zwischenstand sichern, falls der Lauf abbricht
   }
   console.log('Geprüft:',done,'· ergänzt:',chg);
   if(dirty){if(chg)j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')}
