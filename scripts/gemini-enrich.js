@@ -48,8 +48,8 @@ async function modelList(){
   _models=[...new Set([...found.filter(m=>/lite/.test(m)).slice(0,2),...MODELS,...found])].slice(0,6);console.log('Modelle:',_models.join(', '));return _models}
 async function ask(b,p){
   const prompt=`Bowlingball: "${b.brand} ${b.name}". Unten steht der Text der Produktseite ${p.url}. Antworte NUR mit JSON, ohne Text drumherum:
-{"coverstock":string|null,"layouts":[{"pin":string,"psa":string,"buf":string,"src":string}]}
-Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der Hülle (z. B. "HK22C2 Solid Reactive"). layouts nur, wenn der Text ausdrücklich Bohrvorschläge nennt; Maße in Zoll als Text ("4 1/2", "5.0"): pin = Pin zu PAP, psa = PSA zu PAP, buf = Pin Buffer; src = Quelle kurz. Nichts erfinden: bei Unsicherheit null bzw. leeres Array.
+{"coverstock":string|null,"rg":number|null,"diff":number|null,"mb":number|null,"kern":string|null,"finish":string|null,"layouts":[{"pin":string,"psa":string,"buf":string,"src":string}]}
+Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der Hülle (z. B. "HK22C2 Solid Reactive"). layouts nur, wenn der Text ausdrücklich Bohrvorschläge nennt; Maße in Zoll als Text ("4 1/2", "5.0"): pin = Pin zu PAP, psa = PSA zu PAP, buf = Pin Buffer; src = Quelle kurz. rg = Radius of Gyration (z. B. 2.52), diff = Differential (z. B. 0.048), mb = Mass-Bias-Differential bzw. Intermediate-Differential (z. B. 0.014), kern = Name des Kerns, finish = Oberflächenfinish ab Werk (z. B. "2000 Abralon"). rg, diff und mb nur, wenn sie ausdrücklich als Zahl im Text stehen; nie schätzen oder aus dem Kernnamen ableiten. Nichts erfinden: bei Unsicherheit null bzw. leeres Array.
 
 SEITENTEXT:
 ${p.text}`;
@@ -69,17 +69,24 @@ ${p.text}`;
   // zuerst Bälle ohne Coverstock/Foto, dann die, denen nur layouts fehlt (stabile Sortierung = Listenreihenfolge bleibt)
   const need=b=>(!b.coverstock)+(!b.img);
   for(const b of [...j.balls].sort((x,y)=>need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
-    if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts)continue;
+    if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts&&(b.rg||b.kernNein))continue;
     if(!b.url&&(HERST.ueberspringen||[]).includes(b.brand.toLowerCase()))continue; // Nischenmarke ohne Quelle
     if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
     done++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
     console.log(' ?',b.brand,b.name,'· Seite',p.url,'· Text',p.text.length,'Zeichen · og:image',p.og?'ja':'nein');
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
-    if(!b.coverstock||!b.layouts){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);delete b.checked;if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
+    if(!b.coverstock||!b.layouts||(!b.rg&&!b.kernNein)){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);delete b.checked;if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
       await sleep(15000);
       console.log('   Gemini:',a?('coverstock='+JSON.stringify(a.coverstock??null)+' · layouts='+(Array.isArray(a.layouts)?a.layouts.length:0)):'keine auswertbare Antwort');
       if(a){
         if(!b.coverstock&&typeof a.coverstock==='string'&&a.coverstock.length<80){b.coverstock=a.coverstock.trim();c=true}
+        if(!b.rg&&!b.kernNein){const rg=+a.rg,df=+a.diff,mb=a.mb==null?null:+a.mb;
+          // Plausibilität: RG 2.35 bis 2.85, Differential 0 bis 0.08, Mass-Bias-Differential 0 bis 0.04 (Werte stehen nur drin, wenn die Seite sie nennt)
+          if(a.rg!=null&&rg>=2.35&&rg<=2.85&&a.diff!=null&&df>=0&&df<=0.08&&(mb===null||(mb>=0&&mb<=0.04))){
+            b.rg=+rg.toFixed(3);b.diff=+df.toFixed(3);if(mb!==null)b.mb=+mb.toFixed(3);
+            if(typeof a.kern==='string'&&a.kern.length<50)b.kern=a.kern.trim();if(typeof a.finish==='string'&&a.finish.length<50)b.finish=a.finish.trim();
+            b.kernSrc=(()=>{try{return new URL(p.url).hostname.replace(/^www\./,'')}catch{return 'Produktseite'}})()+' · KI';c=true}
+          else b.kernNein=true}
         if(!b.layouts){const ls=(Array.isArray(a.layouts)?a.layouts:[]).filter(l=>l&&numOk(l.pin)&&numOk(l.psa)&&numOk(l.buf)&&toNum(l.pin)>=1&&toNum(l.pin)<=6&&toNum(l.psa)<=6&&toNum(l.buf)<=toNum(l.pin)).slice(0,6)
           .map(l=>({pin:l.pin.trim(),psa:l.psa.trim(),buf:l.buf.trim(),src:String(l.src||'Hersteller').slice(0,30)+' · KI'}));
           b.layouts=ls;c=c||ls.length>0}}}
