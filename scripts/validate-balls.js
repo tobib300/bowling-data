@@ -10,6 +10,7 @@ for(const b of j.balls){
   if(b.layouts&&(!Array.isArray(b.layouts)||b.layouts.some(l=>!l||!l.pin||!l.psa||!l.buf))){console.error('layouts ungültig:',b.brand,b.name);bad++}
   if(b.rg!==undefined&&!(b.rg>=2.35&&b.rg<=2.85)){console.error('rg ungültig:',b.brand,b.name);bad++}
   if(b.diff!==undefined&&!(b.diff>=0&&b.diff<=0.08)){console.error('diff ungültig:',b.brand,b.name);bad++}
+  if(b.sym!==undefined&&!['symmetrisch','asymmetrisch'].includes(b.sym)){console.error('sym ungültig:',b.brand,b.name);bad++}
   if(b.mb!==undefined&&!(b.mb>=0&&b.mb<=0.04)){console.error('mb ungültig:',b.brand,b.name);bad++}
   if(b.img&&!/^https:\/\//.test(b.img)){console.error('img ungültig:',b.brand,b.name);bad++}
   const k=(b.brand+'|'+b.name).toLowerCase();if(seen.has(k)){console.error('Dublette:',k);bad++}seen.add(k);

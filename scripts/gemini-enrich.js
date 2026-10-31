@@ -48,8 +48,8 @@ async function modelList(){
   _models=[...new Set([...found.filter(m=>/lite/.test(m)).slice(0,2),...MODELS,...found])].slice(0,6);console.log('Modelle:',_models.join(', '));return _models}
 async function ask(b,p){
   const prompt=`Bowlingball: "${b.brand} ${b.name}". Unten steht der Text der Produktseite ${p.url}. Antworte NUR mit JSON, ohne Text drumherum:
-{"coverstock":string|null,"rg":number|null,"diff":number|null,"mb":number|null,"kern":string|null,"finish":string|null,"layouts":[{"pin":string,"psa":string,"buf":string,"src":string}]}
-Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der Hülle (z. B. "HK22C2 Solid Reactive"). layouts nur, wenn der Text ausdrücklich Bohrvorschläge nennt; Maße in Zoll als Text ("4 1/2", "5.0"): pin = Pin zu PAP, psa = PSA zu PAP, buf = Pin Buffer; src = Quelle kurz. rg = Radius of Gyration (z. B. 2.52), diff = Differential (z. B. 0.048), mb = Mass-Bias-Differential bzw. Intermediate-Differential (z. B. 0.014), kern = Name des Kerns, finish = Oberflächenfinish ab Werk (z. B. "2000 Abralon"). rg, diff und mb nur, wenn sie ausdrücklich als Zahl im Text stehen; nie schätzen oder aus dem Kernnamen ableiten. Nichts erfinden: bei Unsicherheit null bzw. leeres Array.
+{"coverstock":string|null,"rg":number|null,"diff":number|null,"mb":number|null,"kern":string|null,"sym":"symmetrisch"|"asymmetrisch"|null,"finish":string|null,"layouts":[{"pin":string,"psa":string,"buf":string,"src":string}]}
+Regeln: Nimm ausschließlich Angaben aus dem Seitentext. coverstock = Name der Hülle (z. B. "HK22C2 Solid Reactive"). layouts nur, wenn der Text ausdrücklich Bohrvorschläge nennt; Maße in Zoll als Text ("4 1/2", "5.0"): pin = Pin zu PAP, psa = PSA zu PAP, buf = Pin Buffer; src = Quelle kurz. rg = Radius of Gyration (z. B. 2.52), diff = Differential (z. B. 0.048), mb = Mass-Bias-Differential bzw. Intermediate-Differential (z. B. 0.014), kern = Name des Kerns, sym = "symmetrisch" oder "asymmetrisch" nur, wenn die Seite den Kern ausdrücklich symmetrisch (symmetric) oder asymmetrisch (asymmetric) nennt, sonst null. finish = Oberflächenfinish ab Werk genau wie angegeben (z. B. "2000 Abralon", "5500 LSS", "Polished"). rg, diff und mb nur, wenn sie ausdrücklich als Zahl im Text stehen; nie schätzen oder aus dem Kernnamen ableiten. Nichts erfinden: bei Unsicherheit null bzw. leeres Array.
 
 SEITENTEXT:
 ${p.text}`;
@@ -84,7 +84,7 @@ ${p.text}`;
           // Plausibilität: RG 2.35 bis 2.85, Differential 0 bis 0.08, Mass-Bias-Differential 0 bis 0.04 (Werte stehen nur drin, wenn die Seite sie nennt)
           if(a.rg!=null&&rg>=2.35&&rg<=2.85&&a.diff!=null&&df>=0&&df<=0.08&&(mb===null||(mb>=0&&mb<=0.04))){
             b.rg=+rg.toFixed(3);b.diff=+df.toFixed(3);if(mb!==null)b.mb=+mb.toFixed(3);
-            if(typeof a.kern==='string'&&a.kern.length<50)b.kern=a.kern.trim();if(typeof a.finish==='string'&&a.finish.length<50)b.finish=a.finish.trim();
+            if(typeof a.kern==='string'&&a.kern.length<50)b.kern=a.kern.trim();if(typeof a.finish==='string'&&a.finish.length<50)b.finish=a.finish.trim();if(a.sym==='symmetrisch'||a.sym==='asymmetrisch')b.sym=a.sym;
             b.kernSrc=(()=>{try{return new URL(p.url).hostname.replace(/^www\./,'')}catch{return 'Produktseite'}})()+' · KI';c=true}
           else b.kernNein=true}
         if(!b.layouts){const ls=(Array.isArray(a.layouts)?a.layouts:[]).filter(l=>l&&numOk(l.pin)&&numOk(l.psa)&&numOk(l.buf)&&toNum(l.pin)>=1&&toNum(l.pin)<=6&&toNum(l.psa)<=6&&toNum(l.buf)<=toNum(l.pin)).slice(0,6)
