@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "note": "Quelle: Veröffentlichte Hersteller-Neuheiten 2026. Coverstock steht nur, wenn angegeben. Eigene Bälle kannst du in der App frei eintippen.",
  "balls": [
   {
@@ -815,13 +815,15 @@
    "brand": "900 Global",
    "name": "Afterburner Blue/Black",
    "release": "2020-07-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Afterburner Purple/Black",
    "release": "2020-07-28",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -842,7 +844,8 @@
    "brand": "900 Global",
    "name": "Aspect",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1114,7 +1117,8 @@
    "brand": "900 Global",
    "name": "Cruise Pearl",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1129,26 +1133,30 @@
    "name": "Cruise Sapphire",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Cruise Solid",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Cruise Violet",
    "release": "2021-03-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Cruise Wine Pearl",
    "release": "2023-10-24",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1208,14 +1216,16 @@
    "name": "Duty Pearl",
    "release": "2023-07-25",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Duty Solid",
    "release": "2023-12-12",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1263,21 +1273,34 @@
    "name": "Eternity Π (Pi)",
    "release": "2023-08-15",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGEB/BBMGEB.png",
+   "coverstock": "Reserve Blend 901 Solid Coverstock",
+   "rg": 2.49,
+   "diff": 0.05,
+   "mb": 0.014,
+   "kern": "Epoch Asymmetric Core",
+   "finish": "2000 Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "900 Global",
    "name": "Eternity Pearl",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Extreme Reality",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1349,13 +1372,15 @@
    "brand": "900 Global",
    "name": "Gear 300 SE",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Gear 300 Signature",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1399,7 +1424,8 @@
    "brand": "900 Global",
    "name": "Gear High End",
    "release": "2020-11-17",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1417,7 +1443,8 @@
    "brand": "900 Global",
    "name": "Gear Sapphire",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1435,7 +1462,8 @@
    "brand": "900 Global",
    "name": "Gear SSS",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1500,7 +1528,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Amethyst",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1546,7 +1575,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Claw Pink Poly",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1582,7 +1612,8 @@
    "name": "HB (Honey Badger) Extreme 2024",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1608,13 +1639,15 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Extreme Pearl Blue/Fuchsia/Black",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "HB (Honey Badger) Extreme Pearl Platinum/Violet/Pink",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1627,7 +1660,8 @@
    "name": "HB (Honey Badger) Extreme Tour Edition",
    "release": "2023-06-20",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1645,7 +1679,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Intensity",
    "release": "2021-02-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1658,7 +1693,8 @@
    "name": "HB (Honey Badger) Ocean Pearl",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1690,7 +1726,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Revival",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1710,7 +1747,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger) Trial",
    "release": "2020-12-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1737,7 +1775,8 @@
    "brand": "900 Global",
    "name": "HB (Honey Badger)Yellow Poly",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1879,7 +1918,8 @@
    "brand": "900 Global",
    "name": "Iron SS",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -1950,7 +1990,8 @@
    "brand": "900 Global",
    "name": "Ordnance C4",
    "release": "2020-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2033,7 +2074,8 @@
    "brand": "900 Global",
    "name": "Reality",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2061,7 +2103,8 @@
    "name": "Reality GPT",
    "release": "2023-12-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2083,7 +2126,8 @@
    "name": "Reality Upturn",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2145,7 +2189,12 @@
    "name": "Sublime",
    "release": "2023-11-07",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGSM/bbmgsm.gif",
+   "coverstock": "Reserve Blend 802 Hybrid",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "900 Global",
@@ -2194,7 +2243,8 @@
    "name": "Tough Reality",
    "release": "2023-07-25",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2297,13 +2347,15 @@
    "brand": "900 Global",
    "name": "Volatility Rage",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Volatility Torque",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2363,7 +2415,8 @@
    "name": "Wolverine Vanta Black",
    "release": "2023-07-18",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2384,20 +2437,41 @@
    "name": "Xponent",
    "release": "2023-06-20",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGXN/BBMGXN.png",
+   "coverstock": "Reserve Blend 701 Solid",
+   "rg": 2.48,
+   "diff": 0.042,
+   "kern": "Shrapnel 2.0 Symmetric",
+   "finish": "4000 Grit Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "900 Global",
    "name": "Xponent Pearl",
    "release": "2023-11-07",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGXL/BBMGXL.png",
+   "coverstock": "Reserve Blend 702 Pearl",
+   "rg": 2.48,
+   "diff": 0.042,
+   "kern": "Shrapnel 2.0 Symmetric",
+   "finish": "Reacta Gloss",
+   "sym": "symmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "900 Global",
    "name": "Zen",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2422,14 +2496,26 @@
    "name": "Zen Gold Label",
    "release": "2023-06-20",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGZG/BBMGZG.png",
+   "coverstock": "Reserve Blend 801 Pearl",
+   "rg": 2.49,
+   "diff": 0.051,
+   "mb": 0.014,
+   "kern": "Meditate Symmetric",
+   "finish": "Reacta Gloss",
+   "sym": "symmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "900 Global",
    "name": "Zen GPT",
    "release": "2023-12-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2450,7 +2536,8 @@
    "name": "Zen Mode",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2479,14 +2566,16 @@
    "name": "Zen Sage",
    "release": "2023-11-28",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
    "name": "Zen Solar",
    "release": "2023-07-18",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "900 Global",
@@ -2604,7 +2693,8 @@
    "brand": "ABS",
    "name": "Behati",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -2867,7 +2957,8 @@
    "brand": "ABS",
    "name": "Nanodesu Accu-Line Tour Premium IV",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -2958,7 +3049,8 @@
    "brand": "ABS",
    "name": "Nanodesu Accu-Rise VII",
    "release": "2020-07-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3045,7 +3137,8 @@
    "brand": "ABS",
    "name": "Nanodesu ꝏ Eight Black",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3057,7 +3150,8 @@
    "brand": "ABS",
    "name": "Nanodesu Grasp II",
    "release": "2020-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3141,13 +3235,15 @@
    "brand": "ABS",
    "name": "Peanuts Black",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
    "name": "Peanuts Blue",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3167,7 +3263,8 @@
    "brand": "ABS",
    "name": "Peanuts Red",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3187,7 +3284,8 @@
    "brand": "ABS",
    "name": "Peanuts Yellow",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3277,7 +3375,8 @@
    "brand": "ABS",
    "name": "PRO-am Majority",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3290,7 +3389,8 @@
    "brand": "ABS",
    "name": "PRO-am Majority Black",
    "release": "2021-03-30",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3434,7 +3534,8 @@
    "brand": "ABS",
    "name": "Pure Rise 74D Nanodesu",
    "release": "2021-02-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "ABS",
@@ -3976,7 +4077,8 @@
    "name": "Defender Aegis",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -3990,7 +4092,8 @@
    "name": "Defender Pearl",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4014,7 +4117,8 @@
    "brand": "Brunswick",
    "name": "Emperor Nirvana",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4145,7 +4249,8 @@
    "brand": "Brunswick",
    "name": "Hero Solid",
    "release": "2020-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-hero-solid-bowling-ball-19005.jpg"
   },
   {
    "brand": "Brunswick",
@@ -4292,7 +4397,8 @@
    "name": "Johnny Petraglia BVL Blue-Purple",
    "release": "2023-08-08",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4327,13 +4433,15 @@
    "name": "Johnny Petraglia LT-48 Hybrid",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
    "name": "Kaiser Nirvana",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4369,7 +4477,8 @@
    "brand": "Brunswick",
    "name": "Knock Out",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-knock-out-bowling-ball-19144.jpg"
   },
   {
    "brand": "Brunswick",
@@ -4389,7 +4498,8 @@
    "brand": "Brunswick",
    "name": "LT-48 Pro",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4404,7 +4514,8 @@
    "name": "LT-48 Pro Purple",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4520,7 +4631,8 @@
    "brand": "Brunswick",
    "name": "Melee Jab Blood Red",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-melee-jab-blood-red-bowling-ball-18909.jpg"
   },
   {
    "brand": "Brunswick",
@@ -4534,7 +4646,8 @@
    "name": "Melee Jab Emerald Green",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4625,7 +4738,8 @@
    "brand": "Brunswick",
    "name": "NeXXus AMD",
    "release": "2021-03-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4708,13 +4822,15 @@
    "brand": "Brunswick",
    "name": "Prism Hybrid Tour",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
    "name": "Prism Solar",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -4732,7 +4848,8 @@
    "brand": "Brunswick",
    "name": "Prism Warp Hybrid",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-warp-hybrid-bowling-ball-18907.jpg"
   },
   {
    "brand": "Brunswick",
@@ -4850,7 +4967,8 @@
    "brand": "Brunswick",
    "name": "Return Zone",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -5218,7 +5336,8 @@
    "name": "Vintage Teal Rhino Pro",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -5245,7 +5364,8 @@
    "brand": "Brunswick",
    "name": "Zenith",
    "release": "2020-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -5258,7 +5378,8 @@
    "brand": "Brunswick",
    "name": "Zenith Pearl",
    "release": "2021-02-02",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-zenith-pearl-bowling-ball-19193.jpg"
   },
   {
    "brand": "Brunswick",
@@ -5271,7 +5392,8 @@
    "brand": "Brunswick",
    "name": "Zenith Red",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Brunswick",
@@ -5299,14 +5421,16 @@
    "name": "Zone Extreme",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
    "name": "Atlas",
    "release": "2023-06-13",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -5325,7 +5449,8 @@
    "brand": "Columbia 300",
    "name": "Authority Solid",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-authority-solid-bowling-ball-18913.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -5349,7 +5474,8 @@
    "brand": "Columbia 300",
    "name": "Command",
    "release": "2020-12-17",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-command-bowling-ball-19146.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -5418,13 +5544,15 @@
    "brand": "Columbia 300",
    "name": "Dynamic Swing",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-dynamic-swing-bowling-ball-18988.jpg"
   },
   {
    "brand": "Columbia 300",
    "name": "Dynamic Swing Pearl",
    "release": "2021-02-02",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-dynamic-swing-pearl-bowling-ball-19195.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -5451,7 +5579,8 @@
    "name": "High Speed",
    "release": "2023-08-22",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -5526,7 +5655,8 @@
    "name": "Max Speed",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -5663,7 +5793,8 @@
    "brand": "Columbia 300",
    "name": "Next Gen",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -5723,7 +5854,8 @@
    "brand": "Columbia 300",
    "name": "Outlook Solid",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-outlook-solid-bowling-ball-19111.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -5964,13 +6096,15 @@
    "brand": "Columbia 300",
    "name": "Shark Pearl",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
    "name": "Shark Solid",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -6216,7 +6350,8 @@
    "brand": "Columbia 300",
    "name": "Virus",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Columbia 300",
@@ -6236,7 +6371,8 @@
    "name": "XTech (11 Lb. Only)",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Comet&Co.",
@@ -6251,35 +6387,40 @@
    "name": "Hero (Batman)",
    "release": "2023-12-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "DC",
    "name": "Hero (Flash)",
    "release": "2023-12-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "DC",
    "name": "Hero (Joker)",
    "release": "2023-12-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "DC",
    "name": "Hero (Superman)",
    "release": "2023-12-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "DC",
    "name": "Hero/S",
    "release": "2023-12-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Dexter",
@@ -6379,7 +6520,8 @@
    "brand": "DV8",
    "name": "Damn Good Verge",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-damn-good-verge-bowling-ball-19177.jpg"
   },
   {
    "brand": "DV8",
@@ -6406,7 +6548,8 @@
    "brand": "DV8",
    "name": "Decree Pearl",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-decree-pearl-bowling-ball-19115.jpg"
   },
   {
    "brand": "DV8",
@@ -6534,7 +6677,8 @@
    "name": "Hell Cat XLR8",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "DV8",
@@ -6547,7 +6691,8 @@
    "brand": "DV8",
    "name": "Hell Raiser Return",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-hell-raiser-return-bowling-ball-19175.jpg"
   },
   {
    "brand": "DV8",
@@ -6578,7 +6723,8 @@
    "brand": "DV8",
    "name": "Intimidator Pearl",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-intimidator-pearl-bowling-ball-18990.jpg"
   },
   {
    "brand": "DV8",
@@ -6798,7 +6944,8 @@
    "brand": "DV8",
    "name": "Verge Pearl",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-pearl-bowling-ball-18872.jpg"
   },
   {
    "brand": "DV8",
@@ -6830,7 +6977,8 @@
    "brand": "DV8",
    "name": "Warrant Solid",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-warrant-solid-bowling-ball-19113.jpg"
   },
   {
    "brand": "DV8",
@@ -6927,13 +7075,15 @@
    "brand": "Ebonite",
    "name": "Aero",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
    "name": "Aero Dynamix",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-aero-dynamix-bowling-ball-19151.jpg"
   },
   {
    "brand": "Ebonite",
@@ -6951,7 +7101,8 @@
    "brand": "Ebonite",
    "name": "Allure Solid",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-allure-solid-bowling-ball-19117.jpg"
   },
   {
    "brand": "Ebonite",
@@ -7027,7 +7178,8 @@
    "brand": "Ebonite",
    "name": "Craft Angular One",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7239,7 +7391,8 @@
    "brand": "Ebonite",
    "name": "Evolve Motion",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7260,7 +7413,15 @@
    "name": "Fireball",
    "release": "2023-08-22",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "HK22 - GB10.7 Pearl",
+   "rg": 2.519,
+   "diff": 0.039,
+   "kern": "Fireball",
+   "finish": "500, 1000, 1500 Siaair / Factory Compound",
+   "kernSrc": "ebonite.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -7332,7 +7493,8 @@
    "brand": "Ebonite",
    "name": "GB4 (Game Breaker 4)",
    "release": "2021-02-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7471,7 +7633,8 @@
    "brand": "Ebonite",
    "name": "Legacy Hybrid",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7566,7 +7729,8 @@
    "name": "Mission 4.5",
    "release": "2023-10-10",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7578,7 +7742,8 @@
    "brand": "Ebonite",
    "name": "Mission Agent",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7712,7 +7877,8 @@
    "brand": "Ebonite",
    "name": "Omni Hybrid",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-omni-hybrid-bowling-ball-18992.jpg"
   },
   {
    "brand": "Ebonite",
@@ -7840,7 +8006,8 @@
    "name": "Pivot Planet",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -7950,7 +8117,8 @@
    "name": "Royal Angular One",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -8025,14 +8193,24 @@
    "brand": "Ebonite",
    "name": "The One Black/Purple",
    "release": "2020-10-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
    "name": "The One Black Urethane",
    "release": "2023-03-07",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "GB 10.7",
+   "rg": 2.46,
+   "diff": 0.056,
+   "mb": 0.027,
+   "kern": "Centrex Symmetrical",
+   "sym": "symmetrisch",
+   "kernSrc": "ebonite.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -8045,7 +8223,16 @@
    "name": "The One (Connect)",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "GB 10.7",
+   "rg": 2.46,
+   "diff": 0.056,
+   "mb": 0.027,
+   "kern": "Centrex Symmetrical",
+   "sym": "symmetrisch",
+   "kernSrc": "ebonite.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -8194,7 +8381,8 @@
    "name": "The One Ultramarine",
    "release": "2023-07-25",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -8243,7 +8431,8 @@
    "brand": "Ebonite",
    "name": "The Win Pearl",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -8496,7 +8685,8 @@
    "brand": "Ebonite",
    "name": "Werewolf Black/Purple/White",
    "release": "2021-01-26",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -8520,7 +8710,8 @@
    "brand": "Ebonite",
    "name": "Wolf Black",
    "release": "2021-01-26",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Ebonite",
@@ -8652,7 +8843,8 @@
    "name": "EZ Black-Silver Pearl",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -8667,7 +8859,8 @@
    "name": "EZ Teal-Blue Pearl",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -8712,7 +8905,8 @@
    "brand": "Elite (Bowlers Paradise)",
    "name": "Predator",
    "release": "2020-12-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -8725,7 +8919,8 @@
    "brand": "Elite (Bowlers Paradise)",
    "name": "Star (All Colors)",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Epic Bowling",
@@ -8859,7 +9054,8 @@
    "name": "3D Offset Hybrid",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -8911,7 +9107,8 @@
    "brand": "Hammer",
    "name": "Avenger",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -8953,7 +9150,8 @@
    "name": "Black Pearl Urethane Hammer (78D)",
    "release": "2023-12-12",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -8967,13 +9165,23 @@
    "name": "Black Urethane Solid",
    "release": "2023-08-22",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Urethane",
+   "rg": 2.65,
+   "diff": 0.015,
+   "kern": "LED",
+   "finish": "500 Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "hammerbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Black Widow (2.0)",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-2-0-bowling-ball-19037.jpg"
   },
   {
    "brand": "Hammer",
@@ -8994,14 +9202,25 @@
    "name": "Black Widow 2.0 Hybrid Alan Chan",
    "release": "2023-07-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow 2.0 Hybrid Black/Gold",
    "release": "2023-07-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Aggression Solid",
+   "rg": 2.5,
+   "diff": 0.058,
+   "mb": 0.016,
+   "kern": "Gas Mask",
+   "finish": "500, 1000, 2000 Siaair",
+   "sym": "asymmetrisch",
+   "kernSrc": "hammerbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -9016,7 +9235,17 @@
    "name": "Black Widow 2.0 Pearl",
    "release": "2023-07-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Aggression Solid",
+   "rg": 2.5,
+   "diff": 0.058,
+   "mb": 0.016,
+   "kern": "Gas Mask",
+   "finish": "500, 1000, 2000 Siaair",
+   "sym": "asymmetrisch",
+   "kernSrc": "hammerbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -9078,7 +9307,8 @@
    "brand": "Hammer",
    "name": "Black Widow Black",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9148,7 +9378,8 @@
    "name": "Black Widow Dark Night",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9205,7 +9436,8 @@
    "brand": "Hammer",
    "name": "Black Widow Hybrid",
    "release": "2021-03-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9225,14 +9457,22 @@
    "name": "Black Widow Legend Black Pearl",
    "release": "2023-03-07",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "NBT Hybrid",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Legend Black Solid",
    "release": "2023-03-07",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "NBT Hybrid",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -9383,13 +9623,15 @@
    "brand": "Hammer",
    "name": "Black Widow Purple",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Real Monster",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9402,14 +9644,16 @@
    "brand": "Hammer",
    "name": "Black Widow Red",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow RPM",
    "release": "2023-03-07",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9430,7 +9674,8 @@
    "name": "Black Widow Toxin",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9593,7 +9838,8 @@
    "name": "Black Widow XR Pearl",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9737,7 +9983,8 @@
    "name": "Envy Pearl",
    "release": "2023-05-23",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -9835,7 +10082,8 @@
    "brand": "Hammer",
    "name": "Fugitive Solid",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-fugitive-solid-bowling-ball-18876.jpg"
   },
   {
    "brand": "Hammer",
@@ -10064,7 +10312,8 @@
    "name": "Magenta Urethane Pearl",
    "release": "2023-06-13",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10109,7 +10358,8 @@
    "brand": "Hammer",
    "name": "No Mercy Pearl",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10133,7 +10383,8 @@
    "brand": "Hammer",
    "name": "No Mercy Solid",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10153,13 +10404,15 @@
    "brand": "Hammer",
    "name": "Obsession",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Obsession Tour",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10247,7 +10500,8 @@
    "brand": "Hammer",
    "name": "Raw Hammer Black",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10299,25 +10553,29 @@
    "name": "Raw Hammer Black/Red/Smoke",
    "release": "2023-04-25",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Raw Hammer Blue/Silver/White",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Raw Hammer Orange/Black",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
    "name": "Raw Hammer Purple/Pink/Silver",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10384,13 +10642,15 @@
    "brand": "Hammer",
    "name": "Redemption Hybrid",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-hybrid-bowling-ball-18874.jpg"
   },
   {
    "brand": "Hammer",
    "name": "Redemption Multi",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10408,7 +10668,8 @@
    "brand": "Hammer",
    "name": "Redemption Tour",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10599,7 +10860,8 @@
    "brand": "Hammer",
    "name": "Super Obsession",
    "release": "2021-03-30",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10667,7 +10929,8 @@
    "brand": "Hammer",
    "name": "The Scorpion Hybrid",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10785,7 +11048,11 @@
    "name": "Vibe Purple/Gold Pearl",
    "release": "2023-08-08",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Max-Flip Reactive",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -10806,7 +11073,8 @@
    "brand": "Hammer",
    "name": "Violent Fugitive",
    "release": "2020-12-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10836,7 +11104,8 @@
    "brand": "Hammer",
    "name": "Web M.B.",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -10867,7 +11136,8 @@
    "brand": "Hammer",
    "name": "Web Tour Edition Hybrid Blue/Black",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Hammer",
@@ -11093,7 +11363,8 @@
    "brand": "High-Sports",
    "name": "Sweep Hard Clear (All Colors)",
    "release": "2021-01-26",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "High-Sports",
@@ -11242,7 +11513,8 @@
    "brand": "Lane Masters",
    "name": "Hellfire Flame",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Lane Masters",
@@ -11400,7 +11672,8 @@
    "brand": "Legends",
    "name": "Blue Diamond Limited",
    "release": "2020-09-29",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Legends",
@@ -11481,7 +11754,8 @@
    "brand": "Legends",
    "name": "Secret Diamond",
    "release": "2021-04-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Legends",
@@ -11581,7 +11855,8 @@
    "brand": "Lord Field",
    "name": "Blizzard Frozen",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Lord Field",
@@ -11620,7 +11895,8 @@
    "name": "Blizzard Zero",
    "release": "2023-04-18",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Lord Field",
@@ -12008,7 +12284,8 @@
    "brand": "Motiv",
    "name": "(Fatal) Venom",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-fatal-venom-bowling-ball-19023.jpg"
   },
   {
    "brand": "Motiv",
@@ -12033,7 +12310,8 @@
    "brand": "Motiv",
    "name": "Forge (Flare)",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-forge-flare-bowling-ball-19026.jpg"
   },
   {
    "brand": "Motiv",
@@ -12175,7 +12453,8 @@
    "brand": "Motiv",
    "name": "Jackal (Flash)",
    "release": "2020-08-11",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-jackal-flash-bowling-ball-18904.jpg"
   },
   {
    "brand": "Motiv",
@@ -12229,7 +12508,8 @@
    "brand": "Motiv",
    "name": "Jackal (Legacy)",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-jackal-legacy-bowling-ball-19158.jpg"
   },
   {
    "brand": "Motiv",
@@ -12267,7 +12547,17 @@
    "name": "Jackal (Shadow)",
    "release": "2023-08-15",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Leverage Solid Reactive",
+   "rg": 2.47,
+   "diff": 0.054,
+   "mb": 0.015,
+   "kern": "Predator™ V2",
+   "finish": "3000 Grit LSS",
+   "sym": "asymmetrisch",
+   "kernSrc": "motivbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -12487,13 +12777,15 @@
    "brand": "Motiv",
    "name": "Purple Tank",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-purple-tank-bowling-ball-19184.jpg"
   },
   {
    "brand": "Motiv",
    "name": "Raptor (Altitude)",
    "release": "2020-12-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Motiv",
@@ -12727,7 +13019,8 @@
    "name": "Tank Yellow Jacket",
    "release": "2023-06-13",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Motiv",
@@ -12759,7 +13052,16 @@
    "name": "(Top) Thrill Hybrid",
    "release": "2023-07-18",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "Turmoil™ XP3 Hybrid Reactive",
+   "rg": 2.55,
+   "diff": 0.037,
+   "kern": "Halogen",
+   "finish": "5500 Grit LSP",
+   "sym": "symmetrisch",
+   "kernSrc": "motivbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -12773,7 +13075,8 @@
    "name": "(Top) Thrill Solid",
    "release": "2023-07-18",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Motiv",
@@ -12791,7 +13094,8 @@
    "brand": "Motiv",
    "name": "Trident (Horizon)",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-trident-horizon-bowling-ball-19232.jpg"
   },
   {
    "brand": "Motiv",
@@ -12828,7 +13132,8 @@
    "brand": "Motiv",
    "name": "(Ultimate) Jackal",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Motiv",
@@ -12893,20 +13198,23 @@
    "brand": "Motiv",
    "name": "VIP (Affliction)",
    "release": "2021-04-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Motiv",
    "name": "VIP - ExJ",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Motiv",
    "name": "VIP ExJ (Sigma)",
    "release": "2023-05-23",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Moxy",
@@ -12974,7 +13282,8 @@
    "brand": "Own Hero",
    "name": "Black Panther",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Own Hero",
@@ -13016,7 +13325,8 @@
    "brand": "PBS",
    "name": "Gradation 3-Dimension",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "PBS",
@@ -13067,59 +13377,68 @@
    "name": "Phiten Clear Blue",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Phiten",
    "name": "Phiten Clear Pink",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Phiten",
    "name": "Phiten Urethane",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Black Beauty",
    "release": "2023-10-03",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Challenger Black/Purple/Silver",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Challenger Black/Silver",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Challenger Blue/Light Blue",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Challenger Red/Black/Silver",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
    "name": "Challenger Red/White/Blue",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
@@ -13141,7 +13460,8 @@
    "name": "Stallion",
    "release": "2023-12-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Pro Bowl",
@@ -13286,7 +13606,8 @@
    "brand": "Pyramid Bowling",
    "name": "Force Black Label",
    "release": "2021-01-26",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pyramid Bowling",
@@ -13318,7 +13639,8 @@
    "brand": "Pyramid Bowling",
    "name": "Force Unleashed",
    "release": "2020-09-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pyramid Bowling",
@@ -13463,7 +13785,8 @@
    "brand": "Pyramid Bowling",
    "name": "Supermoon",
    "release": "2020-11-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Pyramid Bowling",
@@ -13522,7 +13845,8 @@
    "brand": "Radical",
    "name": "Bonu$ Pearl",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Radical",
@@ -13664,7 +13988,8 @@
    "brand": "Radical",
    "name": "Guru Eternal Pearl",
    "release": "2020-07-14",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Radical",
@@ -13689,13 +14014,15 @@
    "brand": "Radical",
    "name": "Incognito",
    "release": "2020-11-03",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-incognito-bowling-ball-19041.jpg"
   },
   {
    "brand": "Radical",
    "name": "Incognito Pearl",
    "release": "2021-02-02",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-incognito-pearl-bowling-ball-19199.jpg"
   },
   {
    "brand": "Radical",
@@ -13800,7 +14127,8 @@
    "brand": "Radical",
    "name": "Katana Homura",
    "release": "2021-02-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Radical",
@@ -13824,7 +14152,8 @@
    "brand": "Radical",
    "name": "Katana Senbon Zakura",
    "release": "2021-02-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Radical",
@@ -13929,13 +14258,15 @@
    "brand": "Radical",
    "name": "Pandemonium",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-pandemonium-bowling-ball-18998.jpg"
   },
   {
    "brand": "Radical",
    "name": "Pandemonium Solid",
    "release": "2021-02-02",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-pandemonium-solid-bowling-ball-19201.jpg"
   },
   {
    "brand": "Radical",
@@ -14016,7 +14347,8 @@
    "brand": "Radical",
    "name": "Results Solid",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-results-solid-bowling-ball-18994.jpg"
   },
   {
    "brand": "Radical",
@@ -14241,7 +14573,8 @@
    "name": "Zig Zag",
    "release": "2023-11-07",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Radical",
@@ -14323,7 +14656,8 @@
    "brand": "Roto Grip",
    "name": "Attention Black Pearl",
    "release": "2020-10-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14390,7 +14724,8 @@
    "name": "Attention Scarlet",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14434,7 +14769,8 @@
    "name": "Attention X",
    "release": "2023-08-01",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14484,7 +14820,8 @@
    "name": "Clone Attack",
    "release": "2023-11-28",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14659,7 +14996,8 @@
    "name": "Gem Crystal",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14760,21 +15098,24 @@
    "brand": "Roto Grip",
    "name": "Hustle Ash",
    "release": "2020-10-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Hustle (BGB) Burgundy/Gold/Black",
    "release": "2023-10-31",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Hustle (BNB) Blue/Navy/Black",
    "release": "2023-10-31",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14881,7 +15222,8 @@
    "brand": "Roto Grip",
    "name": "Hustle Hunter",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14920,7 +15262,8 @@
    "brand": "Roto Grip",
    "name": "Hustle Metal",
    "release": "2020-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14934,7 +15277,8 @@
    "brand": "Roto Grip",
    "name": "Hustle Pink",
    "release": "2020-12-01",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -14971,7 +15315,8 @@
    "name": "Hustle (RPG) Red/Purple/Gold",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15009,7 +15354,8 @@
    "brand": "Roto Grip",
    "name": "Hustle Sky",
    "release": "2020-08-25",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15074,7 +15420,8 @@
    "brand": "Roto Grip",
    "name": "Hustle Wine",
    "release": "2021-04-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-hustle-wine-bowling-ball-19464.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -15096,14 +15443,16 @@
    "name": "Hustler Deep Purple",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Hustler Navy",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15136,7 +15485,8 @@
    "brand": "Roto Grip",
    "name": "Hyped Pearl",
    "release": "2021-03-16",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-hyped-pearl-bowling-ball-19495.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -15240,14 +15590,16 @@
    "name": "Idol Mega Pink",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Idol (M-P-W) Magenta-Purple-White",
    "release": "2023-10-03",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15271,7 +15623,8 @@
    "brand": "Roto Grip",
    "name": "Idol Purple",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15290,7 +15643,8 @@
    "brand": "Roto Grip",
    "name": "Idol Synergy",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-synergy-bowling-ball-19015.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -15584,13 +15938,15 @@
    "brand": "Roto Grip",
    "name": "RST X-1",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-rst-x-1-bowling-ball-19017.jpg"
   },
   {
    "brand": "Roto Grip",
    "name": "RST X-1 Squad",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15625,7 +15981,8 @@
    "name": "RST X-3 Pro",
    "release": "2023-02-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15639,7 +15996,8 @@
    "name": "RST X-4",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15654,20 +16012,23 @@
    "name": "RST X-4 Squad",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Rubicon",
    "release": "2020-07-28",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "Rubicon Attack",
    "release": "2023-05-30",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -15701,7 +16062,8 @@
    "brand": "Roto Grip",
    "name": "Rubicon UC2",
    "release": "2020-11-17",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-rubicon-uc2-bowling-ball-19140.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -15810,13 +16172,15 @@
    "brand": "Roto Grip",
    "name": "UFO II",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
    "name": "UFO Alert",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-ufo-alert-bowling-ball-19286.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -15848,7 +16212,8 @@
    "brand": "Roto Grip",
    "name": "Wild Streak Tour/U",
    "release": "2020-12-29",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Roto Grip",
@@ -16111,7 +16476,8 @@
    "name": "Absolute Pearl",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16181,7 +16547,8 @@
    "brand": "Storm",
    "name": "Axiom Pearl",
    "release": "2020-09-01",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-axiom-pearl-bowling-ball-18953.jpg"
   },
   {
    "brand": "Storm",
@@ -16194,7 +16561,8 @@
    "brand": "Storm",
    "name": "Axiom Pro",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16207,7 +16575,8 @@
    "brand": "Storm",
    "name": "Axiom Tour",
    "release": "2020-07-21",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16220,7 +16589,10 @@
    "name": "Bill Chrisman",
    "release": "2023-12-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -16256,7 +16628,8 @@
    "brand": "Storm",
    "name": "Bite SE",
    "release": "2020-12-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16367,7 +16740,8 @@
    "name": "Code Battle",
    "release": "2023-05-30",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16465,7 +16839,8 @@
    "name": "Code Supreme",
    "release": "2023-10-31",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16534,7 +16909,8 @@
    "brand": "Storm",
    "name": "Dark Code",
    "release": "2021-04-27",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-dark-code-bowling-ball-19282.jpg"
   },
   {
    "brand": "Storm",
@@ -16555,7 +16931,8 @@
    "name": "Dark PhysiX",
    "release": "2023-04-04",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16591,7 +16968,8 @@
    "brand": "Storm",
    "name": "Domination 2020",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16605,7 +16983,8 @@
    "name": "Domination Burgundy",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16638,7 +17017,8 @@
    "name": "Electrify (B/S/Y) Black/Silver/Yellow",
    "release": "2023-04-25",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16663,13 +17043,15 @@
    "brand": "Storm",
    "name": "Electrify Solid",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-electrify-solid-bowling-ball-19292.jpg"
   },
   {
    "brand": "Storm",
    "name": "Epic Crux",
    "release": "2021-04-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16716,7 +17098,8 @@
    "brand": "Storm",
    "name": "Fast Pitch",
    "release": "2020-09-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16754,7 +17137,8 @@
    "name": "Fight Road",
    "release": "2023-02-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16780,7 +17164,8 @@
    "brand": "Storm",
    "name": "Gate II",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16941,7 +17326,8 @@
    "name": "Hy-Road Flash",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16953,7 +17339,8 @@
    "brand": "Storm",
    "name": "Hy-Road Gold Pearl",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -16965,7 +17352,8 @@
    "brand": "Storm",
    "name": "Hy-Road Max",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-hy-road-max-bowling-ball-19165.jpg"
   },
   {
    "brand": "Storm",
@@ -16985,7 +17373,8 @@
    "name": "Hy-Road Pink Pearl",
    "release": "2023-11-28",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17070,7 +17459,8 @@
    "name": "Ice Storm - Ocean Blue/White",
    "release": "2023-11-21",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17127,14 +17517,16 @@
    "brand": "Storm",
    "name": "Incite",
    "release": "2021-01-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
    "name": "Incite Up",
    "release": "2023-08-01",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17243,7 +17635,8 @@
    "name": "!Q Tour 78/U",
    "release": "2023-10-17",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17323,7 +17716,8 @@
    "name": "!Q Tour Purple",
    "release": "2023-05-30",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17341,7 +17735,8 @@
    "brand": "Storm",
    "name": "!Q Tour Ruby",
    "release": "2021-01-26",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17360,7 +17755,8 @@
    "name": "!Q Tour Teal",
    "release": "2023-10-03",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17419,7 +17815,8 @@
    "name": "Lightning Storm Clear",
    "release": "2023-09-26",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17468,7 +17865,8 @@
    "name": "Lucky Larsen Masters",
    "release": "2023-03-28",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17481,7 +17879,8 @@
    "name": "Marvel Blast",
    "release": "2023-09-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17502,7 +17901,8 @@
    "name": "Marvel Impact +",
    "release": "2023-12-05",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17539,7 +17939,8 @@
    "brand": "Storm",
    "name": "Marvel Maxx Impact",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17586,7 +17987,8 @@
    "name": "Marvel Maxx Space",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17746,7 +18148,8 @@
    "brand": "Storm",
    "name": "Mega Lock",
    "release": "2021-01-19",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -17901,7 +18304,8 @@
    "brand": "Storm",
    "name": "Parallax Effect",
    "release": "2021-02-19",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-parallax-effect-bowling-ball-19187.jpg"
   },
   {
    "brand": "Storm",
@@ -17994,7 +18398,8 @@
    "brand": "Storm",
    "name": "Phaze Flow",
    "release": "2020-10-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18019,7 +18424,8 @@
    "name": "Phaze Ruby",
    "release": "2023-05-30",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18140,7 +18546,8 @@
    "brand": "Storm",
    "name": "PhysiX Power Elite",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18191,7 +18598,8 @@
    "name": "PhysiX Tour",
    "release": "2023-08-01",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18259,7 +18667,8 @@
    "brand": "Storm",
    "name": "Platinum Ford Clear Poly",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18318,13 +18727,15 @@
    "brand": "Storm",
    "name": "Proton PhysiX",
    "release": "2020-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-proton-physix-bowling-ball-19011.jpg"
   },
   {
    "brand": "Storm",
    "name": "Proton PhysiX 25th Anniversary",
    "release": "2020-10-27",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18346,20 +18757,23 @@
    "name": "Real Absolute",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
    "name": "Revenant",
    "release": "2020-12-20",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-revenant-bowling-ball-21906.jpg"
   },
   {
    "brand": "Storm",
    "name": "Revenant War",
    "release": "2023-05-02",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18439,14 +18853,16 @@
    "brand": "Storm",
    "name": "Solar Parallax",
    "release": "2020-09-22",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
    "name": "Solid Lock",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18460,7 +18876,8 @@
    "name": "Solution Black",
    "release": "2023-09-05",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18499,7 +18916,8 @@
    "brand": "Storm",
    "name": "Spot On (All Colors)",
    "release": "2021-03-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18539,7 +18957,8 @@
    "brand": "Storm",
    "name": "Striking Out Breast Cancer Clear Poly (All Colors)",
    "release": "2020-10-20",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18593,7 +19012,8 @@
    "name": "Summit Pearl",
    "release": "2023-10-31",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18691,7 +19111,8 @@
    "brand": "Storm",
    "name": "Sword Blaster",
    "release": "2021-03-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -18905,7 +19326,8 @@
    "brand": "Storm",
    "name": "Trend SE",
    "release": "2020-08-18",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -19061,7 +19483,8 @@
    "brand": "Storm",
    "name": "Tropical Surge Gold/Black",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -19084,7 +19507,17 @@
    "name": "Tropical Surge Gold/Purple",
    "release": "2023-04-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVKV/BBMVKV.png?v=a702c6a5",
+   "coverstock": "Reactor Pearl",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge Core",
+   "finish": "Power Edge",
+   "sym": "symmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -19126,7 +19559,8 @@
    "brand": "Storm",
    "name": "Tropical Surge Purple",
    "release": "2021-03-16",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -19262,7 +19696,8 @@
    "name": "Virtual Gravity Pro-X 2",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Storm",
@@ -19518,7 +19953,8 @@
    "name": "Archive",
    "release": "2023-07-11",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19533,7 +19969,8 @@
    "name": "Archive Solid",
    "release": "2023-10-24",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19617,13 +20054,15 @@
    "brand": "Swag",
    "name": "Big Bro Jacked",
    "release": "2020-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Big Bro Jacked (Korean Alphabet)",
    "release": "2020-10-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19637,7 +20076,8 @@
    "name": "Big Bro Top Dog",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19676,7 +20116,8 @@
    "name": "Buffalo",
    "release": "2023-03-07",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19776,14 +20217,16 @@
    "brand": "Swag",
    "name": "Dynamite",
    "release": "2021-01-12",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Dynamite Blaze",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19826,7 +20269,8 @@
    "name": "Fantasy Epic",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19870,7 +20314,8 @@
    "brand": "Swag",
    "name": "Geek Blue/Pink/Yellow",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19890,7 +20335,8 @@
    "brand": "Swag",
    "name": "Geek Purple/Gold/Silver",
    "release": "2021-03-23",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -19911,13 +20357,15 @@
    "name": "Graffiti Artist",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Graffiti I-CON",
    "release": "2020-07-28",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20021,7 +20469,8 @@
    "name": "Incredible! Phenom",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20092,7 +20541,8 @@
    "brand": "Swag",
    "name": "Joker Wild",
    "release": "2021-03-30",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20115,7 +20565,8 @@
    "name": "Mad Joker",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20135,7 +20586,8 @@
    "name": "Royal Diamond",
    "release": "2023-04-26",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20150,21 +20602,24 @@
    "name": "Shield Hybrid",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Shield Pearl",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Shield Solid",
    "release": "2023-06-06",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20204,21 +20659,24 @@
    "name": "Sparkling Hybrid",
    "release": "2023-10-24",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Sparkling Pearl",
    "release": "2023-10-24",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
    "name": "Sparkling Solid",
    "release": "2023-10-24",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20252,7 +20710,8 @@
    "name": "The Black Pearl Bloody Ocean",
    "release": "2023-04-04",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20305,7 +20764,8 @@
    "brand": "Swag",
    "name": "Wiper (All Colors)",
    "release": "2021-01-12",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Swag",
@@ -20382,7 +20842,8 @@
    "name": "Archetype Red-Blue",
    "release": "2023-08-01",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -20557,7 +21018,16 @@
    "name": "Kinetic Cobalt",
    "release": "2023-03-21",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "QR-7 Hybrid ( HK22)",
+   "rg": 2.48,
+   "diff": 0.04,
+   "mb": 0.006,
+   "kern": "Shuttle",
+   "finish": "500, 1500, 4000 Siaair",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -20582,7 +21052,8 @@
    "brand": "Track Inc.",
    "name": "Kinetic Platinum",
    "release": "2021-02-02",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -20623,7 +21094,8 @@
    "brand": "Track Inc.",
    "name": "Latitude Pearl",
    "release": "2020-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -20876,7 +21348,17 @@
    "name": "Paragon Pearl",
    "release": "2023-06-27",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "QR-11 Pearl (HK22)",
+   "rg": 2.486,
+   "diff": 0.056,
+   "mb": 0.015,
+   "kern": "I-Core 3.0",
+   "finish": "500, 1000, 1500 Siaair / Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -20890,7 +21372,16 @@
    "name": "Paragon (SE)",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "QR-11 Solid",
+   "rg": 2.486,
+   "diff": 0.056,
+   "mb": 0.015,
+   "kern": "I-Core 3.0",
+   "finish": "500, 1500 Siaair Micro Pad",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -20921,7 +21412,17 @@
    "name": "Paragon (Weapon)",
    "release": "2023-10-10",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "coverstock": "QR-11 Solid",
+   "rg": 2.486,
+   "diff": 0.056,
+   "mb": 0.015,
+   "kern": "I-Core 3.0",
+   "finish": "500, 1500 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -20957,13 +21458,15 @@
    "brand": "Track Inc.",
    "name": "Proof Hybrid",
    "release": "2020-12-15",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
    "name": "Proof Pearl",
    "release": "2020-08-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -20989,7 +21492,16 @@
    "name": "Sensor Solid",
    "release": "2023-09-19",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "coverstock": "MR-6 Solid",
+   "rg": 2.49,
+   "diff": 0.034,
+   "kern": "Regulator",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -21084,14 +21596,23 @@
    "name": "Stealth Pearl",
    "release": "2023-05-23",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "QR-9 Pearl ( HK22)",
+   "rg": 2.482,
+   "diff": 0.056,
+   "kern": "Stealth",
+   "finish": "500, 1000, 1500 Siaair / Factory Compound",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "Stealth Red",
    "release": "2023-08-01",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -21105,7 +21626,8 @@
    "brand": "Track Inc.",
    "name": "Strata",
    "release": "2020-10-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -21118,7 +21640,8 @@
    "brand": "Track Inc.",
    "name": "Strata Hybrid",
    "release": "2021-05-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
@@ -21177,7 +21700,17 @@
    "name": "Theorem",
    "release": "2023-11-07",
    "src": "USBC",
-   "imgChecked": "2026-10-30"
+   "imgChecked": "2026-10-30",
+   "checked": "2026-11-03",
+   "coverstock": "Prime Response Hybrid (HK22)",
+   "rg": 2.473,
+   "diff": 0.046,
+   "mb": 0.017,
+   "kern": "MC 2 Asym",
+   "finish": "500, 1000, 1500 Siaair / Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -21314,7 +21847,16 @@
    "name": "Tundra Fire",
    "release": "2023-03-21",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03",
+   "coverstock": "DR-5 Pearl ( HK22)",
+   "rg": 2.561,
+   "diff": 0.03,
+   "kern": "Track Symmetric",
+   "finish": "500, 1000, 1500 Siaair / Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -21334,13 +21876,15 @@
    "name": "T-Shark Black/Purple/Mint",
    "release": "2023-05-16",
    "src": "USBC",
-   "imgChecked": "2026-10-31"
+   "imgChecked": "2026-10-31",
+   "checked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
    "name": "T-Shark Black/Red/Orange",
    "release": "2021-04-13",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-03"
   },
   {
    "brand": "Track Inc.",
