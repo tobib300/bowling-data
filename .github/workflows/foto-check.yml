@@ -1,0 +1,54 @@
+name: Foto-Adressen prüfen
+
+# Nur lesen: prüft alle img-Adressen in balls.json (HTTP 200 und image/*) und die veröffentlichte Pages-Datei.
+# Schreibt nichts ins Repo. Läuft bei Änderung dieser Datei auf dem Prüf-Branch und manuell.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/proshop-ball-data-audit-6gstmx']
+    paths: ['.github/workflows/foto-check.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fotos und Pages-Datei prüfen
+        run: |
+          cat > /tmp/check.js <<'JS'
+          const fs=require('fs');
+          const UA={'user-agent':'Mozilla/5.0 (compatible; proshop-fotocheck)'};
+          const B=JSON.parse(fs.readFileSync('balls.json','utf8')).balls;
+          const withImg=B.filter(b=>b.img);
+          const urls=[...new Set(withImg.map(b=>b.img))];
+          let i=0,ok=0;const bad=[];
+          async function chk(u){
+            try{const r=await fetch(u,{headers:UA,redirect:'follow',signal:AbortSignal.timeout(20000)});
+              const ct=r.headers.get('content-type')||'';await r.body?.cancel();
+              if(r.status===200&&ct.startsWith('image/'))ok++;else bad.push([u,r.status,ct]);
+            }catch(e){bad.push([u,'ERR',String(e.cause?.code||e.message)])}}
+          (async()=>{
+            await Promise.all(Array.from({length:8},async()=>{while(i<urls.length)await chk(urls[i++])}));
+            const lines=[];
+            lines.push('## Foto-Adressen');
+            lines.push(`Bälle mit img: ${withImg.length} · verschiedene Adressen: ${urls.length} · OK: ${ok} · Fehler: ${bad.length}`);
+            const hosts={};bad.forEach(([u])=>{const h=new URL(u).host;hosts[h]=(hosts[h]||0)+1});
+            lines.push('Fehler je Host: '+JSON.stringify(hosts));
+            bad.slice(0,40).forEach(b=>lines.push(`- ${b.join(' | ')}`));
+            try{
+              const r=await fetch('https://tobib300.github.io/bowling-data/balls.json',{headers:UA});
+              const j=await r.json();
+              lines.push('## Veröffentlichte Pages-Datei');
+              lines.push(`HTTP ${r.status} · updated ${j.updated} · Bälle ${j.balls.length} · Repo-Datei: updated ${JSON.parse(fs.readFileSync('balls.json','utf8')).updated}, Bälle ${B.length}`);
+            }catch(e){lines.push('Pages-Datei nicht lesbar: '+e.message)}
+            const out=lines.join('\n');console.log(out);
+            if(process.env.GITHUB_STEP_SUMMARY)fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,out+'\n');
+          })();
+          JS
+          node /tmp/check.js

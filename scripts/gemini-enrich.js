@@ -66,12 +66,14 @@ ${p.text}`;
   throw new Error('503 Modell überlastet')}
 (async()=>{
   const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0,dirty=false;
-  // zuerst Bälle ohne Coverstock/Foto, dann die, denen nur layouts fehlt (stabile Sortierung = Listenreihenfolge bleibt)
+  // Reihenfolge: 1. Bälle ab 2024, denen Kernwerte noch fehlen (und nie versucht wurden), 2. Bälle ohne Coverstock/Foto, 3. neuere zuerst
   const need=b=>(!b.coverstock)+(!b.img);
-  for(const b of [...j.balls].sort((x,y)=>need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
+  const kernOffen=b=>(b.release||'')>='2024'&&!b.rg&&!b.kernNein;
+  const KERN_AB='2026-10-31'; // Kernwerte lesen wir erst seit diesem Tag; früher geprüfte Bälle dürfen deshalb sofort noch einmal drankommen
+  for(const b of [...j.balls].sort((x,y)=>kernOffen(y)-kernOffen(x)||need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
     if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts&&(b.rg||b.kernNein))continue;
     if(!b.url&&(HERST.ueberspringen||[]).includes(b.brand.toLowerCase()))continue; // Nischenmarke ohne Quelle
-    if(b.checked&&Date.now()-new Date(b.checked)<RECHECK)continue; // nicht jede Woche dieselben Bälle erneut versuchen
+    if(b.checked&&Date.now()-new Date(b.checked)<RECHECK&&!(kernOffen(b)&&b.checked<KERN_AB))continue; // nicht jede Woche dieselben Bälle erneut versuchen
     done++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
     console.log(' ?',b.brand,b.name,'· Seite',p.url,'· Text',p.text.length,'Zeichen · og:image',p.og?'ja':'nein');
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
