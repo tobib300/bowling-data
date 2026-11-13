@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "note": "Quelle: Veröffentlichte Hersteller-Neuheiten 2026. Coverstock steht nur, wenn angegeben. Eigene Bälle kannst du in der App frei eintippen.",
  "balls": [
   {
@@ -1485,7 +1485,8 @@
    "name": "Boost Black/Silver",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -1548,7 +1549,8 @@
    "name": "Boost Pink Sparkle",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -1772,7 +1774,8 @@
    "name": "Dream Big Pearl",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -1803,7 +1806,11 @@
    "name": "Drift",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/SHST280/SHST280@1.png",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "900 Global",
@@ -1966,7 +1973,8 @@
    "name": "Gear",
    "release": "2016-01-31",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -2514,14 +2522,16 @@
    "name": "Huge Respect",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
    "name": "Inception",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -2829,7 +2839,8 @@
    "name": "Pro Respect",
    "release": "2015-11-30",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -2934,7 +2945,8 @@
    "name": "Respect Solid",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -2973,7 +2985,8 @@
    "name": "Special Ops",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -3049,7 +3062,8 @@
    "name": "Truth",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -3262,7 +3276,8 @@
    "name": "X",
    "release": "2016-02-23",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -4637,7 +4652,8 @@
    "name": "Xcite Purple/Aqua",
    "release": "2016-05-17",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "ATK Bowling",
@@ -4668,14 +4684,16 @@
    "name": "Cheater Hybrid",
    "release": "2016-01-01",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "AZO",
    "name": "Outbreak Pearl",
    "release": "2016-01-01",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ball Factory",
@@ -4698,7 +4716,8 @@
    "name": "Ghost Wolf",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ballmaker.net",
@@ -4910,7 +4929,8 @@
    "name": "Aura ECS",
    "release": "2015-12-08",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -4957,14 +4977,16 @@
    "name": "BVL Johnny Petraglia Open",
    "release": "2016-04-19",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
    "name": "C(System) Versa-Max Tour",
    "release": "2015-10-20",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -5020,7 +5042,8 @@
    "name": "Cross Edge",
    "release": "2016-03-22",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -5765,7 +5788,8 @@
    "name": "Mastermind Ater",
    "release": "2016-03-22",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -6012,7 +6036,8 @@
    "name": "Nirvana Evol",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -6376,14 +6401,16 @@
    "name": "Shine Cloud",
    "release": "2015-10-20",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
    "name": "Siege Buster",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -6917,7 +6944,8 @@
    "name": "Delirium Shock Black/Red",
    "release": "2016-01-19",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7164,7 +7192,8 @@
    "name": "Momentum HST",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7179,14 +7208,16 @@
    "name": "Momentum HyperShock Black",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Momentum HyperShock Red",
    "release": "2015-11-03",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7506,7 +7537,8 @@
    "name": "Resurgence Fire HST",
    "release": "2016-05-24",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7619,7 +7651,8 @@
    "name": "Scout Reactive Raspberry/Blue",
    "release": "2016-05-05",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7750,14 +7783,16 @@
    "name": "Swerve (MK) Orange Pin",
    "release": "2015-10-20",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Swerve Big",
    "release": "2016-03-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7778,21 +7813,24 @@
    "name": "Swerve Gold",
    "release": "2016-03-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Swerve Limited",
    "release": "2016-02-23",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Swerve SE",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -7863,7 +7901,8 @@
    "name": "The Beast Urethane",
    "release": "2016-02-02",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -8515,7 +8554,8 @@
    "name": "Outcast Blue Bruiser",
    "release": "2016-04-05",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "DV8",
@@ -8703,7 +8743,8 @@
    "name": "Vandal Solid",
    "release": "2015-12-08",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "DV8",
@@ -8824,14 +8865,16 @@
    "name": "Blue Wolf (11 M)",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Crush/R Red",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -8854,14 +8897,16 @@
    "name": "Honor Purple (11M)",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Mission X Silver/Purple",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9228,7 +9273,8 @@
    "name": "Drastic Fusion",
    "release": "2016-01-12",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9298,7 +9344,8 @@
    "name": "Energy Angular One",
    "release": "2016-04-19",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9632,7 +9679,8 @@
    "name": "Inside Angular One",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9655,14 +9703,16 @@
    "name": "Legend One Extra",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Legend One Super Premium",
    "release": "2015-10-20",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9776,7 +9826,8 @@
    "name": "Mission 6.0",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9807,7 +9858,8 @@
    "name": "Mission Genisys",
    "release": "2016-04-19",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -9907,7 +9959,8 @@
    "name": "Nitro Orange/Purple/Red",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10025,7 +10078,8 @@
    "name": "Pivot Arsenal",
    "release": "2016-04-19",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10064,7 +10118,8 @@
    "name": "Pivot Boss",
    "release": "2015-11-03",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10087,7 +10142,8 @@
    "name": "Pivot Edge",
    "release": "2015-10-06",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10283,7 +10339,8 @@
    "name": "Source Purple/Blue/Silver",
    "release": "2016-05-24",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10480,7 +10537,8 @@
    "name": "The One Living Legend",
    "release": "2016-02-23",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10571,7 +10629,16 @@
    "name": "The One Red",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "coverstock": "GB 10.7",
+   "rg": 2.46,
+   "diff": 0.056,
+   "mb": 0.027,
+   "kern": "Centrex Symmetrical",
+   "sym": "symmetrisch",
+   "kernSrc": "ebonite.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10666,7 +10733,8 @@
    "name": "The One Xtreme",
    "release": "2016-02-09",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10817,7 +10885,8 @@
    "name": "Turbo Urethane",
    "release": "2015-12-08",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -10934,28 +11003,32 @@
    "name": "Warrior Hybrid (Elite)",
    "release": "2015-10-30",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Warrior Hybrid (Elite) Yellow Pin",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Warrior Monster Pearl",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Warrior Monster Solid",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -11145,7 +11218,8 @@
    "name": "Alien Rising",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11360,14 +11434,16 @@
    "name": "Adrenaline Midnight Rush",
    "release": "2016-01-19",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Legend Blue/Blue Pearl/Light Blue",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -11740,14 +11816,16 @@
    "name": "Black Widow CFI Black/Red/Orange",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Black Widow CFI Gold",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -11762,7 +11840,8 @@
    "name": "Black Widow CFI Purple/Orange/Aqua",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -11874,7 +11953,8 @@
    "name": "Black Widow Gold LS",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -12970,14 +13050,16 @@
    "name": "Jigsaw Black/Caramel",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Jigsaw Black/Red",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -13608,21 +13690,24 @@
    "name": "Scandal Black Ice",
    "release": "2016-02-23",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Scandal Black /Orange",
    "release": "2016-02-23",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Scandal Deal",
    "release": "2016-03-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -13644,7 +13729,8 @@
    "name": "Scandal Tour",
    "release": "2016-03-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -13765,7 +13851,8 @@
    "name": "Taboo Gold",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -13812,7 +13899,8 @@
    "name": "The Premium Deal",
    "release": "2016-03-22",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -13938,7 +14026,11 @@
    "name": "Vibe Blue/Purple/Red",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "coverstock": "CT Reactive",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13986,7 +14078,8 @@
    "name": "Vibe Orange/Gold/Blue",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -14527,14 +14620,16 @@
    "name": "Hybrid Difference",
    "release": "2015-10-01",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane #1",
    "name": "Lady Buzzsaw",
    "release": "2015-12-22",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -14573,7 +14668,8 @@
    "name": "Guaranteed Awesome",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -14596,7 +14692,8 @@
    "name": "Odyssey",
    "release": "2016-06-07",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -14611,14 +14708,16 @@
    "name": "Power Strike Pink",
    "release": "2015-12-17",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
    "name": "Saver (All Colors)",
    "release": "2016-03-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -14689,7 +14788,8 @@
    "name": "Tiger Wasp",
    "release": "2015-12-17",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -14760,14 +14860,16 @@
    "name": "Ultimate X-1",
    "release": "2015-12-25",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Legend Star",
    "name": "Ultimate X-2",
    "release": "2015-12-25",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Legends",
@@ -14951,14 +15053,16 @@
    "name": "Arahan LE",
    "release": "2015-10-25",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
    "name": "Arahan TE",
    "release": "2015-10-25",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -15053,14 +15157,16 @@
    "name": "Higgs Atom",
    "release": "2016-04-12",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
    "name": "Holy Knight",
    "release": "2015-11-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -15099,7 +15205,8 @@
    "name": "Perfect Answer",
    "release": "2016-05-04",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -15130,7 +15237,8 @@
    "name": "Talent Maximum",
    "release": "2016-01-25",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -15927,7 +16035,8 @@
    "name": "Jackal (Pro) Purple/Black",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Motiv",
@@ -16356,7 +16465,15 @@
    "name": "(Red Star) Revolt",
    "release": "2016-04-05",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "coverstock": "Coercion™ HFP Reactive",
+   "rg": 2.47,
+   "diff": 0.056,
+   "kern": "Vanquish™",
+   "finish": "3000 Grit LSS",
+   "kernSrc": "motivbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16949,7 +17066,8 @@
    "name": "Panther",
    "release": "2016-01-19",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Natural Enemies",
@@ -16964,7 +17082,8 @@
    "name": "Vulture",
    "release": "2016-04-12",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "NL-Bowling Star",
@@ -18599,7 +18718,8 @@
    "name": "Alliance Blood",
    "release": "2016-01-01",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -18822,7 +18942,8 @@
    "name": "Big Cell",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -18928,7 +19049,8 @@
    "name": "Defiant Rage",
    "release": "2016-02-01",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -19404,7 +19526,8 @@
    "name": "Hustle Purple/Raspberry/Orange",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -19458,7 +19581,8 @@
    "name": "Hustle Silver/Aqua/Yellow",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -20042,7 +20166,8 @@
    "name": "Power Cell",
    "release": "2016-06-07",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -20594,7 +20719,8 @@
    "name": "World Cell",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -21181,7 +21307,8 @@
    "name": "Code Blue SP",
    "release": "2015-11-30",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -21252,7 +21379,8 @@
    "name": "Code Platinum",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -21267,7 +21395,8 @@
    "name": "Code Star",
    "release": "2015-11-24",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -21375,7 +21504,8 @@
    "name": "Dark Phaze",
    "release": "2016-03-31",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -22387,7 +22517,8 @@
    "name": "!Q Tour Rising",
    "release": "2016-06-07",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -22752,7 +22883,8 @@
    "name": "Marvel Thrill",
    "release": "2015-12-08",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -22884,7 +23016,8 @@
    "name": "Max Ride",
    "release": "2015-11-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -22939,7 +23072,8 @@
    "name": "Nano Lock",
    "release": "2016-03-31",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -23056,7 +23190,17 @@
    "name": "Paint the Lanes PINK",
    "release": "2015-10-06",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13",
+   "img": "https://stormproducts.nyc3.cdn.digitaloceanspaces.com/web_page_content/PTLP/2026/Ion%20Pro%20Pearl%20PTLP_NoShadow%201.png",
+   "coverstock": "NRG Pearl Reactive",
+   "rg": 2.47,
+   "diff": 0.035,
+   "mb": 0.014,
+   "kern": "Element Tour A.I. Core",
+   "finish": "Power Edge",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23077,7 +23221,8 @@
    "name": "Perfect Domination",
    "release": "2016-01-26",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -23451,7 +23596,8 @@
    "name": "Pitch Blue",
    "release": "2015-12-15",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24013,7 +24159,8 @@
    "name": "Sword",
    "release": "2016-02-15",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24100,7 +24247,8 @@
    "name": "Sword U",
    "release": "2016-03-22",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24298,7 +24446,8 @@
    "name": "Tropical Storm Black/Cherry",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24345,7 +24494,8 @@
    "name": "Tropical Storm Carbon/Chrome",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24360,14 +24510,16 @@
    "name": "Tropical Storm Cherry/White",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Tropical Storm Pink/Purple",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24382,14 +24534,16 @@
    "name": "Tropical Storm Sky Blue/Charcoal",
    "release": "2016-03-29",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Tropical Storm Teal/Blue",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24404,14 +24558,16 @@
    "name": "Tropical Storm White/Blue",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Tropical Storm Yellow/Silver",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24728,7 +24884,8 @@
    "name": "Virtual Gravity N/S",
    "release": "2016-05-24",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24807,7 +24964,8 @@
    "name": "Wipe Out Pro",
    "release": "2015-10-06",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -24878,7 +25036,8 @@
    "name": "Fighters Spare",
    "release": "2016-04-12",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -24981,7 +25140,8 @@
    "name": "Tigers Spare",
    "release": "2016-02-05",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -26196,7 +26356,8 @@
    "name": "Heat Maroon Pearl",
    "release": "2015-11-19",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -26484,7 +26645,16 @@
    "name": "Legion Solid",
    "release": "2015-10-22",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13",
+   "coverstock": "Prime Response Solid",
+   "rg": 2.5,
+   "diff": 0.046,
+   "mb": 0.011,
+   "kern": "LT-2",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -26597,7 +26767,17 @@
    "name": "Paradox Black Pearl",
    "release": "2016-03-01",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "coverstock": "QR-9 Hybrid",
+   "rg": 2.48,
+   "diff": 0.057,
+   "mb": 0.015,
+   "kern": "I-Core 2.0 (Dual Density)",
+   "finish": "500, 2000 Abralon®",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -26612,14 +26792,32 @@
    "name": "Paradox Pearl",
    "release": "2015-12-17",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13",
+   "coverstock": "QR-9 Pearl",
+   "rg": 2.48,
+   "diff": 0.057,
+   "mb": 0.015,
+   "kern": "I-Core 2.0",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "Paradox Pearl (Sanded)",
    "release": "2015-12-17",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13",
+   "coverstock": "QR-9 Pearl",
+   "rg": 2.48,
+   "diff": 0.057,
+   "mb": 0.015,
+   "kern": "I-Core 2.0",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -26643,7 +26841,17 @@
    "name": "Paradox Red Pearl",
    "release": "2016-02-09",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13",
+   "coverstock": "rime ET (Extra Traction)",
+   "rg": 2.48,
+   "diff": 0.057,
+   "mb": 0.015,
+   "kern": "I-Core 2.0",
+   "finish": "500, 2000 Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -26658,7 +26866,8 @@
    "name": "Paradox RV2",
    "release": "2016-05-03",
    "src": "USBC",
-   "imgChecked": "2026-11-09"
+   "imgChecked": "2026-11-09",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -27628,20 +27837,23 @@
    "brand": "900 Global",
    "name": "All Day",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
    "name": "All In",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
    "name": "All Night",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27687,7 +27899,8 @@
    "brand": "900 Global",
    "name": "Boost Blue/Black",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27700,7 +27913,8 @@
    "brand": "900 Global",
    "name": "Boost Purple/Cream",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27713,7 +27927,8 @@
    "brand": "900 Global",
    "name": "Boost Purple/Green",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27747,7 +27962,8 @@
    "name": "Dark Matter",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27765,7 +27981,8 @@
    "brand": "900 Global",
    "name": "Dream",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27785,13 +28002,15 @@
    "brand": "900 Global",
    "name": "Dream On",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
    "name": "Dream Tour",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27845,7 +28064,8 @@
    "brand": "900 Global",
    "name": "Moxie",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27857,13 +28077,15 @@
    "brand": "900 Global",
    "name": "Pow (All Colors)",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
    "name": "Pro Moxie",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "900 Global",
@@ -27956,19 +28178,22 @@
    "brand": "ABS",
    "name": "50th Anniversary Blue",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
    "name": "50th Anniversary Pink",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
    "name": "50th Anniversary White",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28001,7 +28226,8 @@
    "brand": "ABS",
    "name": "ABSolution Dynamite",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28102,7 +28328,8 @@
    "brand": "ABS",
    "name": "Nanodesu Accu-Line Premium Special",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28152,13 +28379,15 @@
    "brand": "ABS",
    "name": "Nanodesu Accu-Swing VIII",
    "release": "2014-04",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
    "name": "Nanodesu Accu-Swing IX",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28196,7 +28425,8 @@
    "brand": "ABS",
    "name": "PRO-am Aqua Raider",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28208,7 +28438,8 @@
    "brand": "ABS",
    "name": "PRO-am Commander Beta",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28253,7 +28484,8 @@
    "brand": "ABS",
    "name": "PRO-am Invader Gold",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "ABS",
@@ -28341,7 +28573,8 @@
    "brand": "Aloha",
    "name": "Breeze Green/Yellow Pearl",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Aloha",
@@ -28437,7 +28670,8 @@
    "brand": "AMF",
    "name": "Decimate",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/amf-decimate-bowling-ball-9776.jpg"
   },
   {
    "brand": "AMF",
@@ -28486,7 +28720,8 @@
    "brand": "AMF",
    "name": "Night Hawk SE",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/amf-night-hawk-se-bowling-ball-9961.jpg"
   },
   {
    "brand": "AMF",
@@ -28512,7 +28747,8 @@
    "brand": "AMF",
    "name": "Torch",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/amf-torch-bowling-ball-9777.jpg"
   },
   {
    "brand": "AMF",
@@ -28525,13 +28761,15 @@
    "brand": "AMF",
    "name": "Xcite Blue/Gold Pearl",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "AMF",
    "name": "Xcite Orange/Pink Pearl",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Angry Birds",
@@ -28577,7 +28815,8 @@
    "name": "Outbreak",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Banger Bowling",
@@ -28603,7 +28842,8 @@
    "brand": "Blend10",
    "name": "OSP",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Blend10",
@@ -28665,7 +28905,8 @@
    "brand": "Brunswick",
    "name": "Brute",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-brute-bowling-ball-9840.jpg"
   },
   {
    "brand": "Brunswick",
@@ -28716,7 +28957,8 @@
    "brand": "Brunswick",
    "name": "Cool Edge",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -28741,7 +28983,8 @@
    "brand": "Brunswick",
    "name": "Fortera Exile",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-fortera-exile-bowling-ball-9431.jpg"
   },
   {
    "brand": "Brunswick",
@@ -28754,27 +28997,31 @@
    "brand": "Brunswick",
    "name": "Fortera Unique",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
    "name": "Fortera Vertex",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
    "name": "Fresh Cloud",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
    "name": "In-Out",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -28817,7 +29064,8 @@
    "brand": "Brunswick",
    "name": "Mastermind Intellect",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-mastermind-intellect-bowling-ball-9836.jpg"
   },
   {
    "brand": "Brunswick",
@@ -28868,7 +29116,8 @@
    "brand": "Brunswick",
    "name": "Melee Cross",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-melee-cross-bowling-ball-9429.jpg"
   },
   {
    "brand": "Brunswick",
@@ -28979,7 +29228,8 @@
    "name": "NeXXXXus Pro V",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -29006,7 +29256,8 @@
    "name": "Phantom Reboot",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -29031,7 +29282,8 @@
    "brand": "Brunswick",
    "name": "Ringer Neon Yellow/Sapphire",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -29105,7 +29357,8 @@
    "brand": "Brunswick",
    "name": "The Premium Ringer",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Brunswick",
@@ -29145,7 +29398,8 @@
    "name": "Zephyros",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29157,7 +29411,8 @@
    "brand": "Columbia 300",
    "name": "Enigma Red/Orange/Yellow",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29194,19 +29449,22 @@
    "brand": "Columbia 300",
    "name": "Blur Hybrid",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-blur-hybrid-bowling-ball-9361.jpg"
   },
   {
    "brand": "Columbia 300",
    "name": "Blur Pearl",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-blur-pearl-bowling-ball-9363.jpg"
   },
   {
    "brand": "Columbia 300",
    "name": "Blur Solid",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-blur-solid-bowling-ball-9365.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -29319,7 +29577,8 @@
    "brand": "Columbia 300",
    "name": "Eruption Pro 50's Anniversary",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29331,7 +29590,8 @@
    "brand": "Columbia 300",
    "name": "Eruption Pro Hybrid",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-eruption-pro-hybrid-bowling-ball-9841.jpg"
   },
   {
    "brand": "Columbia 300",
@@ -29436,25 +29696,29 @@
    "brand": "Columbia 300",
    "name": "Momentum Elite Motion",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Momentum Tour",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "Momentum Unstoppable",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
    "name": "N'S@ne Antics",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29497,7 +29761,8 @@
    "brand": "Columbia 300",
    "name": "Resurgence Fire",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29584,7 +29849,8 @@
    "brand": "Columbia 300",
    "name": "The Beast Mode Hybrid",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29645,13 +29911,15 @@
    "brand": "Columbia 300",
    "name": "Throw Down",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-throw-down-bowling-ball-9815.jpg"
   },
   {
    "brand": "Columbia 300",
    "name": "Throw Down Sanded (Red Pin)",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Columbia 300",
@@ -29807,25 +30075,29 @@
    "brand": "DV8",
    "name": "DV8 Polyester Fearless Fuchsia",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
    "name": "DV8 Polyester Glitter Gold",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
    "name": "DV8 Polyester Just Black",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-polyester-just-black-bowling-ball-9734.jpg"
   },
   {
    "brand": "DV8",
    "name": "DV8 Polyester Slime Green",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
@@ -29863,7 +30135,8 @@
    "brand": "DV8",
    "name": "Hooligan",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-hooligan-bowling-ball-9875.jpg"
   },
   {
    "brand": "DV8",
@@ -29942,19 +30215,22 @@
    "brand": "DV8",
    "name": "Outcast Black Citron",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
    "name": "Outcast Mango Tango",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
    "name": "Outcast Mellon Baller",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "DV8",
@@ -29968,7 +30244,8 @@
    "name": "Outrage Sniper",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "DV8",
@@ -29992,19 +30269,22 @@
    "brand": "DV8",
    "name": "Ruckus Schizo",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-ruckus-schizo-bowling-ball-9844.jpg"
   },
   {
    "brand": "DV8",
    "name": "Rude Dude",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-rude-dude-bowling-ball-9850.jpg"
   },
   {
    "brand": "DV8",
    "name": "Thug",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/dv8-thug-bowling-ball-9873.jpg"
   },
   {
    "brand": "DV8",
@@ -30137,7 +30417,8 @@
    "brand": "Ebonite",
    "name": "Mission X Wine",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30245,13 +30526,15 @@
    "brand": "Ebonite",
    "name": "Crush/R Turquoise/Purple/Magenta",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Cyclone Black/Red/Yellow",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-cyclone-black-red-yellow-bowling-ball-9367.jpg"
   },
   {
    "brand": "Ebonite",
@@ -30270,7 +30553,8 @@
    "brand": "Ebonite",
    "name": "Cyclone GB",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30314,7 +30598,8 @@
    "brand": "Ebonite",
    "name": "Cyclone Purple/Orange/Purple/Red",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30374,19 +30659,22 @@
    "brand": "Ebonite",
    "name": "Energy Source",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-energy-source-bowling-ball-9664.jpg"
   },
   {
    "brand": "Ebonite",
    "name": "Evolution Angular One",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Evolution Angular One XL5000 (Black/Orange/Burgundy)",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30398,7 +30686,8 @@
    "brand": "Ebonite",
    "name": "Game Breaker 2",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-game-breaker-2-bowling-ball-21803.jpg"
   },
   {
    "brand": "Ebonite",
@@ -30425,7 +30714,8 @@
    "brand": "Ebonite",
    "name": "Honor",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-honor-bowling-ball-9827.jpg"
   },
   {
    "brand": "Ebonite",
@@ -30450,7 +30740,8 @@
    "name": "Last Mission",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30474,13 +30765,15 @@
    "brand": "Ebonite",
    "name": "Legend Angular One",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Legend One",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30493,7 +30786,8 @@
    "brand": "Ebonite",
    "name": "Major Angular One",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30532,7 +30826,8 @@
    "name": "Mission Clear",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30544,7 +30839,8 @@
    "brand": "Ebonite",
    "name": "Mission Super XL5500",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30605,7 +30901,8 @@
    "brand": "Ebonite",
    "name": "Pivot Booster",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30617,7 +30914,8 @@
    "brand": "Ebonite",
    "name": "Pivot Move XL3000",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30635,13 +30933,15 @@
    "brand": "Ebonite",
    "name": "Pivot Pure",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Pivot Pure Passion",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30679,13 +30979,15 @@
    "brand": "Ebonite",
    "name": "Pursuit Premium",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Pursuit Special",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30722,7 +31024,8 @@
    "brand": "Ebonite",
    "name": "Salute",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-salute-bowling-ball-9957.jpg"
   },
   {
    "brand": "Ebonite",
@@ -30759,7 +31062,8 @@
    "brand": "Ebonite",
    "name": "Source Red",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
@@ -30850,25 +31154,29 @@
    "brand": "Ebonite",
    "name": "Webber Warriors (Green Pin)",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Ebonite",
    "name": "Xtra Breaker",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
    "name": "Black Label",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
    "name": "Cringe",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -30929,7 +31237,8 @@
    "brand": "Genesis Bowling Co. LTD",
    "name": "Adrenaline",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Genesis Bowling Co. LTD",
@@ -30961,7 +31270,8 @@
    "brand": "Genesis Bowling Co. LTD",
    "name": "Ignitor Blast",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Genesis Bowling Co. LTD",
@@ -31007,7 +31317,8 @@
    "name": "The Judge Black (Yellow Pin)",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31044,7 +31355,8 @@
    "brand": "Hammer",
    "name": "Absolut Flip",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-absolut-flip-bowling-ball-9662.jpg"
   },
   {
    "brand": "Hammer",
@@ -31056,7 +31368,8 @@
    "brand": "Hammer",
    "name": "Absolute Deal",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31105,7 +31418,8 @@
    "brand": "Hammer",
    "name": "Arson Low Flare Solid",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-arson-low-flare-solid-bowling-ball-10047.jpg"
   },
   {
    "brand": "Hammer",
@@ -31123,13 +31437,15 @@
    "brand": "Hammer",
    "name": "Bad Ass",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-bad-ass-bowling-ball-9851.jpg"
   },
   {
    "brand": "Hammer",
    "name": "Bad Ass Move",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31149,14 +31465,24 @@
    "brand": "Hammer",
    "name": "Bass Mafia Fishouflage",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Black Urethane",
    "release": "2015-09",
    "src": "USBC",
-   "imgChecked": "2026-11-10"
+   "imgChecked": "2026-11-10",
+   "checked": "2026-11-13",
+   "coverstock": "Urethane",
+   "rg": 2.65,
+   "diff": 0.015,
+   "kern": "LED",
+   "finish": "500 Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "hammerbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -31174,7 +31500,8 @@
    "brand": "Hammer",
    "name": "Black Widow Insanity",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31243,19 +31570,22 @@
    "brand": "Hammer",
    "name": "Burgundy Hammer",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-burgundy-hammer-bowling-ball-9976.jpg"
   },
   {
    "brand": "Hammer",
    "name": "Camo Tough",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "Carbon Fiber Tough",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31267,7 +31597,8 @@
    "brand": "Hammer",
    "name": "Complete Aim",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31360,7 +31691,8 @@
    "brand": "Hammer",
    "name": "Spike Black/Blue",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-spike-black-blue-bowling-ball-9359.jpg"
   },
   {
    "brand": "Hammer",
@@ -31492,7 +31824,8 @@
    "brand": "Hammer",
    "name": "TNBA Tough",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31550,7 +31883,8 @@
    "brand": "Hammer",
    "name": "Vibe Infrared XR",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31576,7 +31910,8 @@
    "brand": "Hammer",
    "name": "Vibe Purple/Gold",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
@@ -31588,7 +31923,8 @@
    "brand": "Hammer",
    "name": "Viral",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/hammer-viral-bowling-ball-9974.jpg"
   },
   {
    "brand": "Hammer",
@@ -31625,25 +31961,29 @@
    "brand": "Hammer",
    "name": "X9 FI",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "X9 FO",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "X9 S",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hammer",
    "name": "X9 T",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Hell Bent",
@@ -31709,19 +32049,22 @@
    "brand": "High-Sports",
    "name": "Up Beat Blue/Purple/Silver",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "High-Sports",
    "name": "Up Beat Pink/Red/Silver",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "High-Sports",
    "name": "Up Beat Red/Orange/Silver",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "IWEI",
@@ -31733,7 +32076,8 @@
    "brand": "Jet Bowling",
    "name": "Aviator",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Jet Bowling",
@@ -31817,7 +32161,8 @@
    "brand": "Lane #1",
    "name": "Buzzsaw Pro-V",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane #1",
@@ -31841,7 +32186,8 @@
    "brand": "Lane #1",
    "name": "Crank R Pearl",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane #1",
@@ -31921,7 +32267,8 @@
    "brand": "Lane #1",
    "name": "Typhoon Pearl",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -31946,13 +32293,15 @@
    "brand": "Lane Masters",
    "name": "Buzz Attack Envy",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
    "name": "Buzz Attack Stinger",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -31977,7 +32326,8 @@
    "brand": "Lane Masters",
    "name": "Legends Blue/Aqua",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -32001,7 +32351,8 @@
    "brand": "Lane Masters",
    "name": "Power Strike",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -32053,7 +32404,8 @@
    "brand": "Lane Masters",
    "name": "Terminator Juggernaut Hybrid",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -32079,7 +32431,8 @@
    "brand": "Lane Masters",
    "name": "The Buzz Legend",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lane Masters",
@@ -32104,7 +32457,8 @@
    "brand": "Legends",
    "name": "Advantage XXX",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Legends",
@@ -32135,7 +32489,8 @@
    "brand": "Legends",
    "name": "The Black Pearl Blue Ocean",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Legends",
@@ -32147,7 +32502,8 @@
    "brand": "Legends",
    "name": "Yeah Baby (Red/Orange/Yellow)",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Linds",
@@ -32171,7 +32527,8 @@
    "brand": "Lord Field",
    "name": "Answer",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -32216,7 +32573,8 @@
    "brand": "Lord Field",
    "name": "Bloody Cross",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -32247,7 +32605,8 @@
    "brand": "Lord Field",
    "name": "Exodus G1",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -32322,7 +32681,8 @@
    "brand": "Lord Field",
    "name": "Korrupt Target",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -32397,7 +32757,8 @@
    "brand": "Lord Field",
    "name": "Top Talent",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Lord Field",
@@ -32483,7 +32844,8 @@
    "brand": "Motiv",
    "name": "Forza",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-forza-bowling-ball-9980.jpg"
   },
   {
    "brand": "Motiv",
@@ -32496,13 +32858,15 @@
    "brand": "Motiv",
    "name": "Octane",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-octane-bowling-ball-9376.jpg"
   },
   {
    "brand": "Motiv",
    "name": "Primal 50",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Motiv",
@@ -32630,7 +32994,8 @@
    "brand": "Motiv",
    "name": "Tribal Fire",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/motiv-tribal-fire-bowling-ball-9788.jpg"
   },
   {
    "brand": "Motiv",
@@ -32668,13 +33033,15 @@
    "brand": "Natural Enemies",
    "name": "Killer Bee",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Natural Enemies",
    "name": "Wild Cat",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBA",
@@ -32692,7 +33059,8 @@
    "brand": "PBS",
    "name": "Sniper L96A1 AW",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBS",
@@ -32705,7 +33073,8 @@
    "brand": "PBS",
    "name": "Dragon Ball",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBS",
@@ -32745,7 +33114,8 @@
    "brand": "PBS",
    "name": "Planet Earth",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBS",
@@ -32765,13 +33135,15 @@
    "brand": "PBS",
    "name": "Sniper M24 SWS",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBS",
    "name": "Sniper M40A1",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "PBS",
@@ -32825,13 +33197,15 @@
    "brand": "Pyramid Bowling",
    "name": "Blood Moon",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Pyramid Bowling",
    "name": "Blueprint",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Pyramid Bowling",
@@ -32882,7 +33256,8 @@
    "brand": "Pyramid Bowling",
    "name": "Divergent Path",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Pyramid Bowling",
@@ -32957,7 +33332,8 @@
    "brand": "Radical",
    "name": "Grease Monkey POW!",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-grease-monkey-pow-bowling-ball-9752.jpg"
   },
   {
    "brand": "Radical",
@@ -32970,7 +33346,8 @@
    "brand": "Radical",
    "name": "Guru",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-guru-bowling-ball-9883.jpg"
   },
   {
    "brand": "Radical",
@@ -33018,7 +33395,8 @@
    "brand": "Radical",
    "name": "Radical Spare",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Radical",
@@ -33037,7 +33415,8 @@
    "brand": "Radical",
    "name": "REAX Gusto",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-reax-gusto-bowling-ball-9427.jpg"
   },
   {
    "brand": "Radical",
@@ -33068,7 +33447,8 @@
    "brand": "Radical",
    "name": "Score",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-score-bowling-ball-9885.jpg"
   },
   {
    "brand": "Radical",
@@ -33117,7 +33497,8 @@
    "brand": "Radical",
    "name": "Yeti Uncaged",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/radical-yeti-uncaged-bowling-ball-9831.jpg"
   },
   {
    "brand": "Radical",
@@ -33141,7 +33522,8 @@
    "brand": "Roto Grip",
    "name": "Area Cell",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33159,7 +33541,8 @@
    "brand": "Roto Grip",
    "name": "Bio Cell",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33257,19 +33640,22 @@
    "brand": "Roto Grip",
    "name": "Fuel Cell",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
    "name": "Fortune",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
    "name": "Fortune Maker",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33302,13 +33688,15 @@
    "brand": "Roto Grip",
    "name": "Hyper Cell Skid",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-hyper-cell-skid-bowling-ball-10005.jpg"
   },
   {
    "brand": "Roto Grip",
    "name": "Hysteria",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-hysteria-bowling-ball-9848.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -33405,7 +33793,8 @@
    "brand": "Roto Grip",
    "name": "Outcry",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-outcry-bowling-ball-9746.jpg"
   },
   {
    "brand": "Roto Grip",
@@ -33450,7 +33839,8 @@
    "brand": "Roto Grip",
    "name": "Scream Pink/Navy",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33486,7 +33876,8 @@
    "brand": "Roto Grip",
    "name": "Shout Red/Blue",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33555,13 +33946,15 @@
    "brand": "Roto Grip",
    "name": "Throne",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
    "name": "Throne Tour",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Roto Grip",
@@ -33686,7 +34079,8 @@
    "brand": "Seismic",
    "name": "Equalizer",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Seismic",
@@ -33698,7 +34092,8 @@
    "brand": "Seismic",
    "name": "Euphoric TSE",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Seismic",
@@ -33787,13 +34182,15 @@
    "brand": "Storm",
    "name": "Nano Spin",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Spin Mode",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -33843,7 +34240,8 @@
    "brand": "Storm",
    "name": "Code Blue",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -33856,7 +34254,8 @@
    "brand": "Storm",
    "name": "Code Green",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -33912,7 +34311,8 @@
    "brand": "Storm",
    "name": "Crux",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-crux-bowling-ball-9829.jpg"
   },
   {
    "brand": "Storm",
@@ -33932,7 +34332,8 @@
    "brand": "Storm",
    "name": "Dark Domination",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -33994,7 +34395,8 @@
    "brand": "Storm",
    "name": "Extreme Fire Road",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34055,7 +34457,8 @@
    "brand": "Storm",
    "name": "Hy-Road Solid",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-hy-road-solid-bowling-ball-9351.jpg"
   },
   {
    "brand": "Storm",
@@ -34073,7 +34476,8 @@
    "brand": "Storm",
    "name": "Hy-Way",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34116,7 +34520,8 @@
    "brand": "Storm",
    "name": "!Q Tour Nano",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34154,13 +34559,15 @@
    "brand": "Storm",
    "name": "Lights Out Tour Edition Black",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Lights Out Tour Edition Blue",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34203,7 +34610,8 @@
    "brand": "Storm",
    "name": "Marvel Maxx",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34266,7 +34674,8 @@
    "brand": "Storm",
    "name": "Mix Black/Purple",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-mix-black-purple-bowling-ball-9350.jpg"
   },
   {
    "brand": "Storm",
@@ -34297,7 +34706,8 @@
    "brand": "Storm",
    "name": "Optimus",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34317,13 +34727,15 @@
    "brand": "Storm",
    "name": "Optimus Supreme",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Optimus-X",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34335,7 +34747,8 @@
    "brand": "Storm",
    "name": "Pitch Red",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34399,7 +34812,8 @@
    "brand": "Storm",
    "name": "Sky-Road",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34418,19 +34832,22 @@
    "brand": "Storm",
    "name": "Storm Nation White/Pink Polyester",
    "release": "2014-09",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
    "name": "Storm Pink Clear Polyester",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "img": "https://cdn-images.bowling.com/productimages/storm-pink-clear-polyester-bowling-ball-9970.jpg"
   },
   {
    "brand": "Storm",
    "name": "Storm White Polyester Spare Ball",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34583,7 +35000,8 @@
    "brand": "Storm",
    "name": "Universal Gravity",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34681,7 +35099,8 @@
    "brand": "Storm",
    "name": "Zero Gravity Gold",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Storm",
@@ -34826,7 +35245,8 @@
    "brand": "Track Inc.",
    "name": "Equation (Gold)",
    "release": "2014-08",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -34845,7 +35265,8 @@
    "brand": "Track Inc.",
    "name": "Hx10",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -34876,13 +35297,15 @@
    "brand": "Track Inc.",
    "name": "Kinetic Gold",
    "release": "2014-11",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
    "name": "Lx05",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -34921,13 +35344,15 @@
    "brand": "Track Inc.",
    "name": "Mx16",
    "release": "2014-06",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
    "name": "MxPRO",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -34979,7 +35404,8 @@
    "brand": "Track Inc.",
    "name": "Spare +",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -35003,13 +35429,15 @@
    "brand": "Track Inc.",
    "name": "Tour SiC",
    "release": "2014-10",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
    "name": "Tour X",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "Track Inc.",
@@ -35035,7 +35463,8 @@
    "brand": "US Act",
    "name": "70 Plus 3",
    "release": "2014-05",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "US Act",
@@ -35143,7 +35572,8 @@
    "brand": "US Act",
    "name": "The X BRS",
    "release": "2014-07",
-   "src": "USBC"
+   "src": "USBC",
+   "imgChecked": "2026-11-13"
   },
   {
    "brand": "US Act",
