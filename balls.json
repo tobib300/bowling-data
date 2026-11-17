@@ -393,7 +393,8 @@
    "release": "2026-04-07",
    "coverstock": "Hyper Aggression Plus Pearl",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -477,14 +478,16 @@
    "release": "2026-03-27",
    "coverstock": "Propulsion HVH",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
    "name": "Double Trouble",
    "release": "2026-03-19",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -713,22 +716,25 @@
    "brand": "SWAG",
    "name": "Assassin Pearl",
    "release": "2026-02-17",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Pearl",
    "release": "2026-02-17",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "SWAG",
    "name": "Craze Tour Solid",
    "release": "2026-02-17",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "SWAG",
@@ -736,7 +742,8 @@
    "release": "2026-02-17",
    "coverstock": "AP26 Hybrid",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "SWAG",
@@ -744,7 +751,8 @@
    "release": "2026-02-17",
    "coverstock": "AP26 Hybrid",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "SWAG",
@@ -752,7 +760,8 @@
    "release": "2026-02-17",
    "coverstock": "AP26",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -913,24 +922,27 @@
    "name": "Cruise 78D Urethane",
    "release": "2026-09-01",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Reality Magenta",
    "release": "2026-09-01",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Zen Blue Label",
    "release": "2026-09-15",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "ABS",
@@ -951,24 +963,27 @@
    "name": "Team Brunswick",
    "release": "2026-09-29",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "Vaporize X",
    "release": "2026-09-29",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "The One Urethane 78D Navy",
    "release": "2026-09-08",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -1006,8 +1021,9 @@
    "name": "Pure Effect",
    "release": "2026-09-22",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Hero",
@@ -1121,8 +1137,9 @@
    "name": "The Hitter Teal",
    "release": "2026-10-13",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -1130,15 +1147,17 @@
    "release": "2026-09-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Idol Star",
    "release": "2026-10-06",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -1179,8 +1198,9 @@
    "name": "!Q Focus",
    "release": "2026-09-29",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -1188,23 +1208,26 @@
    "release": "2026-08-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Max Orbit (Under 13 Lbs.)",
    "release": "2026-09-08",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "PhysiX Ignition",
    "release": "2026-10-06",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -1212,7 +1235,8 @@
    "release": "2026-08-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -1220,23 +1244,26 @@
    "release": "2026-08-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "The Code Black",
    "release": "2026-10-13",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Swag",
    "name": "Valkyrie",
    "release": "2026-10-06",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -1260,7 +1287,8 @@
    "release": "2026-08-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -1268,7 +1296,8 @@
    "release": "2026-08-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "UBB",
@@ -1354,7 +1383,8 @@
    "release": "2025-11-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1388,7 +1418,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1671,7 +1702,8 @@
    "release": "2024-06-18",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1695,7 +1727,8 @@
    "release": "2024-04-30",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1727,7 +1760,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1826,7 +1860,8 @@
    "release": "2024-11-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1850,7 +1885,47 @@
    "release": "2025-07-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "coverstock": "RB 82™ Pearl Reactive",
+   "kernNein": true,
+   "layouts": [
+    {
+     "pin": "6",
+     "psa": "5",
+     "buf": "4.5",
+     "src": "Table · KI"
+    },
+    {
+     "pin": "5",
+     "psa": "4.5",
+     "buf": "3.5",
+     "src": "Table · KI"
+    },
+    {
+     "pin": "4.5",
+     "psa": "2.5",
+     "buf": "2.5",
+     "src": "Table · KI"
+    },
+    {
+     "pin": "5.5",
+     "psa": "4",
+     "buf": "3.5",
+     "src": "Table · KI"
+    },
+    {
+     "pin": "4.5",
+     "psa": "4",
+     "buf": "2.5",
+     "src": "Table · KI"
+    },
+    {
+     "pin": "4",
+     "psa": "3",
+     "buf": "1.5",
+     "src": "Table · KI"
+    }
+   ]
   },
   {
    "brand": "900 Global",
@@ -1900,7 +1975,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -1990,7 +2066,8 @@
    "release": "2024-04-16",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2006,7 +2083,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2211,7 +2289,8 @@
    "release": "2025-07-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2235,7 +2314,8 @@
    "release": "2024-12-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2275,7 +2355,8 @@
    "release": "2026-07-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2427,7 +2508,8 @@
    "release": "2024-07-23",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2443,7 +2525,8 @@
    "release": "2024-10-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2483,7 +2566,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2499,7 +2583,8 @@
    "release": "2025-12-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2515,7 +2600,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2707,7 +2793,8 @@
    "release": "2025-11-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2715,7 +2802,8 @@
    "release": "2025-07-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2797,7 +2885,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2824,7 +2913,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2832,7 +2922,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2906,7 +2997,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2938,7 +3030,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2954,7 +3047,8 @@
    "release": "2025-01-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -2962,7 +3056,8 @@
    "release": "2025-11-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -3147,7 +3242,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -3269,7 +3365,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -3421,7 +3518,8 @@
    "release": "2024-03-12",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -4813,7 +4911,8 @@
    "release": "2025-01-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Bowlero",
@@ -4845,7 +4944,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Bowling Mania",
@@ -4853,7 +4953,8 @@
    "release": "2025-09-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Bowling Mania",
@@ -4861,7 +4962,8 @@
    "release": "2025-09-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -4914,7 +5016,8 @@
    "release": "2025-05-27",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -4962,7 +5065,8 @@
    "release": "2024-06-18",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5027,7 +5131,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5266,7 +5371,16 @@
    "name": "Ethos",
    "release": "2023-09-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-ethos-bowling-ball-23621.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-ethos-bowling-ball-23621.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - SH 4.0 Pearl Reactive",
+   "rg": 2.481,
+   "diff": 0.053,
+   "kern": "Ethos",
+   "finish": "500, 1000, 1500 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5289,7 +5403,8 @@
    "release": "2024-10-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5357,7 +5472,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5365,7 +5481,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5373,7 +5490,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5381,7 +5499,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5389,7 +5508,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5419,7 +5539,8 @@
    "release": "2026-07-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5622,7 +5743,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5630,7 +5752,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5736,7 +5859,8 @@
    "release": "2026-08-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5752,7 +5876,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5760,7 +5885,8 @@
    "release": "2025-05-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5874,7 +6000,8 @@
    "release": "2024-01-09",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5904,7 +6031,8 @@
    "release": "2024-10-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5912,7 +6040,8 @@
    "release": "2024-10-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5935,7 +6064,8 @@
    "release": "2025-09-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -5951,7 +6081,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6061,14 +6192,23 @@
    "release": "2025-07-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "Perfect Mindset",
    "release": "2023-09-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-perfect-mindset-bowling-ball-23619.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-perfect-mindset-bowling-ball-23619.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Evolution Hybrid Reactive",
+   "rg": 2.487,
+   "diff": 0.05,
+   "kern": "Mindset",
+   "finish": "500, 1500, 3000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6151,8 +6291,9 @@
    "name": "Purple Rhino Pro (2026)",
    "release": "2026-10-13",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6160,7 +6301,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6235,7 +6377,15 @@
    "name": "Quantum Evo Response",
    "release": "2023-06-27",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-quantum-evo-response-bowling-ball-22853.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-quantum-evo-response-bowling-ball-22853.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Evolution Pearl Reactive",
+   "rg": 2.511,
+   "diff": 0.053,
+   "kern": "QCS-24",
+   "finish": "500, 1000, 1500 Siaair / Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6280,7 +6430,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6309,7 +6460,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6356,7 +6508,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6364,7 +6517,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6386,7 +6540,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6394,7 +6549,8 @@
    "release": "2024-10-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6448,7 +6604,8 @@
    "release": "2024-10-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6456,7 +6613,8 @@
    "release": "2025-10-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6580,7 +6738,8 @@
    "release": "2024-02-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6603,7 +6762,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6634,7 +6794,8 @@
    "release": "2025-09-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6665,7 +6826,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6673,7 +6835,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -6740,7 +6903,8 @@
    "release": "2025-11-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -7399,7 +7563,15 @@
    "name": "Piranha PowerCOR",
    "release": "2023-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-piranha-powercor-bowling-ball-23728.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-piranha-powercor-bowling-ball-23728.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - ERT+ Solid Reactive",
+   "rg": 2.518,
+   "diff": 0.055,
+   "kern": "Piranha PowerCOR",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -7452,7 +7624,8 @@
    "release": "2025-06-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -7460,7 +7633,8 @@
    "release": "2026-03-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -8043,7 +8217,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DC",
@@ -8091,7 +8266,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -8175,7 +8351,8 @@
    "release": "2024-10-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -8218,7 +8395,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -8345,7 +8523,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -8605,7 +8784,8 @@
    "release": "2024-01-16",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -8758,7 +8938,15 @@
    "name": "Verge Hybrid",
    "release": "2023-09-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-hybrid-bowling-ball-23623.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-hybrid-bowling-ball-23623.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Inciter Max Flip Hybrid Reactive",
+   "rg": 2.476,
+   "diff": 0.049,
+   "kern": "Threshold",
+   "finish": "500, 1000, 1500 Siaair/Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -8787,7 +8975,15 @@
    "name": "Violent Collision",
    "release": "2023-11-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-violent-collision-bowling-ball-23776.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-violent-collision-bowling-ball-23776.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Havoc Pearl Reactive",
+   "rg": 2.462,
+   "diff": 0.052,
+   "kern": "Collision",
+   "finish": "500, 1000, 1500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9002,7 +9198,16 @@
    "name": "Big Time Special Edition",
    "release": "2023-10-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-big-time-special-edition-bowling-ball-23726.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-big-time-special-edition-bowling-ball-23726.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - GB13.7 Pearl",
+   "rg": 2.508,
+   "diff": 0.054,
+   "kern": "Big Time",
+   "finish": "500, 1000, 1500 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -9010,7 +9215,8 @@
    "release": "2024-03-19",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9087,7 +9293,8 @@
    "release": "2024-12-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9095,7 +9302,8 @@
    "release": "2024-08-13",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9407,7 +9615,8 @@
    "release": "2024-09-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9453,7 +9662,8 @@
    "release": "2025-06-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9548,7 +9758,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9556,7 +9767,8 @@
    "release": "2026-03-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9564,7 +9776,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9688,7 +9901,8 @@
    "release": "2024-09-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9803,7 +10017,8 @@
    "release": "2026-05-26",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9867,7 +10082,8 @@
    "release": "2025-07-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9891,7 +10107,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -9907,7 +10124,8 @@
    "release": "2024-10-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10071,7 +10289,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10103,7 +10322,8 @@
    "release": "2025-07-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10135,7 +10355,8 @@
    "release": "2024-09-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10207,7 +10428,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10231,7 +10453,8 @@
    "release": "2026-01-27",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10262,7 +10485,8 @@
    "release": "2026-04-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10332,7 +10556,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10491,7 +10716,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10506,7 +10732,16 @@
    "name": "The One Encore",
    "release": "2023-08-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-the-one-encore-bowling-ball-23306.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-the-one-encore-bowling-ball-23306.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - GB14.4 Hybrid",
+   "rg": 2.466,
+   "diff": 0.056,
+   "kern": "Centrex",
+   "finish": "500, 1500, 4000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10514,7 +10749,8 @@
    "release": "2025-11-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10606,7 +10842,8 @@
    "release": "2024-03-19",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10702,7 +10939,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10758,7 +10996,8 @@
    "release": "2025-07-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -10774,7 +11013,8 @@
    "release": "2025-12-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -11107,7 +11347,8 @@
    "release": "2026-01-13",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -11187,7 +11428,8 @@
    "release": "2024-05-07",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11251,7 +11493,8 @@
    "release": "2024-11-26",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11267,7 +11510,8 @@
    "release": "2026-06-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11283,7 +11527,8 @@
    "release": "2024-08-27",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11299,7 +11544,8 @@
    "release": "2024-05-07",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11307,7 +11553,8 @@
    "release": "2024-11-26",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11315,7 +11562,8 @@
    "release": "2024-11-26",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -11347,7 +11595,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11355,7 +11604,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11363,7 +11613,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11371,7 +11622,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11379,7 +11631,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11387,7 +11640,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11395,7 +11649,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11403,7 +11658,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11411,7 +11667,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11419,7 +11676,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Epic Bowling",
@@ -11427,7 +11685,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Genesis Bowling Co. LTD",
@@ -11475,7 +11734,8 @@
    "release": "2025-01-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11523,7 +11783,8 @@
    "release": "2024-11-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11702,7 +11963,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11743,7 +12005,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11751,7 +12014,8 @@
    "release": "2024-05-14",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11759,7 +12023,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11767,7 +12032,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11775,7 +12041,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -11859,7 +12126,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12083,7 +12351,8 @@
    "release": "2024-06-18",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12091,7 +12360,8 @@
    "release": "2025-06-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12099,7 +12369,8 @@
    "release": "2024-11-12",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12194,7 +12465,8 @@
    "release": "2026-07-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12285,7 +12557,8 @@
    "release": "2024-04-30",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12293,7 +12566,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12301,7 +12575,8 @@
    "release": "2026-04-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12309,7 +12584,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12376,7 +12652,8 @@
    "release": "2024-07-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12384,7 +12661,8 @@
    "release": "2025-04-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12392,7 +12670,8 @@
    "release": "2025-04-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12489,7 +12768,8 @@
    "release": "2025-12-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12582,7 +12862,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12590,7 +12871,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12598,7 +12880,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12606,7 +12889,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12614,7 +12898,8 @@
    "release": "2024-07-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12622,7 +12907,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12630,7 +12916,8 @@
    "release": "2026-07-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12670,7 +12957,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12693,14 +12981,31 @@
    "name": "Envy Tour Pearl",
    "release": "2023-08-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-envy-tour-pearl-bowling-ball-23319.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-envy-tour-pearl-bowling-ball-23319.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Envy Pearl",
+   "rg": 2.469,
+   "diff": 0.034,
+   "mb": 0.013,
+   "kern": "Obsession Tour",
+   "finish": "500, 1000, 1500 Siaair/Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Extreme Envy",
    "release": "2023-08-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-extreme-envy-bowling-ball-23310.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-extreme-envy-bowling-ball-23310.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Envy CFI Solid",
+   "rg": 2.479,
+   "diff": 0.054,
+   "kern": "Launcher LRG",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -12824,7 +13129,8 @@
    "release": "2025-11-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12863,7 +13169,8 @@
    "release": "2025-11-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12879,7 +13186,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12887,7 +13195,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -12965,7 +13274,16 @@
    "name": "Hazmat",
    "release": "2023-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-hazmat-bowling-ball-23724.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-hazmat-bowling-ball-23724.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - Semtex Hybrid",
+   "rg": 2.479,
+   "diff": 0.055,
+   "kern": "Hazmat",
+   "finish": "500, 1000, 1500 Siaair/Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13099,7 +13417,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -13226,7 +13545,14 @@
    "name": "NU Blue Hammer",
    "release": "2023-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-nu-blue-hammer-bowling-ball-23720.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-nu-blue-hammer-bowling-ball-23720.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Not Urethane",
+   "rg": 2.586,
+   "diff": 0.027,
+   "finish": "500, 1000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13331,7 +13657,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -13386,7 +13713,8 @@
    "release": "2024-04-30",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -14114,7 +14442,8 @@
    "release": "2024-09-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -14246,7 +14575,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -14254,7 +14584,8 @@
    "release": "2025-05-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -14262,7 +14593,8 @@
    "release": "2025-05-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -14519,7 +14851,8 @@
    "release": "2024-08-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
@@ -14527,7 +14860,8 @@
    "release": "2025-09-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
@@ -14605,7 +14939,8 @@
    "release": "2025-02-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
@@ -14765,7 +15100,8 @@
    "release": "2025-12-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
@@ -15038,7 +15374,8 @@
    "release": "2024-07-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -15230,7 +15567,8 @@
    "release": "2024-03-19",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -15278,7 +15616,8 @@
    "release": "2024-05-07",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Monster Bowling",
@@ -15452,7 +15791,8 @@
    "release": "2024-04-30",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -15589,7 +15929,8 @@
    "release": "2026-04-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -15603,7 +15944,17 @@
    "name": "Crimson Jackal",
    "release": "2023-12-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-crimson-jackal-bowling-ball-23986.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-crimson-jackal-bowling-ball-23986.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Propulsion HV+ Pearl Reactive",
+   "rg": 2.47,
+   "diff": 0.054,
+   "mb": 0.015,
+   "kern": "Predator V2",
+   "finish": "5000 Laser Scanned Sanded",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -15754,7 +16105,8 @@
    "release": "2026-01-27",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -16223,7 +16575,8 @@
    "release": "2026-04-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -16231,7 +16584,8 @@
    "release": "2024-05-07",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -16261,7 +16615,15 @@
    "name": "(Nuclear) Forge",
    "release": "2023-09-26",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-nuclear-forge-bowling-ball-23653.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-nuclear-forge-bowling-ball-23653.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Propulsion HVP Pearl Reactive",
+   "rg": 2.47,
+   "diff": 0.055,
+   "kern": "Detonator",
+   "finish": "5000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16303,7 +16665,17 @@
    "name": "Pride (Dynasty)",
    "release": "2023-08-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-pride-dynasty-bowling-ball-23237.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-pride-dynasty-bowling-ball-23237.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Leverage MFS Solid Reactive",
+   "rg": 2.5,
+   "diff": 0.042,
+   "mb": 0.01,
+   "kern": "Dominion Asymmetric",
+   "finish": "2000 Grit LSS",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16380,7 +16752,8 @@
    "release": "2024-04-30",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -16410,7 +16783,16 @@
    "name": "Raptor (Fury)",
    "release": "2023-11-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-raptor-fury-bowling-ball-23750.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-raptor-fury-bowling-ball-23750.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Leverage XFS Solid Reactive",
+   "rg": 2.48,
+   "diff": 0.055,
+   "kern": "Affliction V2",
+   "finish": "2000 Grit LSS",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16951,7 +17333,8 @@
    "release": "2024-04-16",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -16981,7 +17364,8 @@
    "release": "2024-12-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -17091,7 +17475,8 @@
    "release": "2026-01-13",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "ontheballbowling.com",
@@ -17295,7 +17680,8 @@
    "release": "2025-02-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Pro Bowl",
@@ -17311,7 +17697,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Pro Bowl",
@@ -17319,7 +17706,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Pro Bowl",
@@ -17327,7 +17715,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Pro Bowl",
@@ -17335,7 +17724,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Pyramid Bowling",
@@ -17724,7 +18114,8 @@
    "release": "2024-01-09",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -17832,7 +18223,16 @@
    "name": "Deadly Rattler",
    "release": "2023-09-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-deadly-rattler-bowling-ball-23648.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-deadly-rattler-bowling-ball-23648.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "HK22 - HyperKinetic Pearl Reactive",
+   "rg": 2.48,
+   "diff": 0.035,
+   "kern": "Rattler",
+   "finish": "500, 1000, 1500 Siaair/Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -18311,7 +18711,8 @@
    "release": "2025-05-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18319,7 +18720,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18440,7 +18842,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18448,7 +18851,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18495,7 +18899,8 @@
    "release": "2025-06-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18511,7 +18916,8 @@
    "release": "2024-09-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18519,14 +18925,24 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
    "name": "Sneak Attack Hybrid",
    "release": "2023-10-10",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-sneak-attack-hybrid-bowling-ball-20710.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-sneak-attack-hybrid-bowling-ball-20710.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Micro Textured Hyrbid (MTH)",
+   "rg": 2.544,
+   "diff": 0.036,
+   "kern": "Sneak Attack Symmetric",
+   "finish": "500, 1000, 2000 Siaair/Crown Factory Polish",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -18541,7 +18957,8 @@
    "release": "2024-09-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18590,7 +19007,17 @@
    "name": "The Hitter",
    "release": "2023-09-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-the-hitter-bowling-ball-23650.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-the-hitter-bowling-ball-23650.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "Utility Solid Reactive",
+   "rg": 2.488,
+   "diff": 0.053,
+   "mb": 0.015,
+   "kern": "Hitter",
+   "finish": "500, 1000, 2000 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -18621,7 +19048,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18629,7 +19057,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18680,7 +19109,8 @@
    "release": "2024-10-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -18776,7 +19206,8 @@
    "release": "2026-05-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18792,7 +19223,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18800,7 +19232,8 @@
    "release": "2025-10-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18816,7 +19249,8 @@
    "release": "2024-07-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18832,7 +19266,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18864,7 +19299,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -18872,14 +19308,24 @@
    "release": "2024-02-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Attention Star",
    "release": "2023-12-26",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-attention-star-bowling-ball-24008.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-attention-star-bowling-ball-24008.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "eTrax PLUS Pearl Reactive",
+   "rg": 2.48,
+   "diff": 0.049,
+   "mb": 0.017,
+   "kern": "Momentous AV + A.I. Core",
+   "finish": "Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -19072,7 +19518,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19080,7 +19527,8 @@
    "release": "2025-06-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19088,7 +19536,8 @@
    "release": "2025-11-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19158,7 +19607,8 @@
    "release": "2025-01-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19166,7 +19616,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19182,7 +19633,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19330,7 +19782,8 @@
    "release": "2026-01-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19338,7 +19791,8 @@
    "release": "2024-01-16",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19346,7 +19800,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19393,7 +19848,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19401,7 +19857,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19417,7 +19874,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19495,7 +19953,8 @@
    "release": "2024-12-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19606,7 +20065,8 @@
    "release": "2026-03-31",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19614,7 +20074,8 @@
    "release": "2024-01-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19622,7 +20083,8 @@
    "release": "2025-06-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19645,7 +20107,8 @@
    "release": "2026-04-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19661,7 +20124,8 @@
    "release": "2024-01-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19691,7 +20155,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19715,7 +20180,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19759,7 +20225,8 @@
    "release": "2024-05-21",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19767,7 +20234,8 @@
    "release": "2025-07-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -19975,7 +20443,15 @@
    "name": "Magic Gem",
    "release": "2023-10-03",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-magic-gem-bowling-ball-23680.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-magic-gem-bowling-ball-23680.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "MicroTrax Hybrid Reactive",
+   "rg": 2.47,
+   "diff": 0.053,
+   "kern": "Defiant LRG",
+   "finish": "2000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -19999,7 +20475,8 @@
    "release": "2026-04-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20119,7 +20596,8 @@
    "release": "2024-11-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20237,7 +20715,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20253,7 +20732,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20261,7 +20741,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20269,7 +20750,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20277,7 +20759,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20388,7 +20871,8 @@
    "release": "2024-01-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20529,7 +21013,16 @@
    "name": "TNT Infused",
    "release": "2023-10-03",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-tnt-infused-bowling-ball-23682.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-tnt-infused-bowling-ball-23682.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "eTrax PLUS Hybrid Reactive",
+   "rg": 2.47,
+   "diff": 0.052,
+   "kern": "Torpex",
+   "finish": "Reacta Gloss",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -20676,7 +21169,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20744,7 +21238,8 @@
    "release": "2025-03-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -20752,7 +21247,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Round1",
@@ -20792,7 +21288,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Round1",
@@ -20824,7 +21321,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Round1",
@@ -20888,7 +21386,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "SNB",
@@ -20912,7 +21411,8 @@
    "release": "2025-04-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Strikeforce",
@@ -20920,7 +21420,8 @@
    "release": "2025-04-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Strikeforce",
@@ -20928,7 +21429,8 @@
    "release": "2025-04-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Strikeforce",
@@ -20936,7 +21438,8 @@
    "release": "2025-04-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Strikeforce",
@@ -20944,7 +21447,8 @@
    "release": "2025-04-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -20952,7 +21456,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -20967,7 +21472,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -20982,7 +21488,16 @@
    "name": "Absolute Power",
    "release": "2023-12-05",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-absolute-power-bowling-ball-23976.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-absolute-power-bowling-ball-23976.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "R2S DEEP Solid",
+   "rg": 2.48,
+   "diff": 0.05,
+   "mb": 0.021,
+   "kern": "Sentinel (14-16#)",
+   "finish": "4000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -20990,7 +21505,8 @@
    "release": "2026-01-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21038,7 +21554,8 @@
    "release": "2024-01-23",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21126,7 +21643,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21134,7 +21652,8 @@
    "release": "2024-02-13",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21150,7 +21669,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21158,7 +21678,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21206,7 +21727,8 @@
    "release": "2024-09-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21214,7 +21736,8 @@
    "release": "2024-08-13",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21316,7 +21839,8 @@
    "release": "2026-04-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21340,7 +21864,8 @@
    "release": "2025-11-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21348,7 +21873,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21435,7 +21961,8 @@
    "release": "2026-05-26",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21497,7 +22024,8 @@
    "release": "2025-11-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21527,7 +22055,15 @@
    "name": "DNA Coil",
    "release": "2023-09-05",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-dna-coil-bowling-ball-24232.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-dna-coil-bowling-ball-24232.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "EXO Pearl Reactive",
+   "rg": 2.47,
+   "diff": 0.053,
+   "kern": "Supercoil Core",
+   "finish": "Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -21535,7 +22071,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21543,7 +22080,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21575,7 +22113,8 @@
    "release": "2024-06-04",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21651,7 +22190,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21826,7 +22366,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21834,7 +22375,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21850,7 +22392,8 @@
    "release": "2024-12-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21858,7 +22401,8 @@
    "release": "2024-08-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21866,7 +22410,8 @@
    "release": "2026-03-31",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21882,7 +22427,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -21913,7 +22459,8 @@
    "release": "2025-01-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22001,7 +22548,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22080,7 +22628,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22185,7 +22734,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22201,7 +22751,8 @@
    "release": "2024-07-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22315,7 +22866,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22338,8 +22890,9 @@
    "name": "Ion Pro Pearl PTLP",
    "release": "2026-09-29",
    "src": "USBC",
-   "checked": "2026-11-03",
-   "imgChecked": "2026-10-29"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-10-29",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22382,7 +22935,8 @@
    "release": "2025-06-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22390,7 +22944,8 @@
    "release": "2024-05-21",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22422,7 +22977,8 @@
    "release": "2024-12-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22566,7 +23122,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22574,14 +23131,23 @@
    "release": "2024-07-23",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Journey",
    "release": "2023-09-26",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-journey-bowling-ball-23734.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-journey-bowling-ball-23734.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "TX-16 Pearl Reactive",
+   "rg": 2.52,
+   "diff": 0.053,
+   "kern": "F-8",
+   "finish": "Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -22604,7 +23170,8 @@
    "release": "2026-03-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22636,7 +23203,8 @@
    "release": "2024-01-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22644,7 +23212,8 @@
    "release": "2025-08-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22676,7 +23245,8 @@
    "release": "2026-01-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22708,7 +23278,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22820,7 +23391,8 @@
    "release": "2025-08-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22860,7 +23432,8 @@
    "release": "2024-10-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22868,7 +23441,8 @@
    "release": "2025-11-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -22876,7 +23450,8 @@
    "release": "2024-04-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23041,7 +23616,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23049,7 +23625,8 @@
    "release": "2025-07-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23057,7 +23634,8 @@
    "release": "2025-12-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23065,7 +23643,8 @@
    "release": "2025-01-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23143,7 +23722,8 @@
    "release": "2025-09-23",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23151,7 +23731,8 @@
    "release": "2026-07-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23159,7 +23740,8 @@
    "release": "2026-01-13",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23167,7 +23749,8 @@
    "release": "2025-09-23",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23175,7 +23758,8 @@
    "release": "2026-03-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23303,7 +23887,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23311,7 +23896,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23367,7 +23953,8 @@
    "release": "2024-01-02",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23375,7 +23962,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23391,7 +23979,8 @@
    "release": "2025-01-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23437,7 +24026,8 @@
    "release": "2026-06-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23445,7 +24035,8 @@
    "release": "2025-06-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23453,7 +24044,8 @@
    "release": "2026-05-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23461,7 +24053,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23469,7 +24062,8 @@
    "release": "2024-03-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23509,7 +24103,8 @@
    "release": "2024-10-29",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23533,7 +24128,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23549,7 +24145,8 @@
    "release": "2024-10-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23573,7 +24170,8 @@
    "release": "2026-04-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23629,7 +24227,8 @@
    "release": "2025-02-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23685,7 +24284,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23731,7 +24331,8 @@
    "release": "2026-03-31",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23777,7 +24378,8 @@
    "release": "2026-03-31",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23816,7 +24418,8 @@
    "release": "2024-02-27",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23840,7 +24443,8 @@
    "release": "2025-11-05",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23910,7 +24514,8 @@
    "release": "2026-03-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -23934,7 +24539,8 @@
    "release": "2024-10-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24027,14 +24633,23 @@
    "release": "2024-12-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Summit Peak",
    "release": "2023-12-05",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-summit-peak-bowling-ball-23978.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-summit-peak-bowling-ball-23978.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "TX-23 Pearl Reactive",
+   "rg": 2.46,
+   "diff": 0.056,
+   "kern": "Centripetal HD - A.I",
+   "finish": "Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -24050,7 +24665,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24058,7 +24674,8 @@
    "release": "2025-06-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24280,7 +24897,8 @@
    "release": "2024-12-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24288,7 +24906,8 @@
    "release": "2025-11-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24323,7 +24942,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24331,7 +24951,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24606,7 +25227,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24629,7 +25251,8 @@
    "release": "2024-04-23",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24703,7 +25326,8 @@
    "release": "2026-03-10",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24777,7 +25401,8 @@
    "release": "2025-03-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24785,7 +25410,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24830,7 +25456,8 @@
    "release": "2026-06-30",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24861,7 +25488,16 @@
    "name": "Virtual Energy Blackout",
    "release": "2023-08-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-virtual-energy-blackout-bowling-ball-23185.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-virtual-energy-blackout-bowling-ball-23185.jpg",
+   "checked": "2026-11-17",
+   "coverstock": "ReX Pearl Reactive",
+   "rg": 2.48,
+   "diff": 0.052,
+   "mb": 0.02,
+   "kern": "Shape-Lock HD",
+   "finish": "Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -24869,7 +25505,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24877,7 +25514,8 @@
    "release": "2025-11-25",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24909,7 +25547,8 @@
    "release": "2024-06-25",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24949,7 +25588,8 @@
    "release": "2024-04-23",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -24981,7 +25621,8 @@
    "release": "2026-06-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -25061,7 +25702,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -25069,7 +25711,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -25077,7 +25720,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -25085,7 +25729,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -25093,7 +25738,8 @@
    "release": "2025-09-02",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Sunbridge Co., Ltd.",
@@ -25173,7 +25819,8 @@
    "release": "2026-04-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25181,7 +25828,8 @@
    "release": "2024-03-19",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25189,7 +25837,8 @@
    "release": "2025-04-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25197,7 +25846,8 @@
    "release": "2025-04-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25213,7 +25863,8 @@
    "release": "2025-07-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25229,7 +25880,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25237,7 +25889,8 @@
    "release": "2025-11-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25245,7 +25898,8 @@
    "release": "2026-07-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25253,7 +25907,8 @@
    "release": "2026-07-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25269,7 +25924,8 @@
    "release": "2024-06-11",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25349,7 +26005,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25357,7 +26014,8 @@
    "release": "2026-03-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25365,7 +26023,8 @@
    "release": "2025-04-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25373,7 +26032,8 @@
    "release": "2024-05-07",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25397,7 +26057,8 @@
    "release": "2025-03-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25405,7 +26066,8 @@
    "release": "2024-02-05",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25421,7 +26083,8 @@
    "release": "2025-03-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25429,7 +26092,8 @@
    "release": "2024-09-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25437,7 +26101,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25445,7 +26110,8 @@
    "release": "2026-07-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25453,7 +26119,8 @@
    "release": "2026-07-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25461,7 +26128,8 @@
    "release": "2025-10-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25469,7 +26137,8 @@
    "release": "2025-10-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25477,7 +26146,8 @@
    "release": "2025-10-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25509,7 +26179,8 @@
    "release": "2024-09-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25517,7 +26188,8 @@
    "release": "2026-04-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25549,7 +26221,8 @@
    "release": "2024-12-23",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25565,7 +26238,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25573,7 +26247,8 @@
    "release": "2025-04-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25581,7 +26256,8 @@
    "release": "2025-09-09",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25621,7 +26297,8 @@
    "release": "2024-05-14",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25653,7 +26330,8 @@
    "release": "2025-02-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25685,7 +26363,8 @@
    "release": "2026-01-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25693,7 +26372,8 @@
    "release": "2025-01-21",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25725,7 +26405,8 @@
    "release": "2024-07-16",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25741,7 +26422,8 @@
    "release": "2026-05-22",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25773,7 +26455,8 @@
    "release": "2024-08-20",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25789,7 +26472,8 @@
    "release": "2026-03-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25797,7 +26481,8 @@
    "release": "2026-04-14",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25853,7 +26538,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25861,7 +26547,8 @@
    "release": "2025-03-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25901,7 +26588,8 @@
    "release": "2026-08-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -25949,7 +26637,8 @@
    "release": "2026-01-27",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26045,7 +26734,8 @@
    "release": "2026-08-04",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26053,7 +26743,8 @@
    "release": "2026-03-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26061,7 +26752,8 @@
    "release": "2024-09-24",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26069,7 +26761,8 @@
    "release": "2026-07-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-03"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26077,7 +26770,8 @@
    "release": "2026-03-03",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Swag",
@@ -26117,7 +26811,8 @@
    "release": "2025-05-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -26198,7 +26893,8 @@
    "release": "2024-10-08",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -26984,7 +27680,8 @@
    "release": "2025-02-11",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27392,7 +28089,8 @@
    "release": "2024-06-18",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27540,7 +28238,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27548,7 +28247,8 @@
    "release": "2025-10-07",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27556,7 +28256,8 @@
    "release": "2025-06-17",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27564,7 +28265,8 @@
    "release": "2024-12-18",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27572,7 +28274,8 @@
    "release": "2024-04-23",
    "src": "USBC",
    "imgChecked": "2026-10-30",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27608,7 +28311,8 @@
    "release": "2024-08-06",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-02"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27616,7 +28320,8 @@
    "release": "2025-01-28",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27641,7 +28346,8 @@
    "release": "2026-05-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-10-31"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -27787,7 +28493,8 @@
    "release": "2025-04-01",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "X-ATK",
@@ -27795,7 +28502,8 @@
    "release": "2025-08-19",
    "src": "USBC",
    "imgChecked": "2026-10-29",
-   "checked": "2026-11-01"
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "3G",
@@ -27834,14 +28542,27 @@
    "name": "The Nuts Black (11M)",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "900 Global Black Gold",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "img": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGUZ/BBMGUZ.png",
+   "coverstock": "S77 Hybrid",
+   "rg": 2.56,
+   "diff": 0.027,
+   "mb": 0.018,
+   "kern": "MEDITATE Symmetric Core",
+   "finish": "4000 Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "stormbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "900 Global",
@@ -27872,14 +28593,18 @@
    "name": "Bank Roll Silver/Red",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Black Eagle",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28006,7 +28731,9 @@
    "name": "Dirty Look",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28053,7 +28780,9 @@
    "name": "Freight Train",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28084,28 +28813,36 @@
    "name": "Hook Dark Black/Silver",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Hook Blue/Yellow",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Hook Monster",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Jewel Purple/Pink",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28184,7 +28921,9 @@
    "name": "Sure Thing",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28199,7 +28938,9 @@
    "name": "The Look",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28214,14 +28955,18 @@
    "name": "Train",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
    "name": "Versus",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "900 Global",
@@ -28244,7 +28989,9 @@
    "name": "Wisdom Red/Silver Pearl",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "ABS",
@@ -28695,21 +29442,27 @@
    "name": "Profi Shop",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
    "name": "Rotation Star",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
    "name": "Schaeffler",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
@@ -28740,21 +29493,27 @@
    "name": "Startup",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
    "name": "Target",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
    "name": "Union Jack",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Aloha",
@@ -28847,7 +29606,9 @@
    "name": "Mamba Hybrid",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "AMF",
@@ -28912,21 +29673,27 @@
    "name": "Angry Bird Black Bird",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Angry Birds",
    "name": "Angry Bird Green Pig",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Angry Birds",
    "name": "Angry Bird Red Bird",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "AZO",
@@ -29003,7 +29770,9 @@
    "name": "Draco",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Bowlersparadise.com",
@@ -29079,14 +29848,18 @@
    "name": "Burning Siege S37P",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "Burning Siege S73P",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29101,14 +29874,18 @@
    "name": "C(System) Maxxed-Out",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "C(System) Versa-Max",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29208,7 +29985,9 @@
    "name": "Karma Urethane Solid",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29339,14 +30118,18 @@
    "name": "NeXus f(P) Pearl INT",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "NeXXus f(P+H) Solid",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29361,28 +30144,36 @@
    "name": "NeXXus f(P+R) Pearl",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "NeXXus f(P+R) Solid",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "NeXXus f(P+S) Solid",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
    "name": "NeXXXus f(P+A) Solid",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29397,7 +30188,9 @@
    "name": "NeXXXus f(P+S)",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29619,7 +30412,9 @@
    "name": "Warm Zone",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Brunswick",
@@ -29689,7 +30484,9 @@
    "name": "Benchmark Traction",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -29717,14 +30514,18 @@
    "name": "Boss 2012",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
    "name": "Boss 2012 Black/Purple/Yellow",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -29827,7 +30628,9 @@
    "name": "Eruption II",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -29880,7 +30683,9 @@
    "name": "Extreme Chaos Red/Black/Silver",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -29895,7 +30700,9 @@
    "name": "Freeze Hybrid",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -29910,7 +30717,9 @@
    "name": "Freeze Solid",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -30057,7 +30866,9 @@
    "name": "Resurgence Empire",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -30072,7 +30883,9 @@
    "name": "Resurgence Revival",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -30192,7 +31005,9 @@
    "name": "The Momentum",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Columbia 300",
@@ -30306,70 +31121,90 @@
    "name": "DV-701",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-703",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-704",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-706",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-707",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-708",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-710",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-718",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-719",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Denver Sporting",
    "name": "DV-723",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dexter",
@@ -30524,7 +31359,9 @@
    "name": "Marauder",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -30576,7 +31413,9 @@
    "name": "Misfit Violet/White Hybrid",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "DV8",
@@ -30709,7 +31548,9 @@
    "name": "Viz-A-Ball",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
@@ -30732,14 +31573,18 @@
    "name": "Dyna Ace of Clubs",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
    "name": "Dyna Ace of Diamonds",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
@@ -30762,35 +31607,45 @@
    "name": "Dyna Ace of Spades",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
    "name": "Dyna Star",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
    "name": "Dyna Star II",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Dyno-Thane",
    "name": "Dyna Star III",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Black Wolf (11 M)",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -30875,7 +31730,9 @@
    "name": "Challenge-S",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -30912,7 +31769,9 @@
    "name": "Crush/R Black/Gold/Silver",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -30927,7 +31786,9 @@
    "name": "Crush/R Blue/Green",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -30942,7 +31803,9 @@
    "name": "Crush/R Purple/Orange/Yellow",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31008,7 +31871,9 @@
    "name": "Cyclone Pro Model Black/Silver",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31031,7 +31896,9 @@
    "name": "Cyclone Pro Model Red/Gold",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31091,7 +31958,9 @@
    "name": "Drago",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31194,14 +32063,18 @@
    "name": "Innovate Quest",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Intense Angular One",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31303,7 +32176,9 @@
    "name": "Mission Champion Black/Silver",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31334,28 +32209,36 @@
    "name": "Mission XXX",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Moment Angular One",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Moment Angular One LS",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Multi Angular One",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31518,14 +32401,18 @@
    "name": "Pursuit Unlimited",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
    "name": "Pursuit Unlimited-S",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31617,7 +32504,9 @@
    "name": "The One Expansion",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31695,7 +32584,9 @@
    "name": "Undefeated II",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Ebonite",
@@ -31771,7 +32662,9 @@
    "name": "Espionage",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Elite (Bowlers Paradise)",
@@ -31850,7 +32743,9 @@
    "name": "Ignitor",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Genesis Bowling Co. LTD",
@@ -31940,14 +32835,18 @@
    "name": "Black Widow Red NH",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
    "name": "Black Widow Red/Turquoise",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -31983,7 +32882,9 @@
    "name": "Ambition",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32047,7 +32948,11 @@
    "name": "Arson Pearl Black/Purple",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "coverstock": "Max-Corner Pearl",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -32271,7 +33176,9 @@
    "name": "Gas Mask Clear",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32286,7 +33193,9 @@
    "name": "Made In USA 2012 (Purple)",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32338,7 +33247,11 @@
    "name": "Rhythm",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "Grand Theft Reactive",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -32389,21 +33302,27 @@
    "name": "Taboo Ace T1",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
    "name": "Taboo Ace T2",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
    "name": "Taboo Ace T3",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32418,7 +33337,9 @@
    "name": "Taboo Black/Blue/Green",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32471,28 +33392,38 @@
    "name": "Taboo Spare Black/Red Sparkle",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
    "name": "Taboo Spare (Multiple Colors)",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "coverstock": "Polyester",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Taboo TB",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
    "name": "Taboo TBP",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32507,7 +33438,9 @@
    "name": "The Immortal Deal",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32551,7 +33484,9 @@
    "name": "Vibe Cobalt",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hammer",
@@ -32710,21 +33645,27 @@
    "name": "Black Stealth",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hell Bent",
    "name": "Black Stealth Pro SP",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hell Bent",
    "name": "Daytona",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hell Bent",
@@ -32739,42 +33680,54 @@
    "name": "Piracy Tour SP",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Hell Bent",
    "name": "The Tribute",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
    "name": "DHC Clear",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
    "name": "Dice Ball",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
    "name": "Neo Classic P2",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
    "name": "Sweep Hard (All Colors)",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "High-Sports",
@@ -32805,7 +33758,9 @@
    "name": "Genghis Khan",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Jet Bowling",
@@ -32820,7 +33775,9 @@
    "name": "Blackbird",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Jet Bowling",
@@ -32851,7 +33808,9 @@
    "name": "Maximum Altitude Pearl",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Jet Bowling",
@@ -32874,14 +33833,18 @@
    "name": "Turbulence",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Jewel",
    "name": "Black Diamond Gold",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Jewel",
@@ -32896,21 +33859,27 @@
    "name": "Black Diamond Prime",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
    "name": "Bloody Panther",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
    "name": "Buzzsaw Clear Red",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
@@ -32973,14 +33942,18 @@
    "name": "Droid",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
    "name": "Droid Pearl",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
@@ -33011,14 +33984,18 @@
    "name": "Rip Saw Blue/Orange",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
    "name": "Stealth Bomber",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
@@ -33033,7 +34010,9 @@
    "name": "Stealth Bomber Pearl",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane #1",
@@ -33072,7 +34051,9 @@
    "name": "Black Pearl Mutiny",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
@@ -33135,14 +34116,18 @@
    "name": "Metal",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
    "name": "Metal Polyester",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
@@ -33197,7 +34182,9 @@
    "name": "Terminator Disaster",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
@@ -33236,7 +34223,9 @@
    "name": "Terminator Revenge",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lane Masters",
@@ -33370,21 +34359,27 @@
    "name": "Bad News",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Big Hurt",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Big Hurt Punishment",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33423,21 +34418,27 @@
    "name": "Bulldozer",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Burning Up",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Crucial",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33476,14 +34477,18 @@
    "name": "Heritage Particle",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Heritage (Red/Blue Pearl)",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33497,14 +34502,18 @@
    "name": "Judgement",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "Judgement Day",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33527,7 +34536,9 @@
    "name": "Korrupt",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33550,7 +34561,9 @@
    "name": "Nasty",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33597,28 +34610,36 @@
    "name": "The Grail V.1",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "The Grail V.1 Blue/Hot Lemon",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "The Grail V.1 Purple/Hot Lemon",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
    "name": "The Grail V.2",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Lord Field",
@@ -33633,7 +34654,9 @@
    "name": "Zaru Hot Pink",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Magic Bowling Service",
@@ -33648,14 +34671,18 @@
    "name": "Loco Motion",
    "release": "2012-02",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
    "name": "2 Cruel",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -33669,7 +34696,9 @@
    "name": "Ascent",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -33698,7 +34727,9 @@
    "name": "Ascent Pearl Pink/Purple",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -34257,7 +35288,9 @@
    "name": "Dart",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Radical",
@@ -34507,7 +35540,9 @@
    "name": "Dark Theory",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34530,7 +35565,9 @@
    "name": "Defiant Boom",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34559,7 +35596,9 @@
    "name": "Defiant XL",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34687,14 +35726,18 @@
    "name": "Impact Theory",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Kingdom 90PH",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34780,7 +35823,9 @@
    "name": "North Star",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34810,7 +35855,9 @@
    "name": "Retro Cell",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34833,7 +35880,9 @@
    "name": "Royal Dynasty",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34863,7 +35912,9 @@
    "name": "Scream",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34900,7 +35951,9 @@
    "name": "Silver Streak SS",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34938,21 +35991,27 @@
    "name": "Star Alliance",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Strategic Alliance",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Strike Alliance",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34967,7 +36026,9 @@
    "name": "Techno Flip",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -34998,7 +36059,9 @@
    "name": "Totally Berserk",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
@@ -35121,7 +36184,9 @@
    "name": "Dominion",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Seismic",
@@ -35192,7 +36257,9 @@
    "name": "Raging Bull Stampede",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Seismic",
@@ -35287,7 +36354,9 @@
    "name": "Brain Storm",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35402,7 +36471,9 @@
    "name": "Crossroad Extreme",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35439,7 +36510,9 @@
    "name": "Deep Gravity Gold/V",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35454,14 +36527,18 @@
    "name": "Domination Nano Long oil",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Domination Nano Short Oil",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35476,14 +36553,18 @@
    "name": "Don Carter Major 52",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Don Carter Wise Man",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35498,7 +36579,9 @@
    "name": "Erased",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35520,28 +36603,36 @@
    "name": "Fire Side",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "First War",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Frantic Black/Red",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Frantic Pro",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35617,28 +36708,36 @@
    "name": "!Q",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "!Q 300",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "!Q Score",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "!Q Tour",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35677,7 +36776,9 @@
    "name": "!Q Tour Pearl",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35752,7 +36853,9 @@
    "name": "Lucid Vision",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35821,7 +36924,9 @@
    "name": "Master Domination",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -35953,7 +37058,9 @@
    "name": "Polar Ice Black/Blue",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -36142,7 +37249,9 @@
    "name": "Total Anarchy",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -36200,7 +37309,9 @@
    "name": "Tropical Breeze Red/Silver",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -36261,21 +37372,27 @@
    "name": "Virtual Gravity Nano ADV",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Virtual Gravity Premier XG",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Virtual Gravity XRa",
    "release": "2012-09",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -36329,21 +37446,27 @@
    "name": "Vivid Dream",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "Vivid RNP",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
    "name": "War Game",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Storm",
@@ -36380,7 +37503,11 @@
    "name": "300A",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "coverstock": "Gen MA",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -36410,7 +37537,9 @@
    "name": "405A",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36425,7 +37554,9 @@
    "name": "408C Triple Crown",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36447,7 +37578,11 @@
    "name": "503T",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "Gen MT (Moderate Traction)",
+   "kernNein": true,
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -36470,21 +37605,40 @@
    "name": "505C Special Edition",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
    "name": "508A",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "MP Gen 4 Reactive Pearl",
+   "rg": 2.51,
+   "diff": 0.049,
+   "mb": 0.008,
+   "kern": "Legion Core",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "706A",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "Gen XA (Xtra Angle)",
+   "rg": 2.52,
+   "diff": 0.053,
+   "mb": 0.006,
+   "kern": "Helmet",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -36522,21 +37676,49 @@
    "name": "714C",
    "release": "2012-12",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "coverstock": "Gen Xc",
+   "rg": 2.52,
+   "diff": 0.052,
+   "kern": "Modified Robot 2.0",
+   "finish": "800 Abranet®,1000 ,2000, 3000 Abralon®",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "716T",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "Gen XT",
+   "rg": 2.51,
+   "diff": 0.057,
+   "mb": 0.016,
+   "kern": "Modified Robot",
+   "finish": "Abralon® 500, 1,000, 2,000",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
    "name": "811C/T",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "coverstock": "Gen X C/T Hybrid",
+   "rg": 2.5,
+   "diff": 0.046,
+   "mb": 0.011,
+   "kern": "Legion 2 Turbo",
+   "finish": "800 Abranet®,1000, 2000, 4000 Abralon®",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -36560,7 +37742,9 @@
    "name": "812T",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36583,14 +37767,26 @@
    "name": "911T",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
    "name": "912T",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "coverstock": "Gen ET (Extreme Traction)",
+   "rg": 2.5,
+   "diff": 0.046,
+   "mb": 0.011,
+   "kern": "Legion 2 Turbo",
+   "finish": "800, 800, 1500, 1500 Abranet®",
+   "sym": "asymmetrisch",
+   "kernSrc": "trackbowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Track Inc.",
@@ -36664,21 +37860,27 @@
    "name": "Heat Black/Purple/Silver",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
    "name": "Heat Black/Purple/Silver (Orange Pin)",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
    "name": "Killer Project",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36826,7 +38028,9 @@
    "name": "Phoenix Blue/Silver/Red",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36860,7 +38064,9 @@
    "name": "Rising HE",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36883,7 +38089,9 @@
    "name": "The Kinetic",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Track Inc.",
@@ -36967,7 +38175,9 @@
    "name": "70 Plus One",
    "release": "2012-07",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -36982,7 +38192,9 @@
    "name": "Broken Arrow Final",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -37013,7 +38225,9 @@
    "name": "Deep Caution",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -37060,7 +38274,9 @@
    "name": "Prevalence",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -37075,7 +38291,9 @@
    "name": "Red Blitz",
    "release": "2012-03",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -37090,7 +38308,9 @@
    "name": "ST Swift",
    "release": "2012-01",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "US Act",
@@ -37105,7 +38325,9 @@
    "name": "The X NBT",
    "release": "2012-10",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "VIA",
@@ -37120,35 +38342,45 @@
    "name": "Pageant",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "VIA",
    "name": "Spin Along",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "VIA",
    "name": "Spindle",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "VIA",
    "name": "Victoire",
    "release": "2011-12",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Vision-X",
    "name": "Star Strips",
    "release": "2012-06",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Visionary",
@@ -37203,7 +38435,9 @@
    "name": "Mixed Breed Crossover",
    "release": "2012-11",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Visionary",
@@ -37242,7 +38476,9 @@
    "name": "The Classic",
    "release": "2012-04",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Visionary",
@@ -37265,14 +38501,18 @@
    "name": "Electric",
    "release": "2012-05",
    "src": "USBC",
-   "imgChecked": "2026-11-17"
+   "imgChecked": "2026-11-17",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Xtreme Bowling",
    "name": "Electric AC",
    "release": "2012-08",
    "src": "USBC",
-   "imgChecked": "2026-11-16"
+   "imgChecked": "2026-11-16",
+   "checked": "2026-11-17",
+   "noPage": 1
   },
   {
    "brand": "Motiv",
@@ -37301,16 +38541,26 @@
    "name": "Lunar Orbit (Under 13 lbs.)",
    "release": "2026-11-03",
    "src": "USBC",
-   "checked": "2026-11-04",
-   "imgChecked": "2026-11-04"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-11-04",
+   "noPage": 1
   },
   {
    "brand": "Roto Grip",
    "name": "Unit",
    "release": "2026-11-10",
    "src": "USBC",
-   "checked": "2026-11-12",
-   "imgChecked": "2026-11-12"
+   "checked": "2026-11-17",
+   "imgChecked": "2026-11-12",
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-unit-bowling-ball-32277.jpg",
+   "coverstock": "U-R1 Solid Reactive",
+   "rg": 2.48,
+   "diff": 0.045,
+   "kern": "Actuator Core",
+   "finish": "4000-grit Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   }
  ]
 }
