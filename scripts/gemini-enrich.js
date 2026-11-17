@@ -9,7 +9,10 @@ if(!KEY){console.log('GEMINI_API_KEY fehlt – übersprungen.');process.exit(0)}
 const BASE=process.env.PRODUCT_BASE||'https://www.bowling.com',UA={'user-agent':'Mozilla/5.0 (compatible; proshop-ballenrich)'};
 let HERST={ueberspringen:[],vorlagen:{}};try{HERST=JSON.parse(fs.readFileSync(require('path').join(__dirname,'hersteller.json'),'utf8'))}catch{}
 const {pick}=require('./sitemap-match.js');
-const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5;
+const TODAY=new Date().toISOString().slice(0,10),RECHECK=30*864e5,DAY=864e5;
+const HAUPT=['storm','roto grip','hammer','900 global','motiv','brunswick','ebonite','columbia 300','track','track inc.','radical','dv8','lane #1','lane 1'];
+const haupt=b=>HAUPT.includes((b.brand||'').toLowerCase());
+const MAXVERSUCHE=+process.env.MAX_VERSUCHE||700; // Seitensuchen insgesamt; nur echte Gemini-Anfragen zählen gegen MAX
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const slug=s=>s.toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const numOk=s=>typeof s==='string'&&/^\d{1,2}(\.\d+)?( \d\/\d{1,2})?$|^\d\/\d{1,2}$/.test(s.trim());
@@ -65,16 +68,19 @@ ${p.text}`;
   }
   throw new Error('503 Modell überlastet')}
 (async()=>{
-  const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,chg=0,dirty=false;
-  // Reihenfolge: 1. Bälle ab 2024, denen Kernwerte noch fehlen (und nie versucht wurden), 2. Bälle ohne Coverstock/Foto, 3. neuere zuerst
+  const j=JSON.parse(fs.readFileSync(F,'utf8'));let done=0,tries=0,chg=0,dirty=false,fehl={};
+  // Reihenfolge: 0. Hauptmarken zuerst, 1. Bälle ab 2024, denen Kernwerte noch fehlen (und nie versucht wurden), 2. Bälle ohne Coverstock/Foto, 3. neuere zuerst
   const need=b=>(!b.coverstock)+(!b.img);
   const kernOffen=b=>(b.release||'')>='2024'&&!b.rg&&!b.kernNein;
-  const KERN_AB='2026-10-31'; // Kernwerte lesen wir erst seit diesem Tag; früher geprüfte Bälle dürfen deshalb sofort noch einmal drankommen
-  for(const b of [...j.balls].sort((x,y)=>kernOffen(y)-kernOffen(x)||need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
-    if(done>=MAX)break;if(b.img&&b.coverstock&&b.layouts&&(b.rg||b.kernNein))continue;
+  const KERN_AB='2026-11-18'; // Kernwerte lesen wir erst seit diesem Tag; früher geprüfte Bälle dürfen deshalb sofort noch einmal drankommen
+  for(const b of [...j.balls].sort((x,y)=>(kernOffen(y)&&haupt(y))-(kernOffen(x)&&haupt(x))||kernOffen(y)-kernOffen(x)||need(y)-need(x)||(y.release||'').localeCompare(x.release||''))){
+    if(done>=MAX||tries>=MAXVERSUCHE)break;if(b.img&&b.coverstock&&b.layouts&&(b.rg||b.kernNein))continue;
     if(!b.url&&(HERST.ueberspringen||[]).includes(b.brand.toLowerCase()))continue; // Nischenmarke ohne Quelle
-    if(b.checked&&Date.now()-new Date(b.checked)<RECHECK&&!(kernOffen(b)&&b.checked<KERN_AB))continue; // nicht jede Woche dieselben Bälle erneut versuchen
-    done++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){console.log(' - keine Seite:',b.brand,b.name);continue}
+    // Ohne Seite: nach 7 Tagen wieder, danach je Fehlschlag länger (max. 30 Tage)
+    const wartezeit=b.noPage?Math.min(30,7*b.noPage)*DAY:RECHECK;
+    if(b.checked&&Date.now()-new Date(b.checked)<wartezeit&&!(kernOffen(b)&&b.checked<KERN_AB))continue; // nicht jede Woche dieselben Bälle erneut versuchen
+    tries++;let c=false;b.checked=TODAY;dirty=true;const p=await page(b);if(!p){b.noPage=(b.noPage||0)+1;fehl[b.brand]=(fehl[b.brand]||0)+1;console.log(' - keine Seite:',b.brand,b.name,haupt(b)?'· HAUPTMARKE, geprüft: '+[b.url,`${BASE}/products/${slug(b.brand+' '+b.name)}.htm`].filter(Boolean).join(' | '):'');continue}
+    delete b.noPage;done++;
     console.log(' ?',b.brand,b.name,'· Seite',p.url,'· Text',p.text.length,'Zeichen · og:image',p.og?'ja':'nein');
     if(!b.img&&p.og&&/^https:\/\//.test(p.og)&&await imgOk(p.og)){b.img=p.og;c=true}
     if(!b.coverstock||!b.layouts||(!b.rg&&!b.kernNein)){let a;try{a=await ask(b,p)}catch(e){console.error('Gemini-Fehler:',e.message);delete b.checked;if(/^(400|401|403|404|429|503)/.test(e.message))break;continue}
@@ -93,8 +99,8 @@ ${p.text}`;
           .map(l=>({pin:l.pin.trim(),psa:l.psa.trim(),buf:l.buf.trim(),src:String(l.src||'Hersteller').slice(0,30)+' · KI'}));
           b.layouts=ls;c=c||ls.length>0}}}
     if(c){chg++;console.log(' +',b.brand,b.name)}
-    if(done%10===0&&dirty){if(chg)j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')} // Zwischenstand sichern, falls der Lauf abbricht
+    if(tries%10===0&&dirty){if(chg)j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')} // Zwischenstand sichern, falls der Lauf abbricht
   }
-  console.log('Geprüft:',done,'· ergänzt:',chg);
+  console.log('Seitensuchen:',tries,'· Gemini-Anfragen:',done,'· ergänzt:',chg);console.log('Ohne Seite je Marke:',JSON.stringify(fehl));
   if(dirty){if(chg)j.updated=new Date().toISOString().slice(0,10);fs.writeFileSync(F,JSON.stringify(j,null,1)+'\n')}
 })();
