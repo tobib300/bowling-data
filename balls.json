@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "note": "Quelle: Veröffentlichte Hersteller-Neuheiten 2026. Coverstock steht nur, wenn angegeben. Eigene Bälle kannst du in der App frei eintippen.",
  "balls": [
   {
@@ -5222,7 +5222,16 @@
    "name": "Cutting Edge Pearl",
    "release": "2018-12-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-cutting-edge-pearl-bowling-ball-16165.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-cutting-edge-pearl-bowling-ball-16165.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "3C Pearl Reactive",
+   "rg": 2.521,
+   "diff": 0.039,
+   "kern": "Cutting Edge Low RG Symmetric",
+   "finish": "500 and 1,000 Siaair / Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5486,7 +5495,15 @@
    "name": "Fearless",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-fearless-bowling-ball-15908.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-fearless-bowling-ball-15908.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Relentless",
+   "rg": 2.474,
+   "diff": 0.047,
+   "kern": "Contra",
+   "finish": "500 Siaair / Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5546,7 +5563,15 @@
    "name": "Hero",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-hero-bowling-ball-17238.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-hero-bowling-ball-17238.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Activator 2.0 Plus Pearl Reactive",
+   "rg": 2.474,
+   "diff": 0.047,
+   "kern": "Contra",
+   "finish": "500, 1000, Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5601,14 +5626,32 @@
    "name": "Igniter Pearl",
    "release": "2020-05-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-igniter-pearl-bowling-ball-18277.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-igniter-pearl-bowling-ball-18277.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Relativity Pearl 3.0",
+   "rg": 2.508,
+   "diff": 0.043,
+   "kern": "Brink Symmetric",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
    "name": "Igniter Solid",
    "release": "2020-05-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-igniter-solid-bowling-ball-18275.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-igniter-solid-bowling-ball-18275.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Relativity Solid 3.0",
+   "rg": 2.508,
+   "diff": 0.043,
+   "kern": "Brink Symmetric",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5750,14 +5793,32 @@
    "name": "Jagged Edge Hybrid",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-jagged-edge-hybrid-bowling-ball-17043.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-jagged-edge-hybrid-bowling-ball-17043.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Relativity 2.0 Hybrid",
+   "rg": 2.508,
+   "diff": 0.043,
+   "kern": "Brink Symmetric",
+   "finish": "500, 1000, Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
    "name": "Jagged Edge Solid",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-jagged-edge-solid-bowling-ball-17041.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-jagged-edge-solid-bowling-ball-17041.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Relativity 2.0 Solid",
+   "rg": 2.508,
+   "diff": 0.043,
+   "kern": "Brink Symmetric",
+   "finish": "500 and 3000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -5867,7 +5928,15 @@
    "name": "Kingpin Rule",
    "release": "2018-12-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-kingpin-rule-bowling-ball-16103.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-kingpin-rule-bowling-ball-16103.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ECA-XR Solid Reactive",
+   "rg": 2.483,
+   "diff": 0.055,
+   "kern": "Kingpin Ultra Low RG",
+   "finish": "500 and 2,000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6072,7 +6141,16 @@
    "name": "Melee Jab Blood Red",
    "release": "2020-08-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-melee-jab-blood-red-bowling-ball-18909.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-melee-jab-blood-red-bowling-ball-18909.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Savvy Hook 2.0 Pearl Reactive",
+   "rg": 2.487,
+   "diff": 0.05,
+   "kern": "Melee Low RG Symmetric Core",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6194,7 +6272,15 @@
    "name": "Method Solid",
    "release": "2019-02-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-method-solid-bowling-ball-16398.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-method-solid-bowling-ball-16398.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Synthesis Solid",
+   "rg": 2.499,
+   "diff": 0.055,
+   "kern": "Magnitude 055 High Diff",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6321,7 +6407,16 @@
    "name": "Prism Hybrid",
    "release": "2019-09-24",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-hybrid-bowling-ball-17496.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-hybrid-bowling-ball-17496.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ACT Hybrid (Activator Composite Technology)",
+   "rg": 2.465,
+   "diff": 0.051,
+   "kern": "Portal",
+   "finish": "500 Siaair/Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6344,21 +6439,45 @@
    "name": "Prism Solid",
    "release": "2019-09-24",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-solid-bowling-ball-17493.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-solid-bowling-ball-17493.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ACT Solid (Activator Composite Technology)",
+   "rg": 2.465,
+   "diff": 0.051,
+   "kern": "Portal",
+   "finish": "360, 500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
    "name": "Prism Warp",
    "release": "2020-02-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-warp-bowling-ball-17791.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-warp-bowling-ball-17791.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ACT (Activator Composite Technology) 2.0",
+   "rg": 2.465,
+   "diff": 0.051,
+   "kern": "Portal",
+   "finish": "500, 2000 Siaair",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
    "name": "Prism Warp Hybrid",
    "release": "2020-08-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-warp-hybrid-bowling-ball-18907.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-prism-warp-hybrid-bowling-ball-18907.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "A.C.T. 2.0 Hybrid",
+   "rg": 2.465,
+   "diff": 0.051,
+   "kern": "Portal",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6391,7 +6510,16 @@
    "name": "Quantum Bias Pearl",
    "release": "2019-02-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-quantum-bias-pearl-bowling-ball-16390.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-quantum-bias-pearl-bowling-ball-16390.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ECA-XR Pearl",
+   "rg": 2.563,
+   "diff": 0.052,
+   "kern": "Quantum Mushroom High RG Asymmetric",
+   "finish": "500 Siaair/Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6702,7 +6830,15 @@
    "name": "Tenacity Grit",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-tenacity-grit-bowling-ball-15910.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-tenacity-grit-bowling-ball-15910.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "URG (Ultra Responsive Grit)",
+   "rg": 2.503,
+   "diff": 0.052,
+   "kern": "Tenacity Low RG",
+   "finish": "500 / 1,000 / 3,000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6793,7 +6929,14 @@
    "name": "Twist Neon Green/Black",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-twist-neon-green-black-bowling-ball-16558.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-twist-neon-green-black-bowling-ball-16558.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "R-16 Reactive",
+   "rg": 2.591,
+   "diff": 0.018,
+   "kern": "Twist Low Diff",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6821,7 +6964,14 @@
    "name": "Twist Red/White/Blue",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-twist-red-white-blue-bowling-ball-16543.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-twist-red-white-blue-bowling-ball-16543.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "R-16 Reactive",
+   "rg": 2.591,
+   "diff": 0.018,
+   "kern": "Twist Low Diff",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6835,7 +6985,15 @@
    "name": "U-Motion",
    "release": "2020-02-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-u-motion-bowling-ball-17793.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-u-motion-bowling-ball-17793.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Solid Urethane",
+   "rg": 2.596,
+   "diff": 0.02,
+   "kern": "U-Motion",
+   "finish": "500/1,000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6899,7 +7057,16 @@
    "name": "Vapor Zone Hybrid",
    "release": "2019-12-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-vapor-zone-hybrid-bowling-ball-17688.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-vapor-zone-hybrid-bowling-ball-17688.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Activator Plus 2.0 Hybrid",
+   "rg": 2.478,
+   "diff": 0.048,
+   "kern": "Zone Asymmetric with DynamiCore",
+   "finish": "500, 3000 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6915,7 +7082,16 @@
    "name": "Vapor Zone Solid",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-vapor-zone-solid-bowling-ball-17236.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-vapor-zone-solid-bowling-ball-17236.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Activator Plus 2.0 Solid",
+   "rg": 2.478,
+   "diff": 0.048,
+   "kern": "Zone Asymmetric",
+   "finish": "500, 2000 Siaair",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6977,7 +7153,15 @@
    "name": "Vintage Phantom",
    "release": "2019-09-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-vintage-phantom-bowling-ball-17538.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-vintage-phantom-bowling-ball-17538.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Savvy Hook Solid 2.0",
+   "rg": 2.471,
+   "diff": 0.032,
+   "kern": "Cynosure",
+   "finish": "360, 1000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -6992,7 +7176,16 @@
    "name": "Vintage Vapor Zone",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/brunswick-vintage-vapor-zone-bowling-ball-15921.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/brunswick-vintage-vapor-zone-bowling-ball-15921.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Activator Plus 2.0",
+   "rg": 2.478,
+   "diff": 0.048,
+   "kern": "Zone Asymmetric with DynamiCore",
+   "finish": "500 Siaair / Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Brunswick",
@@ -7133,28 +7326,61 @@
    "name": "Authority",
    "release": "2020-02-18",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-authority-bowling-ball-17810.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-authority-bowling-ball-17810.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ERT 2.0 Pearl",
+   "rg": 2.503,
+   "diff": 0.05,
+   "kern": "Authority",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
    "name": "Authority Solid",
    "release": "2020-08-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-authority-solid-bowling-ball-18913.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-authority-solid-bowling-ball-18913.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ERT 2.0 Solid",
+   "rg": 2.503,
+   "diff": 0.05,
+   "kern": "Authority",
+   "finish": "500, 1000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
    "name": "Baller",
    "release": "2019-09-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-baller-bowling-ball-17550.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-baller-bowling-ball-17550.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ERT Hybrid with HyperSHOCK Technology",
+   "rg": 2.52,
+   "diff": 0.052,
+   "kern": "Big Time",
+   "finish": "500/2000 Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
    "name": "Chaos Black",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-chaos-black-bowling-ball-17124.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-chaos-black-bowling-ball-17124.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Exciter Solid",
+   "rg": 2.48,
+   "diff": 0.054,
+   "kern": "Chaos",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -7284,7 +7510,15 @@
    "name": "Dynamic Swing",
    "release": "2020-09-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-dynamic-swing-bowling-ball-18988.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-dynamic-swing-bowling-ball-18988.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "ERT Hybrid",
+   "rg": 2.482,
+   "diff": 0.047,
+   "kern": "Modified Full Swing",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -7459,14 +7693,28 @@
    "name": "Messenger Black/Gold",
    "release": "2019-04-23",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-black-gold-bowling-ball-16569.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-black-gold-bowling-ball-16569.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Super Flex",
+   "rg": 2.57,
+   "diff": 0.021,
+   "kern": "Messenger",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
    "name": "Messenger Pink/Purple",
    "release": "2019-04-23",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-pink-purple-bowling-ball-16573.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-pink-purple-bowling-ball-16573.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Super Flex",
+   "rg": 2.57,
+   "diff": 0.021,
+   "kern": "Messenger",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -7518,7 +7766,14 @@
    "name": "Messenger Red/Black",
    "release": "2019-04-23",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-red-black-bowling-ball-16571.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-messenger-red-black-bowling-ball-16571.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Super Flex",
+   "rg": 2.57,
+   "diff": 0.021,
+   "kern": "Messenger",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -7702,7 +7957,15 @@
    "name": "Outlook",
    "release": "2020-02-18",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-outlook-bowling-ball-17812.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-outlook-bowling-ball-17812.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Exciter Max",
+   "rg": 2.533,
+   "diff": 0.047,
+   "kern": "Outlook",
+   "finish": "500, 1000, 3000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -8005,7 +8268,15 @@
    "name": "Savage",
    "release": "2018-08-14",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-savage-bowling-ball-15800.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-savage-bowling-ball-15800.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Exciter Solid with HyperSHOCK Technology",
+   "rg": 2.49,
+   "diff": 0.051,
+   "kern": "Savage",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -8028,7 +8299,14 @@
    "name": "Savage Life",
    "release": "2019-02-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-savage-life-bowling-ball-16415.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-savage-life-bowling-ball-16415.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Exciter Pearl with HyperSHOCK Technology",
+   "rg": 2.49,
+   "diff": 0.051,
+   "kern": "Savage",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -8144,7 +8422,14 @@
    "name": "Spoiler Alert",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/columbia-300-spoiler-alert-bowling-ball-15947.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/columbia-300-spoiler-alert-bowling-ball-15947.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reflex Pearl",
+   "rg": 2.52,
+   "diff": 0.045,
+   "kern": "Spoiler",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Columbia 300",
@@ -8795,7 +9080,15 @@
    "name": "Glam",
    "release": "2019-12-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-glam-bowling-ball-17699.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-glam-bowling-ball-17699.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Composite Fang Pearl",
+   "rg": 2.516,
+   "diff": 0.052,
+   "kern": "Diva",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -8942,7 +9235,15 @@
    "name": "Instigator",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-instigator-bowling-ball-17053.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-instigator-bowling-ball-17053.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Inciter Solid",
+   "rg": 2.481,
+   "diff": 0.051,
+   "kern": "Assailant",
+   "finish": "500 and 3,000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9036,14 +9337,30 @@
    "name": "Night Prowler",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-night-prowler-bowling-ball-17241.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-night-prowler-bowling-ball-17241.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "N-Forcer SF Pearl Reactive",
+   "rg": 2.491,
+   "diff": 0.044,
+   "kern": "Divergent",
+   "finish": "500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
    "name": "Notorious",
    "release": "2019-01-08",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-notorious-bowling-ball-16267.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-notorious-bowling-ball-16267.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Composite Fang Hybrid Reactive",
+   "rg": 2.476,
+   "diff": 0.047,
+   "kern": "Antagonist",
+   "finish": "500 and 3,000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9073,7 +9390,16 @@
    "name": "Pitbull Bark",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-pitbull-bark-bowling-ball-15912.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-pitbull-bark-bowling-ball-15912.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Composite Fang Max Solid Reactive",
+   "rg": 2.486,
+   "diff": 0.055,
+   "kern": "Pitbull Low RG Asymmetric - DynamiCore",
+   "finish": "1,000 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9094,14 +9420,30 @@
    "name": "Poison",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-poison-bowling-ball-15914.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-poison-bowling-ball-15914.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Toxin-R",
+   "rg": 2.564,
+   "diff": 0.054,
+   "kern": "Toxicity",
+   "finish": "500 / 1,500 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
    "name": "Poison Pearl",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-poison-pearl-bowling-ball-17051.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-poison-pearl-bowling-ball-17051.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Toxin-SF",
+   "rg": 2.564,
+   "diff": 0.054,
+   "kern": "Toxicity",
+   "finish": "500 and 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9117,7 +9459,15 @@
    "name": "Prowler",
    "release": "2019-01-08",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-prowler-bowling-ball-16269.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-prowler-bowling-ball-16269.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "N-Forcer Plus Pearl Reactive",
+   "rg": 2.491,
+   "diff": 0.044,
+   "kern": "Divergent",
+   "finish": "500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9199,7 +9549,16 @@
    "name": "Turmoil Hybrid",
    "release": "2019-01-08",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-hybrid-bowling-ball-16271.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-hybrid-bowling-ball-16271.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Composite Hook Hybrid",
+   "rg": 2.528,
+   "diff": 0.042,
+   "kern": "Turmoil Symmetric",
+   "finish": "500 and 1,000 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9220,14 +9579,32 @@
    "name": "Turmoil 2 Pearl",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-2-pearl-bowling-ball-16568.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-2-pearl-bowling-ball-16568.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Intense Composite Pearl",
+   "rg": 2.53,
+   "diff": 0.043,
+   "kern": "Command Symmetric",
+   "finish": "500 and 1,000 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
    "name": "Turmoil 2 Solid",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-2-solid-bowling-ball-16566.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-turmoil-2-solid-bowling-ball-16566.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Intense Composite Solid",
+   "rg": 2.53,
+   "diff": 0.043,
+   "kern": "Command Symmetric",
+   "finish": "500 and 3,000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9286,14 +9663,31 @@
    "name": "Verge Pearl",
    "release": "2020-07-14",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-pearl-bowling-ball-18872.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-pearl-bowling-ball-18872.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Inciter Pearl Reactive",
+   "rg": 2.476,
+   "diff": 0.049,
+   "kern": "Threshold",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
    "name": "Verge Solid",
    "release": "2019-09-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-solid-bowling-ball-21698.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/dv8-verge-solid-bowling-ball-21698.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Inciter Max Traction Solid Reactive",
+   "rg": 2.476,
+   "diff": 0.049,
+   "kern": "Threshold",
+   "finish": "500, 1000, 1500 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "DV8",
@@ -9512,7 +9906,16 @@
    "name": "Allure",
    "release": "2020-01-28",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-allure-bowling-ball-17763.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-allure-bowling-ball-17763.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Traxion SF Pearl Reactive",
+   "rg": 2.475,
+   "diff": 0.049,
+   "kern": "Allure",
+   "finish": "500, 1000, 3000 Siaair/Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -9589,7 +9992,15 @@
    "name": "Choice Pearl",
    "release": "2018-12-18",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-choice-pearl-bowling-ball-16241.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-choice-pearl-bowling-ball-16241.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GSV-1 (Good Stuff Version 1) Pearl",
+   "rg": 2.49,
+   "diff": 0.054,
+   "kern": "Mod-1",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -9612,7 +10023,16 @@
    "name": "Choice Solid",
    "release": "2019-07-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-choice-solid-bowling-ball-17353.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-choice-solid-bowling-ball-17353.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GSV-1 (Good Stuff Version 1) Solid",
+   "rg": 2.49,
+   "diff": 0.054,
+   "kern": "Mod-1",
+   "finish": "500/2000 Abralon",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -9833,7 +10253,15 @@
    "name": "Destiny Solid Magenta",
    "release": "2019-05-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-destiny-solid-magenta-bowling-ball-16797.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-destiny-solid-magenta-bowling-ball-16797.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 11.2 Solid",
+   "rg": 2.53,
+   "diff": 0.053,
+   "kern": "Cyclone Torque",
+   "finish": "500/1000/3000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10063,7 +10491,15 @@
    "name": "Futura",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-futura-bowling-ball-17183.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-futura-bowling-ball-17183.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GSV-1 Hybrid",
+   "rg": 2.48,
+   "diff": 0.053,
+   "kern": "Futura HD (High Density)",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10246,7 +10682,14 @@
    "name": "Impact",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-impact-bowling-ball-15960.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-impact-bowling-ball-15960.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GSV-1 (Good Stuff Version 1) Hybrid",
+   "rg": 2.48,
+   "diff": 0.049,
+   "kern": "CB-2",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10351,7 +10794,15 @@
    "name": "Matrix Solid",
    "release": "2018-07-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-matrix-solid-bowling-ball-15716.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-matrix-solid-bowling-ball-15716.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 12.7 Solid",
+   "rg": 2.53,
+   "diff": 0.049,
+   "kern": "Matrix Reload",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -10627,7 +11078,15 @@
    "name": "Omni Hybrid",
    "release": "2020-09-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-omni-hybrid-bowling-ball-18992.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-omni-hybrid-bowling-ball-18992.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GSV 2.0 Hybrid",
+   "rg": 2.501,
+   "diff": 0.05,
+   "kern": "Omni",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -11015,14 +11474,29 @@
    "name": "Stinger Hybrid",
    "release": "2020-04-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-stinger-hybrid-bowling-ball-18283.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-stinger-hybrid-bowling-ball-18283.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Detonator 2020 Hybrid",
+   "rg": 2.517,
+   "diff": 0.035,
+   "kern": "Stinger",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
    "name": "Stinger Pearl",
    "release": "2020-04-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-stinger-pearl-bowling-ball-18281.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-stinger-pearl-bowling-ball-18281.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Detonator 2020 Pearl",
+   "rg": 2.517,
+   "diff": 0.035,
+   "kern": "Stinger",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -11455,7 +11929,14 @@
    "name": "Turbo-R Black/Copper/Yellow",
    "release": "2019-04-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-black-copper-yellow-bowling-ball-16589.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-black-copper-yellow-bowling-ball-16589.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 10.7",
+   "rg": 2.59,
+   "diff": 0.035,
+   "kern": "Turbo/R",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -11476,21 +11957,42 @@
    "name": "Turbo-R Blue/Green/Silver",
    "release": "2019-04-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-blue-green-silver-bowling-ball-16591.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-blue-green-silver-bowling-ball-16591.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 10.7",
+   "rg": 2.59,
+   "diff": 0.035,
+   "kern": "Turbo/R",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
    "name": "Turbo-R Pink/Black/White",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-pink-black-white-bowling-ball-16593.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-pink-black-white-bowling-ball-16593.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 10.7",
+   "rg": 2.59,
+   "diff": 0.035,
+   "kern": "Turbo/R",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
    "name": "Turbo-R Purple/Black",
    "release": "2019-04-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-purple-black-bowling-ball-16587.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/ebonite-turbo-r-purple-black-bowling-ball-16587.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GB 10.7",
+   "rg": 2.59,
+   "diff": 0.035,
+   "kern": "Turbo/R",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Ebonite",
@@ -12513,7 +13015,14 @@
    "name": "Black Widow Black/Gold",
    "release": "2018-07-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-black-gold-bowling-ball-15711.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-black-gold-bowling-ball-15711.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Hybrid",
+   "rg": 2.5,
+   "diff": 0.058,
+   "kern": "Gas Mask",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -12645,7 +13154,15 @@
    "name": "Black Widow Ghost",
    "release": "2019-12-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-ghost-bowling-ball-20350.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-ghost-bowling-ball-20350.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Pearl Reactive",
+   "rg": 2.5,
+   "diff": 0.058,
+   "kern": "Gas Mask",
+   "finish": "500, 1000, 1500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -12833,7 +13350,14 @@
    "name": "Black Widow Pink",
    "release": "2019-02-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-pink-bowling-ball-16438.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-black-widow-pink-bowling-ball-16438.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Pearl CFI",
+   "rg": 2.5,
+   "diff": 0.058,
+   "kern": "Gas Mask",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13320,7 +13844,15 @@
    "name": "Diesel Torque",
    "release": "2018-07-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-diesel-torque-bowling-ball-15718.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-diesel-torque-bowling-ball-15718.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Juiced Solid",
+   "rg": 2.51,
+   "diff": 0.046,
+   "kern": "Diesel",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13557,7 +14089,14 @@
    "name": "Flawless",
    "release": "2018-12-18",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-flawless-bowling-ball-16243.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-flawless-bowling-ball-16243.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Juiced Pearl",
+   "rg": 2.52,
+   "diff": 0.041,
+   "kern": "40 Watt",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -13588,7 +14127,16 @@
    "name": "Fugitive Solid",
    "release": "2020-07-14",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-fugitive-solid-bowling-ball-18876.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-fugitive-solid-bowling-ball-18876.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Juiced Solid",
+   "rg": 2.486,
+   "diff": 0.052,
+   "kern": "Fugitive",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14391,7 +14939,15 @@
    "name": "Redemption Hybrid",
    "release": "2020-07-14",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-hybrid-bowling-ball-18874.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-hybrid-bowling-ball-18874.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression NE Hybrid",
+   "rg": 2.498,
+   "diff": 0.053,
+   "kern": "Redemption",
+   "finish": "500, 1000 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14406,14 +14962,30 @@
    "name": "Redemption Pearl",
    "release": "2020-01-28",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-pearl-bowling-ball-17757.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-pearl-bowling-ball-17757.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression NE Pearl",
+   "rg": 2.498,
+   "diff": 0.053,
+   "kern": "Redemption",
+   "finish": "500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Redemption Solid",
    "release": "2020-01-28",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-solid-bowling-ball-17755.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-redemption-solid-bowling-ball-17755.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression NE Solid",
+   "rg": 2.498,
+   "diff": 0.053,
+   "kern": "Redenption with Carbon-Fiber Outer Core",
+   "finish": "360, 500, 2000 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14474,7 +15046,14 @@
    "name": "Rip'D Pearl",
    "release": "2018-09-18",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-rip-d-pearl-bowling-ball-15879.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-rip-d-pearl-bowling-ball-15879.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Pearl CFI",
+   "rg": 2.48,
+   "diff": 0.054,
+   "finish": "500/1000/3000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14496,7 +15075,15 @@
    "name": "Ruthless",
    "release": "2019-08-13",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-ruthless-bowling-ball-17464.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-ruthless-bowling-ball-17464.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Juiced Solid",
+   "rg": 2.52,
+   "diff": 0.041,
+   "kern": "40 Watt",
+   "finish": "500/1000/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14665,7 +15252,15 @@
    "name": "Statement Hybrid",
    "release": "2019-07-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-hybrid-bowling-ball-17355.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-hybrid-bowling-ball-17355.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Hybrid CFI",
+   "rg": 2.47,
+   "diff": 0.054,
+   "kern": "Statement",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14680,7 +15275,13 @@
    "name": "Statement Pearl",
    "release": "2019-01-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-pearl-bowling-ball-16356.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-pearl-bowling-ball-16356.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Pearl CFI",
+   "rg": 2.47,
+   "diff": 0.054,
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14695,7 +15296,15 @@
    "name": "Statement Solid",
    "release": "2018-12-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-solid-bowling-ball-16361.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-statement-solid-bowling-ball-16361.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Solid CFI",
+   "rg": 2.47,
+   "diff": 0.054,
+   "kern": "Statement",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -14930,7 +15539,14 @@
    "name": "Vibe Orange",
    "release": "2019-05-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-vibe-orange-bowling-ball-16787.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-vibe-orange-bowling-ball-16787.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "CT Reactive Plus",
+   "rg": 2.51,
+   "diff": 0.042,
+   "kern": "Vibe",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -15004,7 +15620,15 @@
    "name": "Web",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-web-bowling-ball-15950.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-web-bowling-ball-15950.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Hybrid",
+   "rg": 2.48,
+   "diff": 0.048,
+   "kern": "Spheroid",
+   "finish": "500/2000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -15036,7 +15660,15 @@
    "name": "Web Pearl",
    "release": "2019-08-13",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-web-pearl-bowling-ball-19315.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-web-pearl-bowling-ball-19315.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Aggression Pearl",
+   "rg": 2.481,
+   "diff": 0.048,
+   "kern": "Spheroid",
+   "finish": "500, 1000, 1500 Siaair/Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -15051,14 +15683,30 @@
    "name": "Web Tour Edition",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-web-tour-edition-bowling-ball-15955.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-web-tour-edition-bowling-ball-15955.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TourV1 Solid",
+   "rg": 2.47,
+   "diff": 0.03,
+   "kern": "Spheroid TE",
+   "finish": "360/1000 Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
    "name": "Web Tour Edition Hybrid",
    "release": "2019-07-09",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/hammer-web-tour-edition-hybrid-bowling-ball-18911.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/hammer-web-tour-edition-hybrid-bowling-ball-18911.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TourV1 Hybrid",
+   "rg": 2.47,
+   "diff": 0.03,
+   "kern": "Spheroid TE",
+   "finish": "500, 1500 Siaair Micro Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Hammer",
@@ -16314,7 +16962,16 @@
    "name": "(Alpha) Jackal",
    "release": "2019-12-03",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-alpha-jackal-bowling-ball-17672.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-alpha-jackal-bowling-ball-17672.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Coercion HV3 Solid Reactive",
+   "rg": 2.47,
+   "diff": 0.054,
+   "kern": "Predator V2",
+   "finish": "2000 Grit Laser Scan Sanded",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16488,7 +17145,15 @@
    "name": "(Covert) Tank",
    "release": "2019-04-23",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-covert-tank-bowling-ball-16607.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-covert-tank-bowling-ball-16607.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Frixion Microcell Polymer",
+   "rg": 2.5,
+   "diff": 0.051,
+   "kern": "Torx",
+   "finish": "2000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16597,7 +17262,16 @@
    "name": "Forge",
    "release": "2018-12-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-forge-bowling-ball-16094.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-forge-bowling-ball-16094.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Coercion HFS",
+   "rg": 2.47,
+   "diff": 0.055,
+   "kern": "Detonator",
+   "finish": "3000 Grit LSS",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16619,7 +17293,16 @@
    "name": "Forge (Fire)",
    "release": "2019-09-03",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-forge-fire-bowling-ball-17540.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-forge-fire-bowling-ball-17540.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Infusion Hybrid Reactive",
+   "rg": 2.47,
+   "diff": 0.055,
+   "kern": "Detonator",
+   "finish": "4000 Grit LSS",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16724,7 +17407,16 @@
    "name": "Golden Jackal",
    "release": "2019-01-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-golden-jackal-bowling-ball-16329.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-golden-jackal-bowling-ball-16329.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Hexion SE Pearl",
+   "rg": 2.47,
+   "diff": 0.055,
+   "kern": "Predator V3",
+   "finish": "4000 Grit Laser Scan Sanded",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -16872,7 +17564,15 @@
    "name": "Jackal (Flash)",
    "release": "2020-08-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-jackal-flash-bowling-ball-18904.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-jackal-flash-bowling-ball-18904.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Infusion HV Pearl Reactive",
+   "rg": 2.47,
+   "diff": 0.054,
+   "kern": "Predator V2",
+   "finish": "5000 Laser Scanned Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17555,14 +18255,30 @@
    "name": "Ripcord",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-ripcord-bowling-ball-17080.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-ripcord-bowling-ball-17080.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Infusion Pearl Reactive",
+   "rg": 2.53,
+   "diff": 0.047,
+   "kern": "Oblivion",
+   "finish": "5000 LSP",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
    "name": "Ripcord (Flight)",
    "release": "2020-02-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-ripcord-flight-bowling-ball-17819.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-ripcord-flight-bowling-ball-17819.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Turmoil Max Solid Reactive",
+   "rg": 2.53,
+   "diff": 0.047,
+   "kern": "Oblivion",
+   "finish": "3000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17617,14 +18333,30 @@
    "name": "Rogue (Assassin)",
    "release": "2019-07-09",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-rogue-assassin-bowling-ball-17360.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-rogue-assassin-bowling-ball-17360.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Coercion HFS (high friction solid) Reactive",
+   "rg": 2.47,
+   "diff": 0.047,
+   "kern": "Sigma",
+   "finish": "3000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
    "name": "Rogue Blade",
    "release": "2018-07-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-rogue-blade-bowling-ball-15708.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-rogue-blade-bowling-ball-15708.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Hexion SE",
+   "rg": 2.47,
+   "diff": 0.047,
+   "kern": "Sigma",
+   "finish": "4000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17691,7 +18423,15 @@
    "name": "(Sky) Raptor",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-sky-raptor-bowling-ball-21674.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-sky-raptor-bowling-ball-21674.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Dynamic Infusion Pearl Reactive",
+   "rg": 2.48,
+   "diff": 0.055,
+   "kern": "Affliction V2",
+   "finish": "5000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17756,7 +18496,15 @@
    "name": "Supra",
    "release": "2019-10-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-supra-bowling-ball-17609.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-supra-bowling-ball-17609.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Infusion Pearl Reactive",
+   "rg": 2.57,
+   "diff": 0.05,
+   "kern": "High Impulse",
+   "finish": "5500 Grit LSP",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17950,7 +18698,15 @@
    "name": "Trident Abyss",
    "release": "2018-08-28",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-trident-abyss-bowling-ball-15808.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-trident-abyss-bowling-ball-15808.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Coercion HV3 Reactive Solid",
+   "rg": 2.49,
+   "diff": 0.054,
+   "kern": "Turbulent",
+   "finish": "2000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -17973,7 +18729,15 @@
    "name": "Trident (Nemesis)",
    "release": "2020-01-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-trident-nemesis-bowling-ball-17765.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-trident-nemesis-bowling-ball-17765.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Infusion HV Pearl Reactive",
+   "rg": 2.52,
+   "diff": 0.049,
+   "kern": "Sidwinder",
+   "finish": "5500 Grit LSP Polish",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -18075,7 +18839,15 @@
    "name": "Venom (Recoil)",
    "release": "2019-02-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-venom-recoil-bowling-ball-16412.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-venom-recoil-bowling-ball-16412.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Coercion MFS Reactive",
+   "rg": 2.47,
+   "diff": 0.036,
+   "kern": "Gear APG",
+   "finish": "4000 Grit LSS",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -18113,7 +18885,16 @@
    "name": "Villain Scorn",
    "release": "2018-10-09",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/motiv-villain-scorn-bowling-ball-15932.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/motiv-villain-scorn-bowling-ball-15932.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Hexion SE Reactive",
+   "rg": 2.54,
+   "diff": 0.051,
+   "kern": "Sinister",
+   "finish": "5000 LSP",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Motiv",
@@ -18873,7 +19654,17 @@
    "name": "Conspiracy",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-bowling-ball-24298.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-bowling-ball-24298.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "HK22+ Solid Reactive",
+   "rg": 2.487,
+   "diff": 0.056,
+   "mb": 0.021,
+   "kern": "Conspiracy Asymmetric",
+   "finish": "500, 2000 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -18888,14 +19679,29 @@
    "name": "Conspiracy Hybrid",
    "release": "2019-05-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-hybrid-bowling-ball-16669.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-hybrid-bowling-ball-16669.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Forged 2 Hybrid",
+   "rg": 2.487,
+   "diff": 0.056,
+   "finish": "500, 1000, 3000 Siaair",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Conspiracy Pearl",
    "release": "2019-02-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-pearl-bowling-ball-16400.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-pearl-bowling-ball-16400.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Forged 2 Pearl",
+   "rg": 2.487,
+   "diff": 0.056,
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -18926,21 +19732,47 @@
    "name": "Conspiracy Theory",
    "release": "2019-09-20",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-theory-bowling-ball-17522.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-conspiracy-theory-bowling-ball-17522.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TP1 (Textured Pearl 1)",
+   "rg": 2.49,
+   "diff": 0.054,
+   "kern": "Asymmetric with DynamiCore",
+   "finish": "500, 1000, Crown Factory Compound",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Counter Attack Pearl",
    "release": "2019-05-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-counter-attack-pearl-bowling-ball-16673.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-counter-attack-pearl-bowling-ball-16673.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-20 pearlized",
+   "rg": 2.562,
+   "diff": 0.023,
+   "kern": "Modified Light Bulb",
+   "finish": "500, 1000, Crown Factory Polish",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Counter Attack Solid",
    "release": "2019-05-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-counter-attack-solid-bowling-ball-16671.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-counter-attack-solid-bowling-ball-16671.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai 20",
+   "rg": 2.562,
+   "diff": 0.023,
+   "kern": "Modified Light Bulb",
+   "finish": "500, 1000, 3000 Siaair",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19330,7 +20162,16 @@
    "name": "Katana Legend",
    "release": "2018-12-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-katana-legend-bowling-ball-16097.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-katana-legend-bowling-ball-16097.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Forged + Pearl",
+   "rg": 2.503,
+   "diff": 0.05,
+   "kern": "Katana",
+   "finish": "500 & 1,000 Siaair/Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19392,7 +20233,16 @@
    "name": "Ludicrous Solid",
    "release": "2019-02-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-ludicrous-solid-bowling-ball-16410.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-ludicrous-solid-bowling-ball-16410.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-43",
+   "rg": 2.535,
+   "diff": 0.05,
+   "kern": "Ludicrous Asymmetric with Scoop Technology",
+   "finish": "500, 1500 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19531,7 +20381,15 @@
    "name": "Pandemonium",
    "release": "2020-09-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-pandemonium-bowling-ball-18998.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-pandemonium-bowling-ball-18998.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Forged+ Pearl",
+   "rg": 2.487,
+   "diff": 0.053,
+   "kern": "Pademonium symmetric core",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19674,14 +20532,31 @@
    "name": "Results",
    "release": "2020-02-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-results-bowling-ball-17797.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-results-bowling-ball-17797.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TP1 (Textured Pearl 1)",
+   "rg": 2.517,
+   "diff": 0.044,
+   "finish": "500, 1000, Crown Factory Compound",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Results Solid",
    "release": "2020-09-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-results-solid-bowling-ball-18994.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-results-solid-bowling-ball-18994.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TS-1 (Textured Solid 1)",
+   "rg": 2.517,
+   "diff": 0.044,
+   "kern": "Asymmetric with DynamiCore",
+   "finish": "500, 3000 Siaair Micro Pad",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19744,7 +20619,15 @@
    "name": "Sizzle",
    "release": "2018-10-02",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-sizzle-bowling-ball-15919.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-sizzle-bowling-ball-15919.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-38",
+   "rg": 2.541,
+   "diff": 0.05,
+   "finish": "500 Siaair / Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -19843,35 +20726,78 @@
    "name": "Squatch",
    "release": "2018-12-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-bowling-ball-16099.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-bowling-ball-16099.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-39 Pearl Reactive",
+   "rg": 2.482,
+   "diff": 0.054,
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Squatch Hybrid",
    "release": "2019-12-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-hybrid-bowling-ball-17704.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-hybrid-bowling-ball-17704.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-39 Hybrid Reactive",
+   "rg": 2.482,
+   "diff": 0.054,
+   "kern": "Squatch Symmetric w/ DynamiCore",
+   "finish": "500 Siaair/Crown Factory Compound & Polish",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "Squatch Solid",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-solid-bowling-ball-17234.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-squatch-solid-bowling-ball-17234.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai-39 Solid Reactive",
+   "rg": 2.482,
+   "diff": 0.054,
+   "kern": "Symmetric w/ DynamiCore",
+   "finish": "500, 1000, 2000 Siaair",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "The Closer",
    "release": "2019-09-17",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-closer-bowling-ball-17524.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-closer-bowling-ball-17524.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai39 Solid",
+   "rg": 2.54,
+   "diff": 0.05,
+   "kern": "Symmetric (DynamiCore)",
+   "finish": "500, 3000 Siaair Micro Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
    "name": "The Closer Pearl",
    "release": "2020-02-04",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-the-closer-pearl-bowling-ball-17795.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-the-closer-pearl-bowling-ball-17795.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Ai39 Pearl",
+   "rg": 2.54,
+   "diff": 0.05,
+   "kern": "Symmetric (DynamiCore)",
+   "finish": "500, 1000, Crown Factory Compound",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -20020,7 +20946,15 @@
    "name": "Zing!",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/radical-zing--bowling-ball-17232.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/radical-zing--bowling-ball-17232.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Forged 2 Solid",
+   "rg": 2.499,
+   "diff": 0.051,
+   "finish": "500, 1000, 3000 Siaair",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Radical",
@@ -20641,7 +21575,15 @@
    "name": "Halo Pearl",
    "release": "2019-02-05",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-halo-pearl-bowling-ball-16373.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-halo-pearl-bowling-ball-16373.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax-P18 Pearl Reactive",
+   "rg": 2.49,
+   "diff": 0.05,
+   "kern": "Centrum",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -20656,7 +21598,15 @@
    "name": "Halo Vision",
    "release": "2019-06-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-halo-vision-bowling-ball-17247.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-halo-vision-bowling-ball-17247.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax-H19 Hybrid Reactive",
+   "rg": 2.49,
+   "diff": 0.05,
+   "kern": "Centrum",
+   "finish": "4000-Grit Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21360,7 +22310,16 @@
    "name": "Idol Pearl",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-pearl-bowling-ball-15939.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-pearl-bowling-ball-15939.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax-P18",
+   "rg": 2.49,
+   "diff": 0.052,
+   "kern": "Ikon",
+   "finish": "1500-grit Polished",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21375,7 +22334,16 @@
    "name": "Idol Pro",
    "release": "2019-06-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-pro-bowling-ball-17245.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-pro-bowling-ball-17245.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax-S19 Solid Reactive",
+   "rg": 2.49,
+   "diff": 0.052,
+   "kern": "Ikon",
+   "finish": "3000-grit Sheen",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21406,7 +22374,16 @@
    "name": "Idol Synergy",
    "release": "2020-09-01",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-synergy-bowling-ball-19015.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-idol-synergy-bowling-ball-19015.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax Hybrid Reactive",
+   "rg": 2.49,
+   "diff": 0.052,
+   "kern": "Ikon",
+   "finish": "1500-grit Polished",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21508,21 +22485,45 @@
    "name": "MVP",
    "release": "2019-06-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-bowling-ball-17249.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-bowling-ball-17249.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "VTC-H19 Hybrid Reactive",
+   "rg": 2.55,
+   "diff": 0.04,
+   "kern": "Neutron NXT",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
    "name": "MVP Attitude",
    "release": "2020-07-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-attitude-bowling-ball-18844.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-attitude-bowling-ball-18844.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "VTC-H20 Hybrid Reactive",
+   "rg": 2.55,
+   "diff": 0.04,
+   "kern": "Neutron NXT",
+   "finish": "3000-grit",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
    "name": "MVP Pearl",
    "release": "2019-10-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-pearl-bowling-ball-17603.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-mvp-pearl-bowling-ball-17603.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "VTC-P19 Pearl Reactive",
+   "rg": 2.55,
+   "diff": 0.04,
+   "kern": "Neutron NXT",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21590,7 +22591,15 @@
    "name": "Nuclear Cell",
    "release": "2020-01-28",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-nuclear-cell-bowling-ball-17768.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-nuclear-cell-bowling-ball-17768.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "eTrax-P20 Pearl Reactive",
+   "rg": 2.52,
+   "diff": 0.056,
+   "kern": "Nucleus",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -21826,7 +22835,16 @@
    "name": "RST X-1",
    "release": "2020-09-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-rst-x-1-bowling-ball-19017.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-rst-x-1-bowling-ball-19017.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "MicroTrax Hybrid Reactive",
+   "rg": 2.53,
+   "diff": 0.053,
+   "kern": "RST Core (Roto Star Tour Core)",
+   "finish": "3000 Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -22162,7 +23180,15 @@
    "name": "UFO",
    "release": "2019-12-10",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-ufo-bowling-ball-17687.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-ufo-bowling-ball-17687.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "MicroTrax-S20 Solid Reactive",
+   "rg": 2.52,
+   "diff": 0.054,
+   "kern": "E.T. Core - Equalizer Technology",
+   "finish": "2000-grit Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -22238,7 +23264,16 @@
    "name": "Wild Streak",
    "release": "2019-10-25",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-wild-streak-bowling-ball-17605.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-wild-streak-bowling-ball-17605.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "SureTrax-S19 Solid Reactive",
+   "rg": 2.6,
+   "diff": 0.048,
+   "kern": "Mutated Rotary",
+   "finish": "3000-grit Pad",
+   "sym": "symmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -22269,7 +23304,15 @@
    "name": "Winner Solid",
    "release": "2018-10-16",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/roto-grip-winner-solid-bowling-ball-15941.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/roto-grip-winner-solid-bowling-ball-15941.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "VTC-S18 Solid Reactive",
+   "rg": 2.54,
+   "diff": 0.054,
+   "kern": "Altered Hotshot Core",
+   "finish": "3000-grit Pad",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Roto Grip",
@@ -22606,7 +23649,15 @@
    "name": "All-Road",
    "release": "2019-08-27",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-all-road-bowling-ball-17500.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-all-road-bowling-ball-17500.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "NRG Hybrid Reactive",
+   "rg": 2.57,
+   "diff": 0.046,
+   "kern": "Inverted Fe² Technology",
+   "finish": "4000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -22655,14 +23706,30 @@
    "name": "Axiom",
    "release": "2020-02-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-axiom-bowling-ball-17800.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-axiom-bowling-ball-17800.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "NeX Solid Reactive",
+   "rg": 2.48,
+   "diff": 0.05,
+   "kern": "Orbital",
+   "finish": "3000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
    "name": "Axiom Pearl",
    "release": "2020-09-01",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-axiom-pearl-bowling-ball-18953.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-axiom-pearl-bowling-ball-18953.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "NeX Pearl Reactive",
+   "rg": 2.48,
+   "diff": 0.05,
+   "kern": "Orbital",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23094,7 +24161,16 @@
    "name": "Crux Prime",
    "release": "2018-12-21",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-crux-prime-bowling-ball-16247.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-crux-prime-bowling-ball-16247.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "SPEC Solid Reactive",
+   "rg": 2.5,
+   "diff": 0.052,
+   "kern": "Catalyst",
+   "finish": "2000-grit Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23269,14 +24345,30 @@
    "name": "Electrify Hybrid",
    "release": "2020-04-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-electrify-hybrid-bowling-ball-18181.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-electrify-hybrid-bowling-ball-18181.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Hybrid Reactive",
+   "rg": 2.51,
+   "diff": 0.03,
+   "kern": "Circuit Core",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
    "name": "Electrify Pearl",
    "release": "2020-04-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-electrify-pearl-bowling-ball-18183.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-electrify-pearl-bowling-ball-18183.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Pearl Reactive",
+   "rg": 2.51,
+   "diff": 0.03,
+   "kern": "Circuit Core",
+   "finish": "4K FAST (4000-grit) or Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23420,7 +24512,15 @@
    "name": "Fever Pitch",
    "release": "2019-01-01",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-fever-pitch-urethane-pearl-bowling-ball-16273.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-fever-pitch-urethane-pearl-bowling-ball-16273.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "PWR+CTRL Pearl Urethane",
+   "rg": 2.61,
+   "diff": 0.03,
+   "kern": "Tour Block",
+   "finish": "2000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23560,7 +24660,15 @@
    "name": "Gravity Evolve",
    "release": "2019-09-10",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-gravity-evolve-bowling-ball-17498.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-gravity-evolve-bowling-ball-17498.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "SPEC Solid Reactive",
+   "rg": 2.48,
+   "diff": 0.052,
+   "kern": "Shape-Lock HD",
+   "finish": "2000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -23834,7 +24942,15 @@
    "name": "Hy-Road X",
    "release": "2018-09-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-hy-road-x-bowling-ball-15818.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-hy-road-x-bowling-ball-15818.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "R2X Solid Reactive",
+   "rg": 2.57,
+   "diff": 0.046,
+   "kern": "Inverted Fe² Technology",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -24872,7 +25988,16 @@
    "name": "Omega Crux",
    "release": "2020-01-07",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-omega-crux-bowling-ball-17734.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-omega-crux-bowling-ball-17734.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "GI-20 Pearl Reactive",
+   "rg": 2.5,
+   "diff": 0.052,
+   "kern": "Catalyst",
+   "finish": "3000-grit Abralon",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -24949,7 +26074,16 @@
    "name": "Parallax",
    "release": "2020-06-23",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-parallax-bowling-ball-18838.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-parallax-bowling-ball-18838.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "TractionX7 Hybrid Reactive",
+   "rg": 2.52,
+   "diff": 0.054,
+   "kern": "Aeroflo",
+   "finish": "1500-grit Polished",
+   "sym": "asymmetrisch",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -25024,7 +26158,15 @@
    "name": "Phaze III",
    "release": "2019-10-29",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-phaze-iii-bowling-ball-17607.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-phaze-iii-bowling-ball-17607.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "R3S Hybrid Reactive",
+   "rg": 2.48,
+   "diff": 0.051,
+   "kern": "Velocity Core",
+   "finish": "4K FAST (4000-grit) or Reacta Gloss",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -25188,7 +26330,15 @@
    "name": "PhysiX",
    "release": "2018-09-15",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-physix-bowling-ball-15820.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-physix-bowling-ball-15820.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "NRG Hybrid Reactive",
+   "rg": 2.48,
+   "diff": 0.053,
+   "kern": "Atomic",
+   "finish": "3000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -25477,7 +26627,15 @@
    "name": "PRO Motion",
    "release": "2019-06-11",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-pro-motion-bowling-ball-17205.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-pro-motion-bowling-ball-17205.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "SPEC Solid Reactive",
+   "rg": 2.52,
+   "diff": 0.049,
+   "kern": "Piston Core",
+   "finish": "2000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -25957,7 +27115,15 @@
    "name": "Super Son!Q",
    "release": "2019-01-22",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-super-son-q-bowling-ball-16375.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-super-son-q-bowling-ball-16375.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "NRG Hybrid Reactive",
+   "rg": 2.47,
+   "diff": 0.047,
+   "kern": "Centripetal HD Core",
+   "finish": "3000-grit Abralon",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -26256,7 +27422,15 @@
    "name": "Trend",
    "release": "2020-05-26",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-trend-bowling-ball-18840.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-trend-bowling-ball-18840.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "R2S Pearl Reactive",
+   "rg": 2.52,
+   "diff": 0.049,
+   "kern": "Piston",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -26422,14 +27596,30 @@
    "name": "Tropical Surge Black/Cherry",
    "release": "2019-03-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-hybrid-black-cherry-bowling-ball-16463.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-hybrid-black-cherry-bowling-ball-16463.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Hybrid Reactive",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
    "name": "Tropical Surge Black/Copper",
    "release": "2019-03-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-hybrid-black-copper-bowling-ball-16461.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-hybrid-black-copper-bowling-ball-16461.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Hybrid Reactive",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -26462,7 +27652,15 @@
    "name": "Tropical Surge Carbon/Chrome",
    "release": "2019-03-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-carbon-chrome-bowling-ball-16465.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-carbon-chrome-bowling-ball-16465.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Pearl",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -26569,7 +27767,15 @@
    "name": "Tropical Surge Pink/Purple",
    "release": "2019-03-19",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-pink-purple-bowling-ball-27320.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-pink-purple-bowling-ball-27320.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Pearl Reactive",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
@@ -26645,14 +27851,30 @@
    "name": "Tropical Surge Teal/Blue",
    "release": "2019-03-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-teal-blue-bowling-ball-16470.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-pearl-teal-blue-bowling-ball-16470.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Pearl Reactive",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
    "name": "Tropical Surge Violet/Charcoal",
    "release": "2019-03-12",
    "src": "USBC",
-   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-violet-charcoal-bowling-ball-16473.jpg"
+   "img": "https://cdn-images.bowling.com/productimages/storm-tropical-surge-violet-charcoal-bowling-ball-16473.jpg",
+   "checked": "2026-11-19",
+   "coverstock": "Reactor Pearl",
+   "rg": 2.58,
+   "diff": 0.024,
+   "kern": "Surge",
+   "finish": "1500-grit Polished",
+   "kernSrc": "bowling.com · KI",
+   "layouts": []
   },
   {
    "brand": "Storm",
