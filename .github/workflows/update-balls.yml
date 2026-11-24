@@ -13,6 +13,10 @@ on:
         description: 'Wie viele Bälle Gemini pro Lauf höchstens ergänzt (Standard 150; bei Kontingent-Fehler bricht das Skript von selbst ab)'
         required: false
         default: '150'
+      diagnose:
+        description: 'Nur Diagnose: Warum finden wir für neue Bälle keine Herstellerseite? (nichts speichern, kein Gemini)'
+        type: boolean
+        default: false
       nur_pruefen:
         description: 'Nur anzeigen, was importiert würde (nichts speichern, kein Gemini)'
         type: boolean
@@ -29,9 +33,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Sitemap-Diagnose
+        if: ${{ inputs.diagnose }}
+        run: node scripts/diagnose-sitemaps.js
       - name: poppler installieren
+        if: ${{ !inputs.diagnose }}
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: USBC-Liste laden und neue Bälle übernehmen
+        if: ${{ !inputs.diagnose }}
         run: |
           UA="Mozilla/5.0"
           URL=$(curl -sL -A "$UA" https://bowl.com/approvedballlist | grep -oE '(https://bowl\.com)?/getmedia/[A-Za-z0-9-]+/approved_balllist_CURRENT\.pdf' | head -1 || true)
@@ -43,7 +52,7 @@ jobs:
           node scripts/import-usbc.js usbc.txt ${{ inputs.tage || 75 }} ${{ inputs.nur_pruefen && '--dry' || '' }}
           node scripts/validate-balls.js
       - name: Gemini ergänzt Coverstock, Fotos, Layoutvorschläge
-        if: ${{ !inputs.nur_pruefen }}
+        if: ${{ !inputs.nur_pruefen && !inputs.diagnose }}
         continue-on-error: true
         timeout-minutes: 150
         env:
@@ -52,12 +61,13 @@ jobs:
           node scripts/gemini-enrich.js ${{ inputs.max || 150 }}
           node scripts/validate-balls.js
       - name: Produktfotos ergänzen
-        if: ${{ !inputs.nur_pruefen }}
+        if: ${{ !inputs.nur_pruefen && !inputs.diagnose }}
         continue-on-error: true
         run: |
           node scripts/find-images.js
           node scripts/validate-balls.js
       - name: Committen
+        if: ${{ !inputs.diagnose }}
         run: |
           if git diff --quiet balls.json; then echo "Nichts Neues"; exit 0; fi
           git config user.name "balls-bot"; git config user.email "balls-bot@users.noreply.github.com"
